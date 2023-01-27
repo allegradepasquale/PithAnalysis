@@ -1,0 +1,204 @@
+---
+title: "PithAnalysis"
+author: "Allegra DePasquale"
+date: "3/3/2021"
+output: html_document
+---
+```{r}
+###library statements
+library(rsq)
+library(ggplot2)
+library(tidyverse)
+library(viridis)
+library(ggpubr)
+library(RColorBrewer)
+
+```
+
+###MODELLING & PLOTTING PITH PATCH VISITS AS A FUNCTION OF FRUIT BIOMASS
+```{r}
+FPV <- read.csv("PithByMonth_WithZeroes.csv")
+biomassData <- read.csv("FruitBiomass.csv")
+#FPV_no0 <- read.csv("PithByMonth.csv")
+
+#Renaming columns
+FPV <- FPV %>% 
+           rename(Year = YearOfFPV,)
+
+FPV <- FPV %>% 
+           rename(Month = MonthOfFPV,)
+
+biomassData <- biomassData %>% 
+           rename(Year = ï..Year,)
+
+#Summarizing data by month and year          
+FPV <- FPV %>% group_by(Month, Year) %>%
+  summarise(Count = sum(CountOfTaxon))
+
+#Joining FPV data with fruit biomass data
+FPV <- FPV %>% left_join(., biomassData, by = c( "Year" = "Year",
+                                                          "Month" = "Month"))
+
+#Setting as factor
+FPV$Year <- as.factor(FPV$Year)
+FPV$Month <- as.factor(FPV$Month)
+
+#Storing colors by year
+cols <- c("2018"= "#3e8672", "2019"= "#ffa93a", "2020"="#af3f23", "2021"="#7caaf0")
+
+#plotting yearly pith patch visits by month + fruit biomass
+pith_patch_biomass <- ggplot(FPV, aes(x=Biomass, y=Count)) + 
+  geom_point(aes(fill=Year), pch=21, size =3,colour="black") +
+  geom_smooth(method=lm) +
+  scale_fill_manual(values = cols) +
+  labs(y = "Number of monthly pith patch visits", x = "Monthly Fruit Biomass (kg/ha)") +
+  theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
+
+ggsave("pith_patch_biomass_plot.pdf", plot = pith_patch_biomass)
+
+
+#Getting regression summary
+FPVmodel <- lm(formula = Count ~ Biomass, data = FPV)
+summary(FPVmodel)
+
+#Plotting yearly pith patch visits by month + fruit biomass
+
+#Making sure variables are specified correctly
+FPV$Month <- as.factor(FPV$Month)
+FPV$Year <- as.factor(FPV$Year)
+biomassData$Month <- as.factor(biomassData$Month)
+biomassData$Year <- as.factor(biomassData$Year)
+
+#Excluding 2021 bc incomplete
+FPV <- FPV[FPV$Year != "2021",]
+biomassData <- biomassData[biomassData$Year != "2021",]
+
+#Plotting yearly pith patch visits by month + fruit biomass
+pith_by_month_biomass <- FPV %>% ggplot(aes(x = Month, group=1)) +
+geom_bar(aes(y=Count*2, col = "Count", fill = "Count"), color = "black", fill = "mediumseagreen", stat = "identity") +
+geom_line(aes(y=Biomass, col = "Biomass"), color = "mediumslateblue", size =1)  +
+facet_grid(rows = vars(Year), switch = "y") +
+scale_y_continuous(sec.axis = sec_axis(~./2, name= "Fruit Biomass"))+
+theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), legend.position ="none") 
+
+#Saving plot
+ggsave(file = "pith_by_month_biomass.pdf", plot = pith_by_month_biomass)
+
+```
+
+
+###RELATIVE PITH ANALYSIS###
+
+
+```{r}
+#Reading in data
+relative <- read.csv("relative_pith.csv")
+
+#Re-leveling factor for plotting
+relative$Species <- factor(relative$Species , levels=c("Ateleia herbert-smithii", "Glircidia sepium", "Lonchocarpus miniflorus", "Luehea speciosa", "Rhedera trinervis", "Stemmadenia obovata", "Tabebuia ochracea", "Bursera simaruba", "Cochlospermum vitifolium", "Mabea occidentalis", "Spondias mombin", "Trichilia americana"))
+
+#Plotting relative pith
+relative_pith_plot <- ggplot(relative, aes(x=Species, y = Average.Relative.Pith, fill = DietCategory)) + 
+    geom_boxplot() + 
+   scale_fill_brewer(palette="Dark2") +
+    theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust =1), plot.margin = margin(10, 10, 10, 100), legend.position = "bottom")
+
+
+#Saving plot
+ggsave(file="relative_pith_plot.pdf", plot = relative_pith_plot)
+
+#Comparing means 
+compare_means(Average.Relative.Pith ~ DietCategory, data = relative)
+
+#Wilcoxon test
+wilcox.test(Average.Relative.Pith ~ DietCategory, data = relative)
+```
+
+###MECHANICAL ANALYSIS###
+
+```{r}
+
+#Reading in data
+mechanical <- read.csv("pith_mechanical.csv")
+
+#Renaming columns
+mechanical <- mechanical %>% 
+           rename(
+           Species = Species.Code,)
+
+mechanical <- mechanical %>% 
+           rename(
+           Hardness = Indentation.Hardness..GPa.,)
+
+
+#Setting as factor
+mechanical$Species <- as.factor(mechanical$Species)
+
+#Ordering levels correctly
+
+mechanical$Species <- factor(mechanical$Species , levels=c("AHER", "GSEP", "LMIN", "LSPE", "RTRI", "SOBO", "TOCH", "BSIM", "CVIT", "MOCC", "SMOM", "TAME"))
+
+#Changing level names to be full species names
+
+levels(mechanical$Species) <- c("Ateleia herbert-smithii", "Glircidia sepium", "Lonchocarpus miniflorus", "Luehea speciosa", "Rehdera trinervis", "Stemmadenia obovata", "Tabebuia ochracea", "Bursera simaruba", "Cochlospermum vitifolium", "Mabea occidentalis", "Spondias mombin", "Trichilia americana")
+
+#Plotting hardness boxplots
+mechanical_plot <- ggplot(mechanical, aes(x=Species, y=Hardness, fill=DietCategory)) + 
+    geom_boxplot() + 
+    scale_fill_brewer(palette="Dark2") +
+    labs(y = "Hardness (GPa)") +
+    facet_grid(Surface ~.) +
+    theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust =1), plot.margin = margin(10, 10, 10, 100), legend.position = "bottom")
+
+ggsave(file="mechanical_plot.pdf", plot = mechanical_plot)
+
+#Comparing means (Wilcox test, same results as below)
+compare_means(Hardness ~ DietCategory, data = mechanical, 
+              group.by = "Surface")
+
+
+#Wilcoxon tests for inner and outer branch hardness
+mech_outer <- mechanical[mechanical$Surface != "Inner",]
+mech_inner <- mechanical[mechanical$Surface != "Outer",]
+
+wilcox.test(Hardness ~ DietCategory, data = mech_outer)
+wilcox.test(Hardness ~ DietCategory, data = mech_inner)
+
+```
+
+###NUTRITIONAL ANALYSIS###
+
+```{r}
+df_nutrition <- read.csv("PithNutrition.csv")
+
+
+df_nutrition1 <- gather(df_nutrition, key = "Nutrient", value = "Percent",
+       CP, AP, NDF, ADF, Lignin, WSC, Fat, Ash)
+
+
+df_nutrition1$Nutrient <- as.factor(df_nutrition1$Nutrient)
+df_nutrition1$DietCategory <- as.factor(df_nutrition1$DietCategory)
+
+df_nutrition1$Nutrient <- factor(df_nutrition1$Nutrient, levels=c("ADF", "AP", "Ash", "CP", "Fat", "Lignin", "NDF", "WSC"))
+
+levels(df_nutrition1$Nutrient) <- c("Acid detergent fiber", "Available protein", "Ash", "Crude protein", "Crude fat", "Lignin", "Neutral detergent fiber", "Water-soluble carbohydrates")
+
+
+bxp <- ggboxplot(df_nutrition1, x = "Nutrient", y = "Percent", fill = "DietCategory") + 
+  scale_fill_brewer(palette="Dark2") +
+   theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust =1), plot.margin = margin(10, 10, 10, 100), legend.position = "bottom")
+
+ggsave(file = "pith_nutrition_plot.pdf", plot = bxp)
+
+
+compare_means(Percent ~ DietCategory, data = df_nutrition1, 
+              group.by = "Nutrient")
+
+wilcox.test(Percent ~ DietCategory, data = df_nutrition1)
+
+```
