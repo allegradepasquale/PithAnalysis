@@ -201,4 +201,91 @@ compare_means(Percent ~ DietCategory, data = df_nutrition1,
 
 wilcox.test(Percent ~ DietCategory, data = df_nutrition1)
 
-```
+
+
+###CHEMICAL ANALYSIS###
+
+### Datasets
+# 122 good peaks
+#odor<-read.csv(file.choose(), header=T, na.strings="NA", sep=",")   #PithOdor.csv
+odor <- read.csv("PithOdor.csv")
+head(odor)
+odor[,c(1:6)]<- lapply(odor[,c(1:6)], factor)
+str(odor)
+
+# Calculate log(x+1)-transformed relative peak areas
+odor2<- data.frame(odor %>%
+                    group_by(Sample) %>%
+                    summarise(Area=Area,
+                              SumArea=sum(Area),
+                              logRPA=round(log(((Area/sum(Area))*100)+1), digits=3)) %>%
+                    add_tally(name="Npeak") )
+head(odor2)
+
+odor<- odor %>% arrange(Sample, Area)
+odor2<- odor2 %>% arrange(Sample, Area)
+odorRPA<- cbind(odor, odor2[,-(1:2)])
+head(odorRPA)
+
+# Sample list dataset including number of peaks
+odor.spl<-unique(odorRPA[,c(1:3, 11)])
+odor.spl<-arrange(odor.cla, Sample)
+head(odor.spl)
+
+hist(odor.spl$Npeak)
+shapiro.test(odor.spl$Npeak) # normal distribution
+
+
+### Testing the effect of diet on sample odor richness
+# Model on number of peaks
+Nmod<- glm(Npeak~Diet, data=odor.spl, family=poisson(link="log"))
+
+#Plot residuals
+dev.new()
+par(mfrow = c(2, 2))
+plot(Nmod) # no obvious violation
+
+# Test on model
+summary(Nmod)
+
+# Boxplot (Allegra you will need to make it go together with the rest of the plots)
+odor_plot <- 
+  ggplot(odor.spl, aes(x=Species, y=Npeak, fill=Diet)) + 
+  geom_boxplot() + 
+  scale_fill_brewer(palette="Dark2") +
+  ggtitle("Odor richness")  +
+  labs(y = "Number of VOCs") +
+  theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+                     panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust =1), legend.position = "bottom")
+
+plot(odor_plot)
+
+
+
+### Testing the effect of diet on sample odor composition 
+# Calculate Bray-Curtis dissimilarity index
+library(vegan)
+
+odor.mat<- xtabs(logRPA~Sample+Peak, odorRPA)
+odor.vdim<-vegdist(odor.mat, method="bray")
+
+# Analysis of similarity ANOSIM
+anosim(odor.vdim, odor.cla2$Species, permutations=999, distance="bray") #R=0.75, P=0.001
+anosim(odor.vdim, odor.cla2$Diet, permutations=999, distance="bray") #R=0.44, P=0.001
+
+
+### Sample composition
+# I will finish this before the 7th!
+
+
+
+
+
+
+
+
+
+
+
+
+
