@@ -1,0 +1,2056 @@
+Species,Sample,Diet,Search,Peak,Class,RT,Area
+BSIM,BSIM4,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9573,26809009
+BSIM,BSIM3,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9667,25135541
+CVIT,CVIT5,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9466,21390928
+CVIT,CVIT4,Dietary,Search1,P001-RT-1.94,Aliphatics,1.945,7808447
+SMOM,SMOM4,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9311,6408915
+TAME,TAME5,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9566,6280118
+SMOM,SMOM3,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9339,5434649
+GSEP,GSEP2,Non-dietary,Search1,P001-RT-1.94,Aliphatics,1.9448,4902740
+GSEP,GSEP1,Non-dietary,Search1,P001-RT-1.94,Aliphatics,1.9422,4665954
+BSIM,BSIM1,Dietary,Search2,P001-RT-1.94,Aliphatics,1.9263,2529523
+SMOM,SMOM5,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9304,1865871
+GSEP,GSEP4,Non-dietary,Search1,P001-RT-1.94,Aliphatics,1.9412,1074576
+TAME,TAME2,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9345,1013703
+SMOM,SMOM1,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9413,922113
+TAME,TAME4,Dietary,Search1,P001-RT-1.94,Aliphatics,1.94,747207
+GSEP,GSEP3,Non-dietary,Search1,P001-RT-1.94,Aliphatics,1.9474,487627
+TAME,TAME3,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9503,226224
+AHER,AHER2,Non-dietary,Search1,P001-RT-1.94,Aliphatics,1.9536,170542
+AHER,AHER1,Non-dietary,Search2,P001-RT-1.94,Aliphatics,1.9436,84052
+SOBO,SOBO2,Non-dietary,Search2,P001-RT-1.94,Aliphatics,1.9766,38532
+CVIT,CVIT2,Dietary,Search1,P001-RT-1.94,Aliphatics,1.9884,31981
+SOBO,SOBO5,Non-dietary,Search2,P001-RT-1.94,Aliphatics,1.9459,29212
+SOBO,SOBO1,Non-dietary,Search2,P001-RT-1.94,Aliphatics,1.9561,13678
+GSEP,GSEP5,Non-dietary,Search2,P001-RT-1.94,Aliphatics,1.9627,10232
+AHER,AHER5,Non-dietary,Search2,P001-RT-1.94,Aliphatics,1.9008,1364
+BSIM,BSIM3,Dietary,Search1,P006-RT-2.39,Aliphatics,2.3664,1039974
+CVIT,CVIT2,Dietary,Search1,P006-RT-2.39,Aliphatics,2.4955,335547
+AHER,AHER2,Non-dietary,Search1,P006-RT-2.39,Aliphatics,2.3904,241922
+AHER,AHER5,Non-dietary,Search1,P006-RT-2.39,Aliphatics,2.3814,135633
+SOBO,SOBO5,Non-dietary,Search1,P006-RT-2.39,Aliphatics,2.3788,98083
+CVIT,CVIT3,Dietary,Search1,P006-RT-2.39,Aliphatics,2.3831,64073
+GSEP,GSEP5,Non-dietary,Search1,P006-RT-2.39,Aliphatics,2.4057,31443
+BSIM,BSIM2,Dietary,Search1,P006-RT-2.39,Aliphatics,2.3986,15404
+SOBO,SOBO2,Non-dietary,Search2,P006-RT-2.39,Aliphatics,2.425,3142
+SOBO,SOBO2,Non-dietary,Search1,P008-RT-2.82,Aliphatics,2.7187,2103912
+CVIT,CVIT2,Dietary,Search1,P008-RT-2.82,Aliphatics,2.8263,847440
+SOBO,SOBO5,Non-dietary,Search1,P008-RT-2.82,Aliphatics,2.7034,539815
+CVIT,CVIT1,Dietary,Search1,P008-RT-2.82,Aliphatics,2.705,485413
+AHER,AHER2,Non-dietary,Search1,P008-RT-2.82,Aliphatics,2.9789,169130
+AHER,AHER4,Non-dietary,Search1,P008-RT-2.82,Aliphatics,2.6712,158545
+AHER,AHER3,Non-dietary,Search2,P008-RT-2.82,Aliphatics,2.7943,111681
+GSEP,GSEP5,Non-dietary,Search1,P008-RT-2.82,Aliphatics,2.9888,110589
+BSIM,BSIM3,Dietary,Search2,P008-RT-2.82,Aliphatics,2.8946,24363
+AHER,AHER1,Non-dietary,Search2,P008-RT-2.82,Aliphatics,2.9072,8820
+SMOM,SMOM5,Dietary,Search2,P008-RT-2.82,Aliphatics,2.7481,5415
+GSEP,GSEP3,Non-dietary,Search2,P008-RT-2.82,Aliphatics,2.7622,5082
+GSEP,GSEP5,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8339,16412645
+GSEP,GSEP3,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.7926,13610124
+GSEP,GSEP4,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8067,12224558
+AHER,AHER5,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8284,11554988
+CVIT,CVIT4,Dietary,Search1,P013-RT-3.84,Aliphatics,3.7994,10990818
+GSEP,GSEP1,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8105,10919621
+AHER,AHER3,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8229,10243944
+CVIT,CVIT2,Dietary,Search1,P013-RT-3.84,Aliphatics,3.851,10140758
+CVIT,CVIT3,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8311,9751437
+BSIM,BSIM2,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8201,9309481
+AHER,AHER4,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8178,9293598
+BSIM,BSIM1,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8226,9066521
+AHER,AHER2,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.9159,8106883
+SOBO,SOBO3,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8182,8023330
+TAME,TAME1,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8186,7735405
+SMOM,SMOM5,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8017,7718924
+GSEP,GSEP2,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8122,7709350
+TAME,TAME2,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8211,7278698
+SMOM,SMOM1,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8833,6752494
+SMOM,SMOM4,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8009,6735452
+TAME,TAME3,Dietary,Search1,P013-RT-3.84,Aliphatics,3.823,6699812
+CVIT,CVIT5,Dietary,Search1,P013-RT-3.84,Aliphatics,3.7952,6657571
+BSIM,BSIM5,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8034,6437578
+AHER,AHER1,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8206,6380482
+SOBO,SOBO1,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8168,6052094
+TAME,TAME4,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8166,5745534
+SMOM,SMOM3,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8095,5403749
+BSIM,BSIM4,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8175,5268389
+SOBO,SOBO5,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8254,5262136
+SOBO,SOBO2,Non-dietary,Search1,P013-RT-3.84,Aliphatics,3.8387,4992216
+TAME,TAME5,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8207,4987111
+CVIT,CVIT1,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8236,4644564
+BSIM,BSIM3,Dietary,Search1,P013-RT-3.84,Aliphatics,3.8298,3670850
+TAME,TAME3,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1576,43759094
+BSIM,BSIM2,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1634,41040625
+TAME,TAME4,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1257,39594915
+TAME,TAME1,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1508,21563484
+TAME,TAME2,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1534,19661428
+BSIM,BSIM1,Dietary,Search1,P016-RT-4.18,Aliphatics,4.152,12115568
+BSIM,BSIM3,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1919,9785108
+SMOM,SMOM1,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1563,9670122
+CVIT,CVIT3,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1586,7587344
+SMOM,SMOM5,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1315,6720952
+AHER,AHER1,Non-dietary,Search1,P016-RT-4.18,Aliphatics,4.1543,3818055
+SMOM,SMOM3,Dietary,Search1,P016-RT-4.18,Aliphatics,4.135,3724377
+AHER,AHER5,Non-dietary,Search1,P016-RT-4.18,Aliphatics,4.1563,3455563
+TAME,TAME5,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1202,2481391
+CVIT,CVIT4,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1481,2052390
+AHER,AHER3,Non-dietary,Search1,P016-RT-4.18,Aliphatics,4.1609,2026648
+BSIM,BSIM5,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1429,1711645
+AHER,AHER4,Non-dietary,Search1,P016-RT-4.18,Aliphatics,4.1491,1537270
+AHER,AHER2,Non-dietary,Search1,P016-RT-4.18,Aliphatics,4.1836,1320194
+SMOM,SMOM4,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1341,1290281
+BSIM,BSIM4,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1209,807230
+CVIT,CVIT2,Dietary,Search1,P016-RT-4.18,Aliphatics,4.1861,515583
+SOBO,SOBO5,Non-dietary,Search2,P016-RT-4.18,Aliphatics,4.1437,103334
+GSEP,GSEP4,Non-dietary,Search2,P016-RT-4.18,Aliphatics,4.2617,5571
+CVIT,CVIT2,Dietary,Search1,P017-RT-4.41,Aliphatics,4.4197,1227065
+BSIM,BSIM4,Dietary,Search1,P017-RT-4.41,Aliphatics,4.3901,967598
+BSIM,BSIM3,Dietary,Search1,P017-RT-4.41,Aliphatics,4.4013,886795
+GSEP,GSEP5,Non-dietary,Search1,P017-RT-4.41,Aliphatics,4.4012,831131
+BSIM,BSIM1,Dietary,Search1,P017-RT-4.41,Aliphatics,4.4216,808650
+SMOM,SMOM3,Dietary,Search1,P017-RT-4.41,Aliphatics,4.3931,747887
+TAME,TAME3,Dietary,Search1,P017-RT-4.41,Aliphatics,4.4042,746987
+TAME,TAME5,Dietary,Search1,P017-RT-4.41,Aliphatics,4.3961,684338
+AHER,AHER2,Non-dietary,Search1,P017-RT-4.41,Aliphatics,4.4326,635407
+CVIT,CVIT3,Dietary,Search1,P017-RT-4.41,Aliphatics,4.4321,412235
+SMOM,SMOM4,Dietary,Search1,P017-RT-4.41,Aliphatics,4.3773,407149
+GSEP,GSEP4,Non-dietary,Search1,P017-RT-4.41,Aliphatics,4.3759,377931
+AHER,AHER5,Non-dietary,Search1,P017-RT-4.41,Aliphatics,4.4043,347782
+SMOM,SMOM1,Dietary,Search1,P017-RT-4.41,Aliphatics,4.4221,334807
+SOBO,SOBO2,Non-dietary,Search1,P017-RT-4.41,Aliphatics,4.4098,334051
+SMOM,SMOM5,Dietary,Search1,P017-RT-4.41,Aliphatics,4.3925,329926
+TAME,TAME4,Dietary,Search1,P017-RT-4.41,Aliphatics,4.3891,275198
+AHER,AHER3,Non-dietary,Search1,P017-RT-4.41,Aliphatics,4.4239,259092
+AHER,AHER4,Non-dietary,Search1,P017-RT-4.41,Aliphatics,4.4139,225158
+GSEP,GSEP1,Non-dietary,Search1,P017-RT-4.41,Aliphatics,4.4139,218783
+CVIT,CVIT4,Dietary,Search1,P017-RT-4.41,Aliphatics,4.4086,173893
+GSEP,GSEP3,Non-dietary,Search1,P017-RT-4.41,Aliphatics,4.3893,64222
+BSIM,BSIM2,Dietary,Search1,P017-RT-4.41,Aliphatics,4.3936,23373
+TAME,TAME3,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.799,3916789
+TAME,TAME4,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7888,3801743
+BSIM,BSIM2,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.8019,3694758
+TAME,TAME1,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7956,2130144
+TAME,TAME2,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7914,1654508
+SMOM,SMOM1,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.8021,703696
+BSIM,BSIM3,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.8381,694279
+BSIM,BSIM1,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7958,535810
+CVIT,CVIT3,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.8086,457572
+TAME,TAME5,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7799,320328
+AHER,AHER4,Non-dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7919,291215
+SMOM,SMOM5,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7739,272492
+AHER,AHER5,Non-dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.8011,220297
+AHER,AHER2,Non-dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.8323,169551
+AHER,AHER3,Non-dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.8144,149596
+SMOM,SMOM3,Dietary,Search2,P020-RT-4.79,Nitrogen-containing compounds,4.7813,119754
+GSEP,GSEP4,Non-dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7654,99369
+BSIM,BSIM5,Dietary,Search2,P020-RT-4.79,Nitrogen-containing compounds,4.7901,78184
+SOBO,SOBO1,Non-dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7798,66304
+GSEP,GSEP1,Non-dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7813,58228
+AHER,AHER1,Non-dietary,Search2,P020-RT-4.79,Nitrogen-containing compounds,4.8088,27434
+CVIT,CVIT1,Dietary,Search1,P020-RT-4.79,Nitrogen-containing compounds,4.7818,22819
+SOBO,SOBO3,Non-dietary,Search2,P020-RT-4.79,Nitrogen-containing compounds,4.8096,15043
+BSIM,BSIM3,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8858,161247009
+SMOM,SMOM1,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8878,18935985
+BSIM,BSIM2,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8896,18587300
+BSIM,BSIM5,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8633,10605779
+CVIT,CVIT2,Dietary,Search1,P021-RT-4.90,Terpenoids,4.9133,9386803
+BSIM,BSIM1,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8853,9212235
+BSIM,BSIM4,Dietary,Search1,P021-RT-4.90,Terpenoids,4.848,8693143
+SMOM,SMOM5,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8582,6244375
+SMOM,SMOM3,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8612,4923933
+CVIT,CVIT3,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8905,4256610
+SMOM,SMOM4,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8492,3661991
+TAME,TAME3,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8843,2285859
+CVIT,CVIT4,Dietary,Search1,P021-RT-4.90,Terpenoids,4.867,2218903
+TAME,TAME2,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8858,1609967
+TAME,TAME1,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8832,1550764
+TAME,TAME5,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8536,980282
+AHER,AHER2,Non-dietary,Search1,P021-RT-4.90,Terpenoids,4.9141,838265
+AHER,AHER4,Non-dietary,Search1,P021-RT-4.90,Terpenoids,4.881,586489
+CVIT,CVIT5,Dietary,Search1,P021-RT-4.90,Terpenoids,4.8628,548737
+AHER,AHER1,Non-dietary,Search1,P021-RT-4.90,Terpenoids,4.8901,509897
+GSEP,GSEP1,Non-dietary,Search1,P021-RT-4.90,Terpenoids,4.8843,183374
+AHER,AHER3,Non-dietary,Search1,P021-RT-4.90,Terpenoids,4.8972,117834
+GSEP,GSEP3,Non-dietary,Search1,P021-RT-4.90,Terpenoids,4.8612,111960
+GSEP,GSEP4,Non-dietary,Search1,P021-RT-4.90,Terpenoids,4.8396,75979
+GSEP,GSEP5,Non-dietary,Search2,P021-RT-4.90,Terpenoids,4.9001,20590
+BSIM,BSIM1,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0948,7096695
+CVIT,CVIT4,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0779,6766109
+GSEP,GSEP2,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0719,6206575
+SMOM,SMOM5,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0676,5280358
+SMOM,SMOM4,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0649,3955996
+GSEP,GSEP4,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0616,3869581
+AHER,AHER4,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0958,3850061
+GSEP,GSEP3,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0716,3507507
+CVIT,CVIT5,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0776,3336052
+GSEP,GSEP1,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0957,3217951
+AHER,AHER1,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.101,2637898
+TAME,TAME2,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0909,2635348
+TAME,TAME3,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0966,2326328
+SMOM,SMOM1,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0963,2200526
+BSIM,BSIM3,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0649,2041410
+SMOM,SMOM3,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0687,1976932
+BSIM,BSIM2,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0952,1807024
+CVIT,CVIT3,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.1019,1670496
+SOBO,SOBO1,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0933,1621243
+TAME,TAME4,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0897,1536769
+AHER,AHER2,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.1092,1436444
+TAME,TAME1,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0971,1356390
+TAME,TAME5,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0895,1163397
+BSIM,BSIM5,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0713,1089049
+AHER,AHER3,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.1057,1024659
+SOBO,SOBO5,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.1115,949969
+GSEP,GSEP5,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0912,761438
+SOBO,SOBO2,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0753,737217
+CVIT,CVIT2,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.1174,527972
+SOBO,SOBO3,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.1106,402959
+CVIT,CVIT1,Dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.0943,260696
+AHER,AHER5,Non-dietary,Search1,P023-RT-5.10,Benzenoids and Phenylpropanoids,5.1122,64527
+BSIM,BSIM3,Dietary,Search1,P026-RT-5.46,Terpenoids,5.4559,1433692
+SMOM,SMOM1,Dietary,Search1,P026-RT-5.46,Terpenoids,5.457,325065
+CVIT,CVIT2,Dietary,Search1,P026-RT-5.46,Terpenoids,5.4694,191609
+BSIM,BSIM2,Dietary,Search1,P026-RT-5.46,Terpenoids,5.4564,155417
+TAME,TAME3,Dietary,Search1,P026-RT-5.46,Terpenoids,5.4588,48359
+BSIM,BSIM5,Dietary,Search1,P026-RT-5.46,Terpenoids,5.4397,44245
+TAME,TAME1,Dietary,Search2,P026-RT-5.46,Terpenoids,5.4495,23616
+SMOM,SMOM5,Dietary,Search2,P026-RT-5.46,Terpenoids,5.4115,1896
+GSEP,GSEP2,Non-dietary,Search1,P028-RT-5.66,Aliphatics,5.6474,2688199
+GSEP,GSEP1,Non-dietary,Search1,P028-RT-5.66,Aliphatics,5.6644,1390970
+GSEP,GSEP3,Non-dietary,Search1,P028-RT-5.66,Aliphatics,5.6514,1067158
+AHER,AHER4,Non-dietary,Search1,P028-RT-5.66,Aliphatics,5.6678,627805
+GSEP,GSEP4,Non-dietary,Search1,P028-RT-5.66,Aliphatics,5.6336,398217
+GSEP,GSEP5,Non-dietary,Search1,P028-RT-5.66,Aliphatics,5.6657,237173
+AHER,AHER1,Non-dietary,Search1,P028-RT-5.66,Aliphatics,5.6712,223092
+AHER,AHER3,Non-dietary,Search1,P028-RT-5.66,Aliphatics,5.6797,206286
+AHER,AHER5,Non-dietary,Search1,P028-RT-5.66,Aliphatics,5.6799,168107
+TAME,TAME3,Dietary,Search1,P028-RT-5.66,Aliphatics,5.6735,76719
+SOBO,SOBO2,Non-dietary,Search1,P028-RT-5.66,Aliphatics,5.6662,6141
+SMOM,SMOM1,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6915,625148
+BSIM,BSIM3,Dietary,Search1,P029-RT-5.71,Aliphatics,5.7058,614168
+BSIM,BSIM1,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6909,476585
+TAME,TAME4,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6873,417584
+CVIT,CVIT1,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6948,302303
+SMOM,SMOM5,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6729,267390
+TAME,TAME1,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6893,265861
+BSIM,BSIM2,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6856,253104
+AHER,AHER1,Non-dietary,Search1,P029-RT-5.71,Aliphatics,5.7107,173542
+TAME,TAME5,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6895,156590
+CVIT,CVIT2,Dietary,Search1,P029-RT-5.71,Aliphatics,5.7083,155750
+SOBO,SOBO1,Non-dietary,Search1,P029-RT-5.71,Aliphatics,5.6919,113620
+AHER,AHER4,Non-dietary,Search1,P029-RT-5.71,Aliphatics,5.6958,112331
+TAME,TAME2,Dietary,Search1,P029-RT-5.71,Aliphatics,5.689,102549
+SMOM,SMOM3,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6803,96582
+BSIM,BSIM5,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6882,57271
+BSIM,BSIM4,Dietary,Search1,P029-RT-5.71,Aliphatics,5.6878,28382
+AHER,AHER3,Non-dietary,Search2,P029-RT-5.71,Aliphatics,5.7871,3886
+SOBO,SOBO5,Non-dietary,Search2,P029-RT-5.71,Aliphatics,5.7948,3602
+BSIM,BSIM3,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9538,69989710
+SMOM,SMOM1,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9457,15226014
+CVIT,CVIT2,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9596,9623070
+BSIM,BSIM2,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9398,9341304
+CVIT,CVIT3,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9508,7355597
+SMOM,SMOM3,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9211,5221031
+BSIM,BSIM4,Dietary,Search1,P031-RT-5.99,Terpenoids,6.0947,3651415
+BSIM,BSIM5,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9304,3529616
+CVIT,CVIT5,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9246,2946822
+BSIM,BSIM1,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9423,2599069
+SMOM,SMOM5,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9166,1991262
+CVIT,CVIT4,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9278,1331187
+SMOM,SMOM4,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9167,929055
+TAME,TAME3,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9427,525764
+AHER,AHER4,Non-dietary,Search1,P031-RT-5.99,Terpenoids,5.9462,478416
+GSEP,GSEP4,Non-dietary,Search1,P031-RT-5.99,Terpenoids,5.912,414425
+GSEP,GSEP1,Non-dietary,Search1,P031-RT-5.99,Terpenoids,5.9384,314455
+AHER,AHER1,Non-dietary,Search1,P031-RT-5.99,Terpenoids,5.9534,310236
+TAME,TAME1,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9407,269393
+GSEP,GSEP3,Non-dietary,Search1,P031-RT-5.99,Terpenoids,6.0896,244793
+GSEP,GSEP5,Non-dietary,Search1,P031-RT-5.99,Terpenoids,6.1,238474
+TAME,TAME2,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9379,235222
+AHER,AHER2,Non-dietary,Search1,P031-RT-5.99,Terpenoids,5.9658,234880
+TAME,TAME4,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9358,204556
+GSEP,GSEP2,Non-dietary,Search1,P031-RT-5.99,Terpenoids,5.9262,184242
+AHER,AHER3,Non-dietary,Search1,P031-RT-5.99,Terpenoids,5.9547,110529
+AHER,AHER5,Non-dietary,Search1,P031-RT-5.99,Terpenoids,5.9486,97917
+TAME,TAME5,Dietary,Search1,P031-RT-5.99,Terpenoids,5.9404,82541
+GSEP,GSEP2,Non-dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1751,1892333
+GSEP,GSEP3,Non-dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1787,1638361
+BSIM,BSIM2,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.2856,873076
+GSEP,GSEP1,Non-dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1869,614929
+BSIM,BSIM1,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1922,476840
+SMOM,SMOM5,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1708,451133
+GSEP,GSEP4,Non-dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1614,317448
+BSIM,BSIM3,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1903,292341
+SMOM,SMOM4,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.159,207980
+TAME,TAME3,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.2889,204187
+TAME,TAME4,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1857,181333
+TAME,TAME1,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1916,171714
+GSEP,GSEP5,Non-dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1896,167993
+SMOM,SMOM1,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1942,165036
+CVIT,CVIT4,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1797,119572
+TAME,TAME5,Dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1879,112556
+SMOM,SMOM3,Dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1753,111058
+TAME,TAME2,Dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1908,106859
+SOBO,SOBO1,Non-dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.2009,101614
+AHER,AHER4,Non-dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.2919,65890
+AHER,AHER2,Non-dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.2114,37769
+BSIM,BSIM5,Dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1851,30654
+SOBO,SOBO5,Non-dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.3024,29154
+AHER,AHER3,Non-dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.2027,25142
+CVIT,CVIT3,Dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.2046,21620
+AHER,AHER5,Non-dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.2038,16462
+AHER,AHER1,Non-dietary,Search1,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.2018,11331
+CVIT,CVIT1,Dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.2953,10601
+CVIT,CVIT2,Dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.3011,9134
+CVIT,CVIT5,Dietary,Search2,P032-RT-6.22,Benzenoids and Phenylpropanoids,6.1644,1377
+BSIM,BSIM3,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4204,7355217
+BSIM,BSIM2,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4156,6558673
+TAME,TAME3,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4194,5499640
+TAME,TAME1,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4165,3172210
+SMOM,SMOM1,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4181,3026994
+TAME,TAME4,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4135,2952540
+BSIM,BSIM1,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4181,2654282
+SMOM,SMOM5,Dietary,Search1,P034-RT-6.42,Terpenoids,6.3938,2321657
+TAME,TAME2,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4176,2304029
+BSIM,BSIM5,Dietary,Search1,P034-RT-6.42,Terpenoids,6.409,2017032
+SMOM,SMOM4,Dietary,Search1,P034-RT-6.42,Terpenoids,6.394,1998791
+SMOM,SMOM3,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4031,1916173
+CVIT,CVIT4,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4069,1577366
+BSIM,BSIM4,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4058,1514194
+CVIT,CVIT3,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4275,1163615
+AHER,AHER4,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4229,1131073
+AHER,AHER3,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4324,756782
+SOBO,SOBO1,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4272,615418
+TAME,TAME5,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4171,452283
+CVIT,CVIT2,Dietary,Search1,P034-RT-6.42,Terpenoids,6.433,449784
+GSEP,GSEP1,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4142,418491
+CVIT,CVIT5,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4023,384433
+GSEP,GSEP4,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.3872,319120
+AHER,AHER5,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4287,288551
+CVIT,CVIT1,Dietary,Search1,P034-RT-6.42,Terpenoids,6.4229,276096
+AHER,AHER2,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4416,232499
+SOBO,SOBO5,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4406,180089
+SOBO,SOBO3,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4368,94776
+GSEP,GSEP5,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4174,87295
+GSEP,GSEP2,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.399,67748
+GSEP,GSEP3,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4079,28927
+SOBO,SOBO2,Non-dietary,Search1,P034-RT-6.42,Terpenoids,6.4265,24553
+CVIT,CVIT1,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5963,34063311
+CVIT,CVIT3,Dietary,Search1,P038-RT-6.58,Terpenoids,6.599,34005375
+CVIT,CVIT2,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5972,8617272
+BSIM,BSIM3,Dietary,Search1,P038-RT-6.58,Terpenoids,6.6131,6921858
+SMOM,SMOM1,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5838,5092361
+CVIT,CVIT4,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5707,5066763
+BSIM,BSIM4,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5719,932249
+BSIM,BSIM5,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5737,829947
+GSEP,GSEP4,Non-dietary,Search1,P038-RT-6.58,Terpenoids,6.5529,646058
+GSEP,GSEP5,Non-dietary,Search1,P038-RT-6.58,Terpenoids,6.5797,606888
+SMOM,SMOM4,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5582,590788
+CVIT,CVIT5,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5665,507237
+BSIM,BSIM2,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5774,225423
+SMOM,SMOM5,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5585,165072
+AHER,AHER2,Non-dietary,Search1,P038-RT-6.58,Terpenoids,6.6043,84761
+TAME,TAME5,Dietary,Search1,P038-RT-6.58,Terpenoids,6.5808,69249
+AHER,AHER4,Non-dietary,Search1,P038-RT-6.58,Terpenoids,6.5866,43084
+GSEP,GSEP2,Non-dietary,Search1,P039-RT-6.75,Benzenoids and Phenylpropanoids,6.7366,314380
+GSEP,GSEP4,Non-dietary,Search1,P039-RT-6.75,Benzenoids and Phenylpropanoids,6.7229,233405
+GSEP,GSEP3,Non-dietary,Search1,P039-RT-6.75,Benzenoids and Phenylpropanoids,6.7387,225414
+GSEP,GSEP1,Non-dietary,Search1,P039-RT-6.75,Benzenoids and Phenylpropanoids,6.7489,193155
+BSIM,BSIM2,Dietary,Search1,P039-RT-6.75,Benzenoids and Phenylpropanoids,6.7498,130988
+CVIT,CVIT3,Dietary,Search1,P039-RT-6.75,Benzenoids and Phenylpropanoids,6.7637,77773
+SMOM,SMOM1,Dietary,Search1,P039-RT-6.75,Benzenoids and Phenylpropanoids,6.7557,62765
+TAME,TAME3,Dietary,Search1,P040-RT-6.75,Terpenoids,6.7628,250668
+BSIM,BSIM2,Dietary,Search1,P040-RT-6.75,Terpenoids,6.7604,142108
+CVIT,CVIT4,Dietary,Search1,P040-RT-6.75,Terpenoids,6.7469,126241
+SMOM,SMOM4,Dietary,Search1,P040-RT-6.75,Terpenoids,6.7383,115548
+AHER,AHER4,Non-dietary,Search1,P040-RT-6.75,Terpenoids,6.7662,84376
+TAME,TAME2,Dietary,Search1,P040-RT-6.75,Terpenoids,6.7619,71624
+TAME,TAME4,Dietary,Search1,P040-RT-6.75,Terpenoids,6.7568,53019
+TAME,TAME1,Dietary,Search1,P040-RT-6.75,Terpenoids,6.7603,42734
+SMOM,SMOM5,Dietary,Search1,P040-RT-6.75,Terpenoids,6.7395,13472
+BSIM,BSIM3,Dietary,Search1,P041-RT-6.78,Terpenoids,6.8115,210537054
+BSIM,BSIM4,Dietary,Search1,P041-RT-6.78,Terpenoids,6.7693,16992451
+BSIM,BSIM5,Dietary,Search1,P041-RT-6.78,Terpenoids,6.7726,14314518
+BSIM,BSIM1,Dietary,Search1,P041-RT-6.78,Terpenoids,6.7807,748964
+SMOM,SMOM1,Dietary,Search1,P041-RT-6.78,Terpenoids,6.7807,50726
+SMOM,SMOM5,Dietary,Search1,P041-RT-6.78,Terpenoids,6.7559,34134
+SMOM,SMOM1,Dietary,Search1,P042-RT-6.90,Aliphatics,6.9021,4729369
+SMOM,SMOM5,Dietary,Search1,P042-RT-6.90,Aliphatics,6.883,4544745
+TAME,TAME4,Dietary,Search1,P042-RT-6.90,Aliphatics,6.8965,3599118
+TAME,TAME2,Dietary,Search1,P042-RT-6.90,Aliphatics,6.8986,3169987
+GSEP,GSEP4,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.9083,3101415
+SMOM,SMOM3,Dietary,Search1,P042-RT-6.90,Aliphatics,6.889,3073049
+CVIT,CVIT2,Dietary,Search1,P042-RT-6.90,Aliphatics,6.9126,2962996
+BSIM,BSIM2,Dietary,Search1,P042-RT-6.90,Aliphatics,6.8942,2873379
+TAME,TAME5,Dietary,Search1,P042-RT-6.90,Aliphatics,6.8982,2646679
+BSIM,BSIM1,Dietary,Search1,P042-RT-6.90,Aliphatics,6.8996,2637159
+TAME,TAME3,Dietary,Search1,P042-RT-6.90,Aliphatics,6.9,2543425
+TAME,TAME1,Dietary,Search1,P042-RT-6.90,Aliphatics,6.898,2496773
+SMOM,SMOM4,Dietary,Search1,P042-RT-6.90,Aliphatics,6.8818,2397398
+CVIT,CVIT1,Dietary,Search1,P042-RT-6.90,Aliphatics,6.9049,2288813
+AHER,AHER2,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.926,1805608
+BSIM,BSIM5,Dietary,Search1,P042-RT-6.90,Aliphatics,6.8906,1460627
+BSIM,BSIM3,Dietary,Search1,P042-RT-6.90,Aliphatics,6.9092,1448248
+AHER,AHER4,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.9054,1237008
+BSIM,BSIM4,Dietary,Search1,P042-RT-6.90,Aliphatics,6.8892,1102525
+AHER,AHER3,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.9139,1059334
+GSEP,GSEP5,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.8946,1031140
+CVIT,CVIT5,Dietary,Search1,P042-RT-6.90,Aliphatics,6.8857,990904
+CVIT,CVIT4,Dietary,Search1,P042-RT-6.90,Aliphatics,6.8899,922044
+SOBO,SOBO3,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.9284,758548
+SOBO,SOBO2,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.909,550784
+AHER,AHER5,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.9073,477782
+GSEP,GSEP1,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.8933,425216
+CVIT,CVIT3,Dietary,Search1,P042-RT-6.90,Aliphatics,6.9038,391873
+SOBO,SOBO1,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.9034,294015
+SOBO,SOBO5,Non-dietary,Search1,P042-RT-6.90,Aliphatics,6.9269,142791
+BSIM,BSIM3,Dietary,Search1,P044-RT-7.00,Terpenoids,7.0055,50947308
+SOBO,SOBO5,Non-dietary,Search1,P044-RT-7.00,Terpenoids,7.0223,27899634
+SMOM,SMOM1,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9984,21346540
+SOBO,SOBO2,Non-dietary,Search1,P044-RT-7.00,Terpenoids,7.0063,8314727
+SOBO,SOBO1,Non-dietary,Search1,P044-RT-7.00,Terpenoids,7.005,6235270
+SMOM,SMOM3,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9785,5632840
+SMOM,SMOM5,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9716,5031428
+BSIM,BSIM5,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9821,3715008
+TAME,TAME4,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9908,3634823
+BSIM,BSIM2,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9896,3610753
+BSIM,BSIM4,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9803,2198165
+BSIM,BSIM1,Dietary,Search1,P044-RT-7.00,Terpenoids,6.994,1646489
+TAME,TAME1,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9938,1604194
+TAME,TAME2,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9925,1596344
+CVIT,CVIT3,Dietary,Search1,P044-RT-7.00,Terpenoids,7.0006,1551839
+SMOM,SMOM4,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9732,1382266
+CVIT,CVIT1,Dietary,Search1,P044-RT-7.00,Terpenoids,7.0012,1221511
+TAME,TAME5,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9906,1026128
+CVIT,CVIT2,Dietary,Search1,P044-RT-7.00,Terpenoids,7.0079,990352
+GSEP,GSEP5,Non-dietary,Search1,P044-RT-7.00,Terpenoids,6.9899,777542
+TAME,TAME3,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9949,767741
+GSEP,GSEP4,Non-dietary,Search1,P044-RT-7.00,Terpenoids,7.0137,748699
+CVIT,CVIT5,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9772,733151
+AHER,AHER2,Non-dietary,Search1,P044-RT-7.00,Terpenoids,7.0185,663703
+AHER,AHER4,Non-dietary,Search1,P044-RT-7.00,Terpenoids,7.0012,660320
+CVIT,CVIT4,Dietary,Search1,P044-RT-7.00,Terpenoids,6.9809,624289
+AHER,AHER1,Non-dietary,Search1,P044-RT-7.00,Terpenoids,7.0113,437413
+GSEP,GSEP1,Non-dietary,Search1,P044-RT-7.00,Terpenoids,6.9911,342723
+SOBO,SOBO3,Non-dietary,Search1,P044-RT-7.00,Terpenoids,7.0146,224456
+GSEP,GSEP3,Non-dietary,Search1,P044-RT-7.00,Terpenoids,6.9809,200565
+AHER,AHER5,Non-dietary,Search1,P044-RT-7.00,Terpenoids,7.0046,165790
+AHER,AHER3,Non-dietary,Search1,P044-RT-7.00,Terpenoids,7.0083,88657
+GSEP,GSEP2,Non-dietary,Search1,P044-RT-7.00,Terpenoids,6.9798,69504
+BSIM,BSIM3,Dietary,Search1,P046-RT-7.11,Terpenoids,7.1365,107862124
+SMOM,SMOM1,Dietary,Search1,P046-RT-7.11,Terpenoids,7.1154,4708302
+BSIM,BSIM4,Dietary,Search1,P046-RT-7.11,Terpenoids,7.0997,2412370
+CVIT,CVIT3,Dietary,Search1,P046-RT-7.11,Terpenoids,7.121,2048757
+BSIM,BSIM5,Dietary,Search1,P046-RT-7.11,Terpenoids,7.1015,1957796
+CVIT,CVIT5,Dietary,Search1,P046-RT-7.11,Terpenoids,7.0971,794209
+CVIT,CVIT1,Dietary,Search1,P046-RT-7.11,Terpenoids,7.1207,751692
+BSIM,BSIM1,Dietary,Search1,P046-RT-7.11,Terpenoids,7.1149,735034
+BSIM,BSIM2,Dietary,Search1,P046-RT-7.11,Terpenoids,7.109,304257
+GSEP,GSEP5,Non-dietary,Search1,P046-RT-7.11,Terpenoids,7.1103,178631
+CVIT,CVIT2,Dietary,Search1,P046-RT-7.11,Terpenoids,7.1259,144612
+SMOM,SMOM5,Dietary,Search1,P046-RT-7.11,Terpenoids,7.0911,114059
+CVIT,CVIT4,Dietary,Search1,P046-RT-7.11,Terpenoids,7.1004,44915
+SMOM,SMOM4,Dietary,Search1,P046-RT-7.11,Terpenoids,7.0931,42250
+TAME,TAME4,Dietary,Search1,P046-RT-7.11,Terpenoids,7.1112,29611
+TAME,TAME5,Dietary,Search1,P046-RT-7.11,Terpenoids,7.1115,28552
+TAME,TAME1,Dietary,Search1,P046-RT-7.11,Terpenoids,7.1137,21492
+GSEP,GSEP2,Non-dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1507,3479053
+GSEP,GSEP3,Non-dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1514,2104176
+SMOM,SMOM1,Dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.2073,1165095
+GSEP,GSEP1,Non-dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1659,283906
+GSEP,GSEP5,Non-dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1633,282188
+GSEP,GSEP4,Non-dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.2261,269774
+TAME,TAME4,Dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1647,240131
+BSIM,BSIM3,Dietary,Search2,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1678,129277
+TAME,TAME2,Dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1659,120111
+TAME,TAME3,Dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1672,119131
+SMOM,SMOM5,Dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1445,114972
+BSIM,BSIM1,Dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1673,85261
+TAME,TAME1,Dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1681,73082
+AHER,AHER1,Non-dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1938,55094
+SMOM,SMOM3,Dietary,Search2,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1495,48787
+AHER,AHER2,Non-dietary,Search2,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1884,48684
+SMOM,SMOM4,Dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1451,42564
+AHER,AHER4,Non-dietary,Search2,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1779,36106
+SOBO,SOBO5,Non-dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.226,27252
+TAME,TAME5,Dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1673,21169
+CVIT,CVIT1,Dietary,Search2,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1765,13584
+CVIT,CVIT4,Dietary,Search2,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1591,11133
+CVIT,CVIT3,Dietary,Search2,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.172,9187
+BSIM,BSIM2,Dietary,Search1,P048-RT-7.17,Benzenoids and Phenylpropanoids,7.1634,6146
+TAME,TAME4,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3506,1281076
+BSIM,BSIM2,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3473,818017
+SMOM,SMOM1,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3528,574059
+BSIM,BSIM3,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3493,453130
+SMOM,SMOM5,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3304,304064
+TAME,TAME3,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3512,249612
+BSIM,BSIM1,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.359,159444
+AHER,AHER2,Non-dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.371,147891
+SMOM,SMOM4,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3281,129859
+CVIT,CVIT3,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3569,118734
+CVIT,CVIT4,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3377,83141
+CVIT,CVIT5,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3321,80585
+SMOM,SMOM3,Dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3324,74320
+GSEP,GSEP1,Non-dietary,Search1,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3517,57321
+GSEP,GSEP2,Non-dietary,Search2,P051-RT-7.35,Benzenoids and Phenylpropanoids,7.3356,16061
+GSEP,GSEP2,Non-dietary,Search1,P053-RT-7.37,Terpenoids,7.3664,5312458
+GSEP,GSEP1,Non-dietary,Search1,P053-RT-7.37,Terpenoids,7.384,2311621
+AHER,AHER1,Non-dietary,Search1,P053-RT-7.37,Terpenoids,7.3556,324736
+GSEP,GSEP3,Non-dietary,Search1,P053-RT-7.37,Terpenoids,7.3671,200850
+SOBO,SOBO2,Non-dietary,Search1,P053-RT-7.37,Terpenoids,7.393,78302
+TAME,TAME4,Dietary,Search1,P053-RT-7.37,Terpenoids,7.3799,61389
+TAME,TAME2,Dietary,Search1,P053-RT-7.37,Terpenoids,7.3806,46222
+TAME,TAME1,Dietary,Search1,P053-RT-7.37,Terpenoids,7.3819,30478
+SOBO,SOBO5,Non-dietary,Search1,P053-RT-7.37,Terpenoids,7.3935,20157
+SMOM,SMOM4,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3686,1753059
+SMOM,SMOM1,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.372,1091694
+CVIT,CVIT5,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3586,1041812
+GSEP,GSEP1,Non-dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3739,1007113
+GSEP,GSEP5,Non-dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3665,989953
+SOBO,SOBO1,Non-dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3825,752076
+BSIM,BSIM5,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.362,569637
+SOBO,SOBO3,Non-dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3994,557293
+AHER,AHER5,Non-dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3797,556882
+SMOM,SMOM3,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3604,553185
+TAME,TAME5,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3701,474555
+TAME,TAME4,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3698,473828
+TAME,TAME3,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3709,469775
+CVIT,CVIT3,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3757,430824
+AHER,AHER3,Non-dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3868,403874
+AHER,AHER2,Non-dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3941,347588
+AHER,AHER4,Non-dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3836,345246
+CVIT,CVIT1,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3764,288971
+BSIM,BSIM1,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.372,182716
+BSIM,BSIM4,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.364,172692
+TAME,TAME2,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3705,166648
+BSIM,BSIM2,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3666,145656
+SOBO,SOBO2,Non-dietary,Search1,P054-RT-7.38,Unidentified compounds,7.38,124107
+CVIT,CVIT4,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3614,119511
+CVIT,CVIT2,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3802,98092
+TAME,TAME1,Dietary,Search1,P054-RT-7.38,Unidentified compounds,7.3709,74648
+BSIM,BSIM3,Dietary,Search1,P056-RT-7.53,Terpenoids,7.553,212060993
+BSIM,BSIM5,Dietary,Search1,P056-RT-7.53,Terpenoids,7.504,20404478
+BSIM,BSIM4,Dietary,Search1,P056-RT-7.53,Terpenoids,7.4993,15736351
+GSEP,GSEP5,Non-dietary,Search1,P056-RT-7.53,Terpenoids,7.5615,8470497
+BSIM,BSIM1,Dietary,Search1,P056-RT-7.53,Terpenoids,7.5174,4099206
+CVIT,CVIT3,Dietary,Search1,P056-RT-7.53,Terpenoids,7.5178,2005936
+SMOM,SMOM1,Dietary,Search1,P056-RT-7.53,Terpenoids,7.5136,1964525
+CVIT,CVIT5,Dietary,Search1,P056-RT-7.53,Terpenoids,7.4973,1751521
+BSIM,BSIM2,Dietary,Search1,P056-RT-7.53,Terpenoids,7.5067,1444922
+CVIT,CVIT1,Dietary,Search1,P056-RT-7.53,Terpenoids,7.5213,1151780
+CVIT,CVIT4,Dietary,Search1,P056-RT-7.53,Terpenoids,7.554,1103360
+GSEP,GSEP2,Non-dietary,Search1,P056-RT-7.53,Terpenoids,7.5533,464720
+SMOM,SMOM5,Dietary,Search1,P056-RT-7.53,Terpenoids,7.4907,274760
+GSEP,GSEP4,Non-dietary,Search1,P056-RT-7.53,Terpenoids,7.5357,166338
+TAME,TAME5,Dietary,Search1,P056-RT-7.53,Terpenoids,7.5102,137893
+TAME,TAME4,Dietary,Search1,P056-RT-7.53,Terpenoids,7.5138,93256
+SOBO,SOBO1,Non-dietary,Search1,P056-RT-7.53,Terpenoids,7.5265,60273
+CVIT,CVIT2,Dietary,Search1,P056-RT-7.53,Terpenoids,7.5718,38389
+GSEP,GSEP2,Non-dietary,Search1,P059-RT-7.77,Terpenoids,7.7603,1927848
+GSEP,GSEP3,Non-dietary,Search1,P059-RT-7.77,Terpenoids,7.761,700694
+TAME,TAME4,Dietary,Search1,P059-RT-7.77,Terpenoids,7.782,531890
+BSIM,BSIM2,Dietary,Search1,P059-RT-7.77,Terpenoids,7.7682,248006
+SMOM,SMOM1,Dietary,Search1,P059-RT-7.77,Terpenoids,7.7756,166222
+BSIM,BSIM3,Dietary,Search1,P059-RT-7.77,Terpenoids,7.7697,146380
+BSIM,BSIM1,Dietary,Search1,P059-RT-7.77,Terpenoids,7.7823,139523
+GSEP,GSEP5,Non-dietary,Search1,P059-RT-7.77,Terpenoids,7.7652,122340
+TAME,TAME2,Dietary,Search1,P059-RT-7.77,Terpenoids,7.7745,119456
+TAME,TAME1,Dietary,Search1,P059-RT-7.77,Terpenoids,7.7768,118599
+SMOM,SMOM5,Dietary,Search1,P059-RT-7.77,Terpenoids,7.7551,105148
+TAME,TAME3,Dietary,Search1,P059-RT-7.77,Terpenoids,7.774,102450
+CVIT,CVIT1,Dietary,Search2,P059-RT-7.77,Terpenoids,7.7861,38021
+AHER,AHER2,Non-dietary,Search2,P059-RT-7.77,Terpenoids,7.7894,27325
+GSEP,GSEP2,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7724,2200269
+GSEP,GSEP3,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7716,1369603
+GSEP,GSEP1,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.8468,833342
+SOBO,SOBO1,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.8636,367508
+TAME,TAME4,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7969,239644
+BSIM,BSIM2,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7831,205880
+CVIT,CVIT4,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7706,173334
+CVIT,CVIT1,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7972,152692
+SOBO,SOBO5,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.8014,115649
+AHER,AHER5,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7939,115061
+TAME,TAME3,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7884,114230
+SMOM,SMOM5,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7667,113216
+CVIT,CVIT3,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7932,90105
+BSIM,BSIM5,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7766,80409
+TAME,TAME1,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7898,79841
+TAME,TAME2,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7866,75834
+AHER,AHER2,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.799,74070
+SOBO,SOBO2,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7946,68498
+AHER,AHER3,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.8018,63808
+CVIT,CVIT5,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7718,54475
+SOBO,SOBO3,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.8058,52200
+TAME,TAME5,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7856,42203
+BSIM,BSIM4,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7714,35419
+CVIT,CVIT2,Dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7895,34698
+GSEP,GSEP5,Non-dietary,Search1,P060-RT-7.80,Benzenoids and Phenylpropanoids,7.7768,21129
+GSEP,GSEP5,Non-dietary,Search1,P061-RT-7.81,Aliphatics,7.8283,1271407
+BSIM,BSIM2,Dietary,Search1,P061-RT-7.81,Aliphatics,7.8,141098
+BSIM,BSIM5,Dietary,Search1,P061-RT-7.81,Aliphatics,7.8175,89676
+BSIM,BSIM3,Dietary,Search1,P061-RT-7.81,Aliphatics,7.8275,87735
+SMOM,SMOM5,Dietary,Search1,P061-RT-7.81,Aliphatics,7.7955,76647
+BSIM,BSIM1,Dietary,Search1,P061-RT-7.81,Aliphatics,7.8121,67092
+CVIT,CVIT4,Dietary,Search1,P061-RT-7.81,Aliphatics,7.802,64894
+TAME,TAME2,Dietary,Search1,P061-RT-7.81,Aliphatics,7.8049,59097
+TAME,TAME3,Dietary,Search1,P061-RT-7.81,Aliphatics,7.8034,56602
+CVIT,CVIT1,Dietary,Search1,P061-RT-7.81,Aliphatics,7.8145,55332
+BSIM,BSIM4,Dietary,Search2,P061-RT-7.81,Aliphatics,7.807,40484
+AHER,AHER4,Non-dietary,Search2,P061-RT-7.81,Aliphatics,7.8222,16097
+BSIM,BSIM3,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8752,140633439
+BSIM,BSIM5,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8291,36053572
+BSIM,BSIM4,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8186,15155280
+BSIM,BSIM1,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8444,5054036
+BSIM,BSIM2,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8294,4260125
+CVIT,CVIT3,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8385,3456136
+SMOM,SMOM1,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8367,1757545
+CVIT,CVIT5,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8214,1542100
+SMOM,SMOM5,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8172,685102
+GSEP,GSEP2,Non-dietary,Search1,P062-RT-7.84,Terpenoids,7.8225,546226
+CVIT,CVIT2,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8343,508113
+TAME,TAME4,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8576,470915
+CVIT,CVIT4,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8212,424899
+AHER,AHER3,Non-dietary,Search1,P062-RT-7.84,Terpenoids,7.85,343571
+TAME,TAME5,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8319,286024
+AHER,AHER5,Non-dietary,Search1,P062-RT-7.84,Terpenoids,7.8386,276683
+AHER,AHER2,Non-dietary,Search1,P062-RT-7.84,Terpenoids,7.8481,205362
+SMOM,SMOM3,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8299,189640
+TAME,TAME2,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8347,144683
+TAME,TAME1,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8365,137114
+CVIT,CVIT1,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8459,115953
+TAME,TAME3,Dietary,Search1,P062-RT-7.84,Terpenoids,7.8342,68982
+SOBO,SOBO2,Non-dietary,Search1,P062-RT-7.84,Terpenoids,7.8408,38264
+SOBO,SOBO5,Non-dietary,Search1,P062-RT-7.84,Terpenoids,7.8553,31503
+AHER,AHER4,Non-dietary,Search2,P062-RT-7.84,Terpenoids,7.9152,11092
+SMOM,SMOM3,Dietary,Search1,P063-RT-7.90,Aliphatics,7.9271,1586647
+TAME,TAME4,Dietary,Search1,P063-RT-7.90,Aliphatics,7.952,1214691
+BSIM,BSIM1,Dietary,Search1,P063-RT-7.90,Aliphatics,7.9291,799069
+CVIT,CVIT1,Dietary,Search1,P063-RT-7.90,Aliphatics,7.9065,315206
+BSIM,BSIM4,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8802,276902
+CVIT,CVIT2,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8872,251670
+SMOM,SMOM5,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8856,241486
+TAME,TAME2,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8964,205579
+CVIT,CVIT5,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8917,204526
+SMOM,SMOM1,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8964,200239
+AHER,AHER2,Non-dietary,Search1,P063-RT-7.90,Aliphatics,7.9117,141062
+TAME,TAME5,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8945,137617
+AHER,AHER5,Non-dietary,Search1,P063-RT-7.90,Aliphatics,7.8959,127869
+GSEP,GSEP5,Non-dietary,Search1,P063-RT-7.90,Aliphatics,7.8837,103220
+CVIT,CVIT4,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8862,91988
+TAME,TAME1,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8986,69761
+BSIM,BSIM5,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8888,68760
+TAME,TAME3,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8939,60019
+AHER,AHER3,Non-dietary,Search1,P063-RT-7.90,Aliphatics,7.9136,59583
+BSIM,BSIM2,Dietary,Search1,P063-RT-7.90,Aliphatics,7.8881,54230
+GSEP,GSEP2,Non-dietary,Search1,P063-RT-7.90,Aliphatics,7.8884,48001
+SOBO,SOBO2,Non-dietary,Search1,P063-RT-7.90,Aliphatics,7.8967,37639
+GSEP,GSEP3,Non-dietary,Search1,P063-RT-7.90,Aliphatics,7.8896,29341
+SOBO,SOBO3,Non-dietary,Search1,P063-RT-7.90,Aliphatics,7.93,22397
+SOBO,SOBO5,Non-dietary,Search1,P063-RT-7.90,Aliphatics,7.9194,9358
+BSIM,BSIM3,Dietary,Search1,P063-RT-7.90,Aliphatics,7.893,203
+TAME,TAME4,Dietary,Search1,P065-RT-8.00,Terpenoids,8.0685,3615125
+BSIM,BSIM2,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9854,954675
+TAME,TAME2,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9936,586440
+BSIM,BSIM1,Dietary,Search1,P065-RT-8.00,Terpenoids,8.0327,411382
+SMOM,SMOM3,Dietary,Search1,P065-RT-8.00,Terpenoids,8.0384,321063
+CVIT,CVIT1,Dietary,Search1,P065-RT-8.00,Terpenoids,8.0096,196378
+GSEP,GSEP1,Non-dietary,Search1,P065-RT-8.00,Terpenoids,8.1309,164444
+TAME,TAME3,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9931,130033
+GSEP,GSEP4,Non-dietary,Search2,P065-RT-8.00,Terpenoids,8.0225,109532
+TAME,TAME5,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9893,107524
+BSIM,BSIM5,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9846,87932
+GSEP,GSEP2,Non-dietary,Search1,P065-RT-8.00,Terpenoids,7.9828,87075
+TAME,TAME1,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9973,85291
+CVIT,CVIT4,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9782,65974
+CVIT,CVIT2,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9874,52004
+GSEP,GSEP5,Non-dietary,Search1,P065-RT-8.00,Terpenoids,7.9776,45499
+BSIM,BSIM3,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9907,45221
+GSEP,GSEP3,Non-dietary,Search1,P065-RT-8.00,Terpenoids,7.9801,40696
+CVIT,CVIT5,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9837,39352
+AHER,AHER5,Non-dietary,Search1,P065-RT-8.00,Terpenoids,7.9932,29651
+AHER,AHER3,Non-dietary,Search2,P065-RT-8.00,Terpenoids,8.0031,25513
+SMOM,SMOM5,Dietary,Search1,P065-RT-8.00,Terpenoids,7.979,24676
+AHER,AHER2,Non-dietary,Search1,P065-RT-8.00,Terpenoids,8.0003,21749
+CVIT,CVIT3,Dietary,Search1,P065-RT-8.00,Terpenoids,7.9964,1518
+TAME,TAME2,Dietary,Search1,P066-RT-8.27,Aliphatics,8.1949,1354246
+SMOM,SMOM4,Dietary,Search1,P066-RT-8.27,Aliphatics,8.1607,997627
+CVIT,CVIT1,Dietary,Search1,P066-RT-8.27,Aliphatics,8.2595,569384
+AHER,AHER1,Non-dietary,Search1,P066-RT-8.27,Aliphatics,8.3331,561925
+TAME,TAME4,Dietary,Search1,P066-RT-8.27,Aliphatics,8.2587,469677
+AHER,AHER4,Non-dietary,Search1,P066-RT-8.27,Aliphatics,8.3341,420992
+GSEP,GSEP2,Non-dietary,Search1,P066-RT-8.27,Aliphatics,8.2631,163879
+TAME,TAME3,Dietary,Search1,P066-RT-8.27,Aliphatics,8.3735,104324
+SMOM,SMOM1,Dietary,Search1,P066-RT-8.27,Aliphatics,8.3549,61546
+SOBO,SOBO3,Non-dietary,Search1,P066-RT-8.27,Aliphatics,8.2483,57334
+TAME,TAME1,Dietary,Search1,P066-RT-8.27,Aliphatics,8.3614,55630
+AHER,AHER2,Non-dietary,Search1,P066-RT-8.27,Aliphatics,8.1852,54061
+CVIT,CVIT2,Dietary,Search1,P066-RT-8.27,Aliphatics,8.3139,48362
+BSIM,BSIM2,Dietary,Search1,P066-RT-8.27,Aliphatics,8.3417,17581
+AHER,AHER5,Non-dietary,Search1,P066-RT-8.27,Aliphatics,8.338,15413
+BSIM,BSIM5,Dietary,Search1,P066-RT-8.27,Aliphatics,8.2119,14291
+AHER,AHER3,Non-dietary,Search1,P066-RT-8.27,Aliphatics,8.2035,12730
+GSEP,GSEP5,Non-dietary,Search1,P066-RT-8.27,Aliphatics,8.3247,12612
+BSIM,BSIM1,Dietary,Search1,P066-RT-8.27,Aliphatics,8.285,10836
+BSIM,BSIM4,Dietary,Search1,P066-RT-8.27,Aliphatics,8.3305,10499
+SMOM,SMOM5,Dietary,Search1,P066-RT-8.27,Aliphatics,8.265,5648
+TAME,TAME4,Dietary,Search1,P067-RT-8.23,Terpenoids,8.3367,483695
+SMOM,SMOM4,Dietary,Search1,P067-RT-8.23,Terpenoids,8.18,220755
+TAME,TAME1,Dietary,Search1,P067-RT-8.23,Terpenoids,8.2145,205235
+AHER,AHER1,Non-dietary,Search1,P067-RT-8.23,Terpenoids,8.2898,165756
+AHER,AHER4,Non-dietary,Search1,P067-RT-8.23,Terpenoids,8.1709,147297
+SMOM,SMOM1,Dietary,Search1,P067-RT-8.23,Terpenoids,8.1878,142558
+SMOM,SMOM5,Dietary,Search1,P067-RT-8.23,Terpenoids,8.227,121370
+TAME,TAME2,Dietary,Search1,P067-RT-8.23,Terpenoids,8.2315,112183
+GSEP,GSEP4,Non-dietary,Search1,P067-RT-8.23,Terpenoids,8.3269,90489
+BSIM,BSIM1,Dietary,Search1,P067-RT-8.23,Terpenoids,8.2956,72771
+BSIM,BSIM2,Dietary,Search1,P067-RT-8.23,Terpenoids,8.1751,72213
+SMOM,SMOM3,Dietary,Search1,P067-RT-8.23,Terpenoids,8.3008,54535
+AHER,AHER5,Non-dietary,Search1,P067-RT-8.23,Terpenoids,8.18,39052
+BSIM,BSIM3,Dietary,Search1,P067-RT-8.23,Terpenoids,8.1737,30983
+TAME,TAME5,Dietary,Search1,P067-RT-8.23,Terpenoids,8.181,28078
+BSIM,BSIM5,Dietary,Search2,P067-RT-8.23,Terpenoids,8.2649,10726
+CVIT,CVIT1,Dietary,Search1,P069-RT-8.48,Unidentified compounds,8.4343,1211699
+BSIM,BSIM5,Dietary,Search1,P069-RT-8.48,Unidentified compounds,8.4739,492201
+SMOM,SMOM1,Dietary,Search1,P069-RT-8.48,Unidentified compounds,8.5923,395162
+TAME,TAME2,Dietary,Search1,P069-RT-8.48,Unidentified compounds,8.4376,386646
+BSIM,BSIM1,Dietary,Search1,P069-RT-8.48,Unidentified compounds,8.3755,377989
+GSEP,GSEP2,Non-dietary,Search1,P069-RT-8.48,Unidentified compounds,8.4292,349272
+TAME,TAME1,Dietary,Search1,P069-RT-8.48,Unidentified compounds,8.529,189257
+TAME,TAME5,Dietary,Search1,P069-RT-8.48,Unidentified compounds,8.4949,166264
+CVIT,CVIT5,Dietary,Search1,P069-RT-8.48,Unidentified compounds,8.4214,111157
+BSIM,BSIM4,Dietary,Search1,P069-RT-8.48,Unidentified compounds,8.5534,55709
+SMOM,SMOM5,Dietary,Search1,P069-RT-8.48,Unidentified compounds,8.3965,28248
+AHER,AHER3,Non-dietary,Search2,P069-RT-8.48,Unidentified compounds,8.5203,10997
+GSEP,GSEP3,Non-dietary,Search2,P069-RT-8.48,Unidentified compounds,8.5748,10659
+SOBO,SOBO5,Non-dietary,Search2,P069-RT-8.48,Unidentified compounds,8.5435,5495
+SOBO,SOBO1,Non-dietary,Search2,P069-RT-8.48,Unidentified compounds,8.545,2314
+SMOM,SMOM1,Dietary,Search1,P070-RT-8.46,Aliphatics,8.4122,690107
+CVIT,CVIT1,Dietary,Search1,P070-RT-8.46,Aliphatics,8.5369,480909
+CVIT,CVIT4,Dietary,Search1,P070-RT-8.46,Aliphatics,8.4227,376937
+CVIT,CVIT5,Dietary,Search1,P070-RT-8.46,Aliphatics,8.5138,314733
+TAME,TAME5,Dietary,Search1,P070-RT-8.46,Aliphatics,8.3827,136650
+AHER,AHER3,Non-dietary,Search1,P070-RT-8.46,Aliphatics,8.425,98001
+TAME,TAME1,Dietary,Search1,P070-RT-8.46,Aliphatics,8.464,77911
+SOBO,SOBO3,Non-dietary,Search1,P070-RT-8.46,Aliphatics,8.5233,57695
+SMOM,SMOM5,Dietary,Search1,P070-RT-8.46,Aliphatics,8.5068,55982
+GSEP,GSEP2,Non-dietary,Search1,P070-RT-8.46,Aliphatics,8.3907,35307
+SOBO,SOBO1,Non-dietary,Search1,P070-RT-8.46,Aliphatics,8.3798,26745
+BSIM,BSIM4,Dietary,Search1,P077-RT-8.99,Aliphatics,8.9854,1359550
+BSIM,BSIM3,Dietary,Search1,P077-RT-8.99,Aliphatics,8.9504,667436
+BSIM,BSIM2,Dietary,Search1,P077-RT-8.99,Aliphatics,9.0265,569206
+TAME,TAME4,Dietary,Search1,P077-RT-8.99,Aliphatics,8.9859,21745
+GSEP,GSEP3,Non-dietary,Search2,P077-RT-8.99,Aliphatics,9.0091,2899
+SMOM,SMOM4,Dietary,Search1,P078-RT-9.13,Aliphatics,9.1667,8141940
+TAME,TAME4,Dietary,Search1,P078-RT-9.13,Aliphatics,9.1597,1146532
+TAME,TAME2,Dietary,Search1,P078-RT-9.13,Aliphatics,9.0843,897137
+GSEP,GSEP4,Non-dietary,Search1,P078-RT-9.13,Aliphatics,9.2379,727737
+CVIT,CVIT3,Dietary,Search1,P078-RT-9.13,Aliphatics,9.0404,554915
+GSEP,GSEP1,Non-dietary,Search1,P078-RT-9.13,Aliphatics,9.1907,269909
+TAME,TAME1,Dietary,Search1,P078-RT-9.13,Aliphatics,9.103,263057
+TAME,TAME3,Dietary,Search1,P078-RT-9.13,Aliphatics,9.0573,257462
+CVIT,CVIT1,Dietary,Search1,P078-RT-9.13,Aliphatics,9.1359,183586
+BSIM,BSIM1,Dietary,Search1,P078-RT-9.13,Aliphatics,9.1474,143421
+SMOM,SMOM1,Dietary,Search1,P078-RT-9.13,Aliphatics,9.0791,133514
+SOBO,SOBO1,Non-dietary,Search1,P078-RT-9.13,Aliphatics,9.2109,124077
+TAME,TAME5,Dietary,Search1,P078-RT-9.13,Aliphatics,9.0579,119480
+SOBO,SOBO5,Non-dietary,Search1,P078-RT-9.13,Aliphatics,9.0486,85202
+CVIT,CVIT5,Dietary,Search1,P078-RT-9.13,Aliphatics,9.1085,81090
+BSIM,BSIM3,Dietary,Search1,P078-RT-9.13,Aliphatics,9.1493,79766
+CVIT,CVIT4,Dietary,Search1,P078-RT-9.13,Aliphatics,9.0703,54150
+AHER,AHER1,Non-dietary,Search1,P078-RT-9.13,Aliphatics,9.2553,27822
+BSIM,BSIM5,Dietary,Search1,P078-RT-9.13,Aliphatics,9.0869,23295
+AHER,AHER3,Non-dietary,Search1,P078-RT-9.13,Aliphatics,9.0856,20395
+SOBO,SOBO3,Non-dietary,Search1,P078-RT-9.13,Aliphatics,9.1271,12346
+SMOM,SMOM5,Dietary,Search1,P078-RT-9.13,Aliphatics,9.0943,5260
+SMOM,SMOM1,Dietary,Search1,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.1455,486258
+TAME,TAME4,Dietary,Search1,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.3162,396793
+TAME,TAME2,Dietary,Search1,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.1594,148432
+BSIM,BSIM3,Dietary,Search1,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.3299,126272
+TAME,TAME5,Dietary,Search1,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.1142,115661
+SMOM,SMOM5,Dietary,Search1,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.205,92794
+TAME,TAME3,Dietary,Search1,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.1141,79150
+BSIM,BSIM1,Dietary,Search1,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.277,79132
+AHER,AHER4,Non-dietary,Search1,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.4267,69605
+TAME,TAME1,Dietary,Search1,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.1906,68078
+AHER,AHER3,Non-dietary,Search2,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.1521,25628
+SOBO,SOBO1,Non-dietary,Search2,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.1676,23846
+CVIT,CVIT4,Dietary,Search2,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.1382,20460
+AHER,AHER2,Non-dietary,Search2,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.1184,10114
+AHER,AHER5,Non-dietary,Search2,P079-RT-9.22,Benzenoids and Phenylpropanoids,9.2341,6688
+AHER,AHER2,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.377,6675133
+CVIT,CVIT1,Dietary,Search1,P080-RT-9.33,Aliphatics,9.3589,3869999
+BSIM,BSIM2,Dietary,Search1,P080-RT-9.33,Aliphatics,9.5851,2654525
+BSIM,BSIM4,Dietary,Search1,P080-RT-9.33,Aliphatics,9.5478,2256023
+CVIT,CVIT4,Dietary,Search1,P080-RT-9.33,Aliphatics,9.2177,1981282
+TAME,TAME4,Dietary,Search1,P080-RT-9.33,Aliphatics,9.5064,1829043
+AHER,AHER5,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.4441,1790380
+BSIM,BSIM3,Dietary,Search1,P080-RT-9.33,Aliphatics,9.5148,1769128
+SOBO,SOBO2,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.4949,1650380
+CVIT,CVIT5,Dietary,Search1,P080-RT-9.33,Aliphatics,9.3541,1609657
+GSEP,GSEP5,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.4405,1469650
+SMOM,SMOM5,Dietary,Search1,P080-RT-9.33,Aliphatics,9.3191,1277362
+TAME,TAME3,Dietary,Search1,P080-RT-9.33,Aliphatics,9.1459,1261423
+SMOM,SMOM3,Dietary,Search1,P080-RT-9.33,Aliphatics,9.4618,1103854
+SMOM,SMOM1,Dietary,Search1,P080-RT-9.33,Aliphatics,9.2038,1049810
+BSIM,BSIM1,Dietary,Search1,P080-RT-9.33,Aliphatics,9.4142,971614
+TAME,TAME5,Dietary,Search1,P080-RT-9.33,Aliphatics,9.1643,957220
+TAME,TAME2,Dietary,Search1,P080-RT-9.33,Aliphatics,9.2191,798986
+AHER,AHER3,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.2002,640805
+GSEP,GSEP2,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.3162,624459
+TAME,TAME1,Dietary,Search1,P080-RT-9.33,Aliphatics,9.2715,579266
+BSIM,BSIM5,Dietary,Search1,P080-RT-9.33,Aliphatics,9.2848,578899
+GSEP,GSEP4,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.1195,518172
+GSEP,GSEP3,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.26,429677
+CVIT,CVIT2,Dietary,Search1,P080-RT-9.33,Aliphatics,9.1421,409789
+GSEP,GSEP1,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.5866,376592
+SOBO,SOBO3,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.3626,361135
+CVIT,CVIT3,Dietary,Search1,P080-RT-9.33,Aliphatics,9.1001,275547
+SOBO,SOBO5,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.1584,247298
+SOBO,SOBO1,Non-dietary,Search1,P080-RT-9.33,Aliphatics,9.2186,118548
+TAME,TAME4,Dietary,Search1,P082-RT-9.55,Aliphatics,9.4048,27536424
+SOBO,SOBO5,Non-dietary,Search1,P082-RT-9.55,Aliphatics,9.7714,20077091
+SMOM,SMOM5,Dietary,Search1,P082-RT-9.55,Aliphatics,9.5103,16441056
+TAME,TAME2,Dietary,Search1,P082-RT-9.55,Aliphatics,9.6289,11887596
+SOBO,SOBO1,Non-dietary,Search1,P082-RT-9.55,Aliphatics,9.3145,10391180
+TAME,TAME3,Dietary,Search1,P082-RT-9.55,Aliphatics,9.6929,9803209
+BSIM,BSIM5,Dietary,Search1,P082-RT-9.55,Aliphatics,9.5482,8848149
+TAME,TAME1,Dietary,Search1,P082-RT-9.55,Aliphatics,9.5883,8190997
+BSIM,BSIM4,Dietary,Search1,P082-RT-9.55,Aliphatics,9.8112,8057967
+SMOM,SMOM1,Dietary,Search1,P082-RT-9.55,Aliphatics,9.6507,8029734
+CVIT,CVIT1,Dietary,Search1,P082-RT-9.55,Aliphatics,9.5288,6491192
+SOBO,SOBO3,Non-dietary,Search1,P082-RT-9.55,Aliphatics,9.5812,6484329
+AHER,AHER4,Non-dietary,Search1,P082-RT-9.55,Aliphatics,9.2692,6478249
+TAME,TAME5,Dietary,Search1,P082-RT-9.55,Aliphatics,9.6834,6433854
+CVIT,CVIT4,Dietary,Search1,P082-RT-9.55,Aliphatics,9.6101,5667261
+GSEP,GSEP2,Non-dietary,Search1,P082-RT-9.55,Aliphatics,9.5213,5409901
+SMOM,SMOM3,Dietary,Search1,P082-RT-9.55,Aliphatics,9.4021,5185937
+BSIM,BSIM2,Dietary,Search1,P082-RT-9.55,Aliphatics,9.7921,5080265
+BSIM,BSIM1,Dietary,Search1,P082-RT-9.55,Aliphatics,9.4696,3622554
+GSEP,GSEP3,Non-dietary,Search1,P082-RT-9.55,Aliphatics,9.5643,3275050
+GSEP,GSEP1,Non-dietary,Search1,P082-RT-9.55,Aliphatics,9.3106,2929294
+CVIT,CVIT3,Dietary,Search1,P082-RT-9.55,Aliphatics,9.7463,2908782
+AHER,AHER3,Non-dietary,Search1,P082-RT-9.55,Aliphatics,9.6736,2467729
+CVIT,CVIT5,Dietary,Search1,P082-RT-9.55,Aliphatics,9.5034,1637384
+SOBO,SOBO2,Non-dietary,Search2,P082-RT-9.55,Aliphatics,9.5796,151113
+AHER,AHER4,Non-dietary,Search1,P085-RT-9.61,Aliphatics,9.6174,6663762
+GSEP,GSEP5,Non-dietary,Search1,P085-RT-9.61,Aliphatics,9.6148,4395497
+GSEP,GSEP2,Non-dietary,Search1,P085-RT-9.61,Aliphatics,9.6234,4177669
+AHER,AHER5,Non-dietary,Search1,P085-RT-9.61,Aliphatics,9.6198,2777106
+GSEP,GSEP4,Non-dietary,Search1,P085-RT-9.61,Aliphatics,9.5365,2653932
+GSEP,GSEP3,Non-dietary,Search1,P085-RT-9.61,Aliphatics,9.6255,2018574
+GSEP,GSEP1,Non-dietary,Search1,P085-RT-9.61,Aliphatics,9.6169,1486789
+AHER,AHER1,Non-dietary,Search1,P085-RT-9.61,Aliphatics,9.5967,1320161
+BSIM,BSIM3,Dietary,Search1,P085-RT-9.61,Aliphatics,9.6366,1031366
+AHER,AHER3,Non-dietary,Search1,P085-RT-9.61,Aliphatics,9.662,829908
+SOBO,SOBO2,Non-dietary,Search1,P085-RT-9.61,Aliphatics,9.6456,306412
+SMOM,SMOM4,Dietary,Search1,P085-RT-9.61,Aliphatics,9.5735,108287
+SMOM,SMOM3,Dietary,Search1,P085-RT-9.61,Aliphatics,9.6111,32811
+SOBO,SOBO1,Non-dietary,Search2,P085-RT-9.61,Aliphatics,9.6255,4028
+CVIT,CVIT5,Dietary,Search2,P085-RT-9.61,Aliphatics,9.6194,1776
+BSIM,BSIM3,Dietary,Search1,P093-RT-10.00,Terpenoids,10.004,5249807
+SMOM,SMOM1,Dietary,Search1,P093-RT-10.00,Terpenoids,10.0046,349265
+GSEP,GSEP5,Non-dietary,Search1,P093-RT-10.00,Terpenoids,10.0193,229899
+TAME,TAME2,Dietary,Search1,P093-RT-10.00,Terpenoids,10.019,68232
+TAME,TAME4,Dietary,Search1,P093-RT-10.00,Terpenoids,9.9562,64860
+CVIT,CVIT1,Dietary,Search2,P093-RT-10.00,Terpenoids,9.8982,17154
+BSIM,BSIM1,Dietary,Search2,P093-RT-10.00,Terpenoids,9.9188,12141
+TAME,TAME3,Dietary,Search2,P093-RT-10.00,Terpenoids,10.0637,2600
+AHER,AHER2,Non-dietary,Search1,P097-RT-10.16,Unidentified compounds,10.1364,4654217
+CVIT,CVIT2,Dietary,Search1,P097-RT-10.16,Unidentified compounds,10.1808,169054
+SMOM,SMOM3,Dietary,Search1,P097-RT-10.16,Unidentified compounds,10.1779,166957
+CVIT,CVIT1,Dietary,Search1,P097-RT-10.16,Unidentified compounds,10.1779,98553
+SMOM,SMOM5,Dietary,Search1,P097-RT-10.16,Unidentified compounds,10.1257,26226
+AHER,AHER1,Non-dietary,Search1,P097-RT-10.16,Unidentified compounds,10.1451,16809
+CVIT,CVIT4,Dietary,Search2,P097-RT-10.16,Unidentified compounds,10.1966,5634
+GSEP,GSEP5,Non-dietary,Search1,P099-RT-10.34,Terpenoids,10.4165,32716694
+SOBO,SOBO2,Non-dietary,Search1,P099-RT-10.34,Terpenoids,10.3525,32662189
+CVIT,CVIT3,Dietary,Search1,P099-RT-10.34,Terpenoids,10.1773,32369296
+SOBO,SOBO5,Non-dietary,Search1,P099-RT-10.34,Terpenoids,10.1946,20941465
+SOBO,SOBO3,Non-dietary,Search1,P099-RT-10.34,Terpenoids,10.3777,8226012
+TAME,TAME4,Dietary,Search1,P099-RT-10.34,Terpenoids,10.4825,7944702
+TAME,TAME5,Dietary,Search1,P099-RT-10.34,Terpenoids,10.2208,6293010
+CVIT,CVIT5,Dietary,Search1,P099-RT-10.34,Terpenoids,10.3543,5749206
+TAME,TAME1,Dietary,Search1,P099-RT-10.34,Terpenoids,10.3131,4802672
+AHER,AHER5,Non-dietary,Search1,P099-RT-10.34,Terpenoids,10.4028,1920440
+CVIT,CVIT1,Dietary,Search1,P099-RT-10.34,Terpenoids,10.3797,1814880
+BSIM,BSIM5,Dietary,Search1,P099-RT-10.34,Terpenoids,10.3172,1337417
+CVIT,CVIT4,Dietary,Search1,P099-RT-10.34,Terpenoids,10.2578,1222360
+BSIM,BSIM1,Dietary,Search1,P099-RT-10.34,Terpenoids,10.4235,1026938
+AHER,AHER2,Non-dietary,Search1,P099-RT-10.34,Terpenoids,10.3025,696193
+TAME,TAME3,Dietary,Search2,P099-RT-10.34,Terpenoids,10.3752,97336
+SMOM,SMOM1,Dietary,Search1,P099-RT-10.34,Terpenoids,10.4033,59871
+SMOM,SMOM3,Dietary,Search1,P099-RT-10.34,Terpenoids,10.4432,38517
+BSIM,BSIM5,Dietary,Search1,P100-RT-10.25,Terpenoids,10.2503,9938027
+SMOM,SMOM1,Dietary,Search1,P100-RT-10.25,Terpenoids,10.2367,782771
+CVIT,CVIT4,Dietary,Search1,P100-RT-10.25,Terpenoids,10.2149,635696
+GSEP,GSEP2,Non-dietary,Search1,P100-RT-10.25,Terpenoids,10.2634,586764
+CVIT,CVIT1,Dietary,Search1,P100-RT-10.25,Terpenoids,10.2998,485960
+BSIM,BSIM1,Dietary,Search1,P100-RT-10.25,Terpenoids,10.3243,425279
+GSEP,GSEP3,Non-dietary,Search1,P100-RT-10.25,Terpenoids,10.2399,250883
+SMOM,SMOM5,Dietary,Search1,P100-RT-10.25,Terpenoids,10.2615,235034
+CVIT,CVIT5,Dietary,Search1,P100-RT-10.25,Terpenoids,10.2719,207506
+TAME,TAME3,Dietary,Search1,P100-RT-10.25,Terpenoids,10.198,36639
+CVIT,CVIT3,Dietary,Search1,P102-RT-10.41,Terpenoids,10.4108,88406766
+CVIT,CVIT4,Dietary,Search1,P102-RT-10.41,Terpenoids,10.3984,8226650
+SOBO,SOBO2,Non-dietary,Search1,P102-RT-10.41,Terpenoids,10.4604,7828036
+CVIT,CVIT1,Dietary,Search1,P102-RT-10.41,Terpenoids,10.4043,989840
+CVIT,CVIT5,Dietary,Search1,P102-RT-10.41,Terpenoids,10.3832,614071
+SOBO,SOBO3,Non-dietary,Search1,P102-RT-10.41,Terpenoids,10.4008,501475
+SOBO,SOBO5,Non-dietary,Search1,P103-RT-10.49,Terpenoids,10.4985,1112646
+CVIT,CVIT4,Dietary,Search2,P103-RT-10.49,Terpenoids,10.4682,652833
+TAME,TAME1,Dietary,Search1,P103-RT-10.49,Terpenoids,10.5447,362155
+TAME,TAME3,Dietary,Search1,P103-RT-10.49,Terpenoids,10.4768,318177
+TAME,TAME2,Dietary,Search1,P103-RT-10.49,Terpenoids,10.4798,246312
+BSIM,BSIM5,Dietary,Search1,P103-RT-10.49,Terpenoids,10.4746,212375
+SMOM,SMOM1,Dietary,Search1,P103-RT-10.49,Terpenoids,10.4852,204480
+BSIM,BSIM3,Dietary,Search1,P103-RT-10.49,Terpenoids,10.4668,193544
+CVIT,CVIT1,Dietary,Search1,P103-RT-10.49,Terpenoids,10.4914,187627
+GSEP,GSEP5,Non-dietary,Search2,P103-RT-10.49,Terpenoids,10.4334,173603
+AHER,AHER5,Non-dietary,Search1,P103-RT-10.49,Terpenoids,10.4471,147012
+GSEP,GSEP2,Non-dietary,Search2,P103-RT-10.49,Terpenoids,10.4647,133306
+BSIM,BSIM2,Dietary,Search2,P103-RT-10.49,Terpenoids,10.4716,110823
+CVIT,CVIT3,Dietary,Search1,P103-RT-10.49,Terpenoids,10.4816,92276
+SMOM,SMOM5,Dietary,Search1,P103-RT-10.49,Terpenoids,10.4609,89350
+SOBO,SOBO3,Non-dietary,Search1,P103-RT-10.49,Terpenoids,10.5014,79892
+CVIT,CVIT5,Dietary,Search2,P103-RT-10.49,Terpenoids,10.4631,77481
+SMOM,SMOM4,Dietary,Search2,P103-RT-10.49,Terpenoids,10.461,69274
+GSEP,GSEP3,Non-dietary,Search2,P103-RT-10.49,Terpenoids,10.4619,64711
+GSEP,GSEP1,Non-dietary,Search1,P103-RT-10.49,Terpenoids,10.489,59627
+BSIM,BSIM1,Dietary,Search2,P103-RT-10.49,Terpenoids,10.4914,35610
+SOBO,SOBO2,Non-dietary,Search1,P105-RT-10.62,Terpenoids,10.5976,373950827
+CVIT,CVIT3,Dietary,Search1,P105-RT-10.62,Terpenoids,10.7171,76132854
+SOBO,SOBO1,Non-dietary,Search1,P105-RT-10.62,Terpenoids,10.5838,42599935
+CVIT,CVIT5,Dietary,Search1,P105-RT-10.62,Terpenoids,10.556,10543914
+BSIM,BSIM3,Dietary,Search1,P105-RT-10.62,Terpenoids,10.526,10091019
+BSIM,BSIM2,Dietary,Search1,P105-RT-10.62,Terpenoids,10.6232,4090079
+GSEP,GSEP2,Non-dietary,Search1,P105-RT-10.62,Terpenoids,10.7049,3139254
+BSIM,BSIM4,Dietary,Search1,P105-RT-10.62,Terpenoids,10.5783,1642743
+AHER,AHER3,Non-dietary,Search1,P105-RT-10.62,Terpenoids,10.6299,418974
+SMOM,SMOM3,Dietary,Search1,P105-RT-10.62,Terpenoids,10.5925,365175
+GSEP,GSEP3,Non-dietary,Search1,P105-RT-10.62,Terpenoids,10.6675,190185
+TAME,TAME3,Dietary,Search1,P105-RT-10.62,Terpenoids,10.5881,156498
+SMOM,SMOM4,Dietary,Search1,P105-RT-10.62,Terpenoids,10.6402,32151
+GSEP,GSEP4,Non-dietary,Search1,P107-RT-10.81,Aliphatics,10.7668,9766753
+GSEP,GSEP3,Non-dietary,Search1,P107-RT-10.81,Aliphatics,10.7162,3157915
+CVIT,CVIT4,Dietary,Search1,P107-RT-10.81,Aliphatics,10.8212,1759359
+TAME,TAME3,Dietary,Search1,P107-RT-10.81,Aliphatics,10.7407,1620303
+AHER,AHER2,Non-dietary,Search1,P107-RT-10.81,Aliphatics,10.8322,1073212
+SMOM,SMOM1,Dietary,Search1,P107-RT-10.81,Aliphatics,10.802,1071957
+SMOM,SMOM5,Dietary,Search1,P107-RT-10.81,Aliphatics,10.9053,1055023
+BSIM,BSIM3,Dietary,Search1,P107-RT-10.81,Aliphatics,10.6984,1045638
+GSEP,GSEP1,Non-dietary,Search1,P107-RT-10.81,Aliphatics,10.7625,1027675
+TAME,TAME5,Dietary,Search1,P107-RT-10.81,Aliphatics,10.7832,833014
+TAME,TAME1,Dietary,Search1,P107-RT-10.81,Aliphatics,10.8712,717342
+CVIT,CVIT1,Dietary,Search1,P107-RT-10.81,Aliphatics,10.9166,621556
+BSIM,BSIM5,Dietary,Search1,P107-RT-10.81,Aliphatics,10.8758,594606
+GSEP,GSEP5,Non-dietary,Search1,P107-RT-10.81,Aliphatics,10.899,581537
+AHER,AHER5,Non-dietary,Search1,P107-RT-10.81,Aliphatics,10.8988,520336
+CVIT,CVIT2,Dietary,Search1,P107-RT-10.81,Aliphatics,10.9012,473504
+GSEP,GSEP2,Non-dietary,Search1,P107-RT-10.81,Aliphatics,10.8966,425803
+AHER,AHER3,Non-dietary,Search1,P107-RT-10.81,Aliphatics,10.783,401367
+AHER,AHER4,Non-dietary,Search1,P107-RT-10.81,Aliphatics,10.7721,246911
+SOBO,SOBO1,Non-dietary,Search1,P107-RT-10.81,Aliphatics,10.7933,135966
+TAME,TAME2,Dietary,Search1,P107-RT-10.81,Aliphatics,10.7244,82116
+SOBO,SOBO1,Non-dietary,Search1,P116-RT-11.41,Terpenoids,11.4024,7199389
+TAME,TAME1,Dietary,Search1,P116-RT-11.41,Terpenoids,11.3662,671467
+SOBO,SOBO3,Non-dietary,Search1,P116-RT-11.41,Terpenoids,11.5208,478048
+CVIT,CVIT5,Dietary,Search1,P116-RT-11.41,Terpenoids,11.4839,416747
+SOBO,SOBO5,Non-dietary,Search1,P116-RT-11.41,Terpenoids,11.3604,406168
+CVIT,CVIT3,Dietary,Search1,P116-RT-11.41,Terpenoids,11.3383,182366
+CVIT,CVIT2,Dietary,Search1,P116-RT-11.41,Terpenoids,11.3813,94418
+TAME,TAME5,Dietary,Search2,P116-RT-11.41,Terpenoids,11.3716,73360
+SMOM,SMOM1,Dietary,Search2,P116-RT-11.41,Terpenoids,11.3235,22806
+CVIT,CVIT4,Dietary,Search2,P116-RT-11.41,Terpenoids,11.4024,22651
+SMOM,SMOM5,Dietary,Search2,P116-RT-11.41,Terpenoids,11.4822,12251
+TAME,TAME4,Dietary,Search1,P118-RT-11.52,Terpenoids,11.5168,3056039
+SOBO,SOBO2,Non-dietary,Search1,P118-RT-11.52,Terpenoids,11.5496,903644
+SMOM,SMOM5,Dietary,Search1,P118-RT-11.52,Terpenoids,11.499,357310
+SMOM,SMOM4,Dietary,Search1,P118-RT-11.52,Terpenoids,11.491,345595
+TAME,TAME3,Dietary,Search1,P118-RT-11.52,Terpenoids,11.5218,284775
+AHER,AHER5,Non-dietary,Search1,P118-RT-11.52,Terpenoids,11.5104,223177
+SMOM,SMOM1,Dietary,Search1,P118-RT-11.52,Terpenoids,11.5248,217135
+AHER,AHER4,Non-dietary,Search1,P118-RT-11.52,Terpenoids,11.5233,187879
+AHER,AHER1,Non-dietary,Search1,P118-RT-11.52,Terpenoids,11.5252,123346
+BSIM,BSIM1,Dietary,Search1,P118-RT-11.52,Terpenoids,11.5253,117895
+SMOM,SMOM1,Dietary,Search1,P119-RT-11.59,Aliphatics,11.5494,517736
+TAME,TAME5,Dietary,Search1,P119-RT-11.59,Aliphatics,11.6115,211760
+TAME,TAME2,Dietary,Search1,P119-RT-11.59,Aliphatics,11.6268,144870
+GSEP,GSEP1,Non-dietary,Search1,P119-RT-11.59,Aliphatics,11.5695,47614
+BSIM,BSIM4,Dietary,Search1,P119-RT-11.59,Aliphatics,11.5635,37137
+SOBO,SOBO5,Non-dietary,Search1,P119-RT-11.59,Aliphatics,11.6441,8209
+CVIT,CVIT1,Dietary,Search1,P121-RT-11.77,Aliphatics,11.7733,615178
+AHER,AHER2,Non-dietary,Search1,P121-RT-11.77,Aliphatics,11.7313,374311
+BSIM,BSIM1,Dietary,Search1,P121-RT-11.77,Aliphatics,11.7915,101970
+TAME,TAME5,Dietary,Search1,P121-RT-11.77,Aliphatics,11.7655,101902
+SMOM,SMOM5,Dietary,Search1,P121-RT-11.77,Aliphatics,11.7085,91229
+BSIM,BSIM5,Dietary,Search1,P121-RT-11.77,Aliphatics,11.8388,74789
+TAME,TAME3,Dietary,Search1,P121-RT-11.77,Aliphatics,11.7144,48985
+CVIT,CVIT4,Dietary,Search1,P121-RT-11.77,Aliphatics,11.7949,15931
+SMOM,SMOM3,Dietary,Search1,P121-RT-11.77,Aliphatics,11.8343,9944
+SOBO,SOBO3,Non-dietary,Search1,P121-RT-11.77,Aliphatics,11.7992,4237
+GSEP,GSEP3,Non-dietary,Search1,P122-RT-11.74,Aliphatics,11.7303,11268775
+GSEP,GSEP2,Non-dietary,Search1,P122-RT-11.74,Aliphatics,11.7436,9687284
+TAME,TAME2,Dietary,Search1,P122-RT-11.74,Aliphatics,11.7308,35829
+AHER,AHER3,Non-dietary,Search1,P122-RT-11.74,Aliphatics,11.737,33093
+BSIM,BSIM2,Dietary,Search2,P122-RT-11.74,Aliphatics,11.7712,1139
+TAME,TAME5,Dietary,Search1,P124-RT-12.06,Aliphatics,12.223,1038485
+CVIT,CVIT4,Dietary,Search1,P124-RT-12.06,Aliphatics,12.2663,920154
+BSIM,BSIM4,Dietary,Search1,P124-RT-12.06,Aliphatics,12.0465,828353
+TAME,TAME2,Dietary,Search1,P124-RT-12.06,Aliphatics,12.027,478661
+CVIT,CVIT1,Dietary,Search1,P124-RT-12.06,Aliphatics,11.9254,388665
+AHER,AHER4,Non-dietary,Search1,P124-RT-12.06,Aliphatics,12.1994,347568
+TAME,TAME3,Dietary,Search1,P124-RT-12.06,Aliphatics,12.1824,288630
+GSEP,GSEP1,Non-dietary,Search1,P124-RT-12.06,Aliphatics,12.1719,207291
+GSEP,GSEP2,Non-dietary,Search1,P124-RT-12.06,Aliphatics,12.3027,185232
+TAME,TAME4,Dietary,Search1,P124-RT-12.06,Aliphatics,12.0422,173095
+SMOM,SMOM5,Dietary,Search1,P124-RT-12.06,Aliphatics,12.0543,171760
+SMOM,SMOM3,Dietary,Search1,P124-RT-12.06,Aliphatics,11.9798,74040
+SMOM,SMOM4,Dietary,Search1,P124-RT-12.06,Aliphatics,11.9918,66467
+BSIM,BSIM5,Dietary,Search1,P124-RT-12.06,Aliphatics,11.9968,30433
+SMOM,SMOM1,Dietary,Search1,P124-RT-12.06,Aliphatics,12.0401,22798
+AHER,AHER1,Non-dietary,Search1,P124-RT-12.06,Aliphatics,12.0766,22419
+AHER,AHER5,Non-dietary,Search1,P125-RT-12.04,Aliphatics,12.1253,1799723
+BSIM,BSIM4,Dietary,Search1,P125-RT-12.04,Aliphatics,12.0412,1478713
+BSIM,BSIM3,Dietary,Search1,P125-RT-12.04,Aliphatics,12.0867,1377509
+CVIT,CVIT3,Dietary,Search1,P125-RT-12.04,Aliphatics,12.0577,854851
+SOBO,SOBO5,Non-dietary,Search1,P125-RT-12.04,Aliphatics,12.0731,827899
+TAME,TAME4,Dietary,Search1,P125-RT-12.04,Aliphatics,11.9709,759084
+GSEP,GSEP2,Non-dietary,Search1,P125-RT-12.04,Aliphatics,11.9849,741321
+SOBO,SOBO2,Non-dietary,Search1,P125-RT-12.04,Aliphatics,12.1154,617521
+GSEP,GSEP5,Non-dietary,Search1,P125-RT-12.04,Aliphatics,12.1207,532519
+SMOM,SMOM5,Dietary,Search1,P125-RT-12.04,Aliphatics,11.9772,516351
+SOBO,SOBO1,Non-dietary,Search1,P125-RT-12.04,Aliphatics,11.9884,471122
+AHER,AHER2,Non-dietary,Search1,P125-RT-12.04,Aliphatics,12.1858,453112
+BSIM,BSIM2,Dietary,Search1,P125-RT-12.04,Aliphatics,12.0794,420641
+CVIT,CVIT1,Dietary,Search1,P125-RT-12.04,Aliphatics,12.0116,408536
+AHER,AHER1,Non-dietary,Search1,P125-RT-12.04,Aliphatics,11.9509,403802
+SOBO,SOBO3,Non-dietary,Search1,P125-RT-12.04,Aliphatics,12.0341,401886
+SMOM,SMOM1,Dietary,Search1,P125-RT-12.04,Aliphatics,12.0449,389797
+TAME,TAME5,Dietary,Search1,P125-RT-12.04,Aliphatics,12.0415,389136
+BSIM,BSIM5,Dietary,Search1,P125-RT-12.04,Aliphatics,11.9872,374095
+AHER,AHER4,Non-dietary,Search1,P125-RT-12.04,Aliphatics,11.9774,365134
+GSEP,GSEP3,Non-dietary,Search1,P125-RT-12.04,Aliphatics,11.9976,333200
+TAME,TAME1,Dietary,Search1,P125-RT-12.04,Aliphatics,12.0302,300540
+AHER,AHER3,Non-dietary,Search1,P125-RT-12.04,Aliphatics,12.0615,270535
+BSIM,BSIM1,Dietary,Search1,P125-RT-12.04,Aliphatics,12.0155,162333
+CVIT,CVIT5,Dietary,Search1,P125-RT-12.04,Aliphatics,12.0122,99895
+TAME,TAME1,Dietary,Search1,P130-RT-12.65,Terpenoids,12.6784,399722
+SMOM,SMOM1,Dietary,Search1,P130-RT-12.65,Terpenoids,12.6526,359175
+TAME,TAME5,Dietary,Search1,P130-RT-12.65,Terpenoids,12.6145,334957
+CVIT,CVIT3,Dietary,Search2,P130-RT-12.65,Terpenoids,12.6244,7757
+GSEP,GSEP4,Non-dietary,Search2,P130-RT-12.65,Terpenoids,12.692,3308
+GSEP,GSEP1,Non-dietary,Search1,P132-RT-12.88,Unidentified compounds,12.8591,1196414
+SMOM,SMOM4,Dietary,Search1,P132-RT-12.88,Unidentified compounds,12.8316,1062031
+AHER,AHER1,Non-dietary,Search1,P132-RT-12.88,Unidentified compounds,12.861,993754
+SOBO,SOBO3,Non-dietary,Search1,P132-RT-12.88,Unidentified compounds,12.9038,870757
+TAME,TAME4,Dietary,Search1,P132-RT-12.88,Unidentified compounds,12.881,852168
+AHER,AHER4,Non-dietary,Search1,P132-RT-12.88,Unidentified compounds,12.8692,694795
+GSEP,GSEP4,Non-dietary,Search1,P132-RT-12.88,Unidentified compounds,12.8812,691013
+BSIM,BSIM2,Dietary,Search1,P132-RT-12.88,Unidentified compounds,12.9024,541921
+SMOM,SMOM5,Dietary,Search1,P132-RT-12.88,Unidentified compounds,12.9114,269477
+SMOM,SMOM3,Dietary,Search1,P132-RT-12.88,Unidentified compounds,12.8831,195119
+GSEP,GSEP2,Non-dietary,Search1,P132-RT-12.88,Unidentified compounds,12.8757,136503
+SMOM,SMOM1,Dietary,Search1,P132-RT-12.88,Unidentified compounds,12.8688,7286
+SOBO,SOBO2,Non-dietary,Search1,P133-RT-13.10,Aliphatics,13.1281,843758
+BSIM,BSIM3,Dietary,Search1,P133-RT-13.10,Aliphatics,13.0989,396307
+AHER,AHER5,Non-dietary,Search1,P133-RT-13.10,Aliphatics,13.1403,345299
+GSEP,GSEP2,Non-dietary,Search1,P133-RT-13.10,Aliphatics,13.0414,316227
+SOBO,SOBO5,Non-dietary,Search1,P133-RT-13.10,Aliphatics,13.1253,300993
+AHER,AHER4,Non-dietary,Search1,P133-RT-13.10,Aliphatics,13.0667,280762
+AHER,AHER1,Non-dietary,Search1,P133-RT-13.10,Aliphatics,13.0628,269599
+SOBO,SOBO1,Non-dietary,Search1,P133-RT-13.10,Aliphatics,13.0786,241764
+TAME,TAME4,Dietary,Search1,P133-RT-13.10,Aliphatics,13.0688,238895
+SOBO,SOBO3,Non-dietary,Search1,P133-RT-13.10,Aliphatics,13.1012,225950
+GSEP,GSEP5,Non-dietary,Search1,P133-RT-13.10,Aliphatics,13.1199,178733
+CVIT,CVIT3,Dietary,Search2,P133-RT-13.10,Aliphatics,13.12,42375
+CVIT,CVIT5,Dietary,Search2,P133-RT-13.10,Aliphatics,13.086,16843
+TAME,TAME4,Dietary,Search1,P139-RT-13.56,Aliphatics,13.5359,1865341
+TAME,TAME3,Dietary,Search1,P139-RT-13.56,Aliphatics,13.5606,425217
+TAME,TAME2,Dietary,Search1,P139-RT-13.56,Aliphatics,13.5573,299727
+GSEP,GSEP4,Non-dietary,Search1,P139-RT-13.56,Aliphatics,13.539,123917
+GSEP,GSEP2,Non-dietary,Search1,P139-RT-13.56,Aliphatics,13.5397,116058
+AHER,AHER5,Non-dietary,Search1,P139-RT-13.56,Aliphatics,13.6166,60552
+TAME,TAME4,Dietary,Search1,P143-RT-14.01,Unidentified compounds,14.0608,34666983
+CVIT,CVIT4,Dietary,Search1,P143-RT-14.01,Unidentified compounds,14.0075,3417577
+TAME,TAME1,Dietary,Search1,P143-RT-14.01,Unidentified compounds,14.0156,2879293
+GSEP,GSEP4,Non-dietary,Search1,P143-RT-14.01,Unidentified compounds,13.9965,2831063
+AHER,AHER1,Non-dietary,Search1,P143-RT-14.01,Unidentified compounds,14.0104,815153
+BSIM,BSIM5,Dietary,Search1,P143-RT-14.01,Unidentified compounds,14.0009,703641
+CVIT,CVIT1,Dietary,Search1,P143-RT-14.01,Unidentified compounds,14.0245,643931
+CVIT,CVIT5,Dietary,Search1,P143-RT-14.01,Unidentified compounds,14.0082,259047
+TAME,TAME5,Dietary,Search1,P143-RT-14.01,Unidentified compounds,14.0158,233571
+GSEP,GSEP3,Non-dietary,Search1,P143-RT-14.01,Unidentified compounds,14.0051,223688
+AHER,AHER4,Non-dietary,Search2,P143-RT-14.01,Unidentified compounds,14.0336,4614
+BSIM,BSIM3,Dietary,Search1,P146-RT-14.43,Nitrogen-containing compounds,14.4342,1321738
+BSIM,BSIM2,Dietary,Search1,P146-RT-14.43,Nitrogen-containing compounds,14.4259,533904
+AHER,AHER5,Non-dietary,Search1,P146-RT-14.43,Nitrogen-containing compounds,14.4424,386491
+TAME,TAME3,Dietary,Search1,P146-RT-14.43,Nitrogen-containing compounds,14.423,294481
+GSEP,GSEP5,Non-dietary,Search1,P146-RT-14.43,Nitrogen-containing compounds,14.4287,273200
+TAME,TAME5,Dietary,Search1,P146-RT-14.43,Nitrogen-containing compounds,14.427,232135
+TAME,TAME4,Dietary,Search1,P146-RT-14.43,Nitrogen-containing compounds,14.4181,192667
+AHER,AHER3,Non-dietary,Search1,P146-RT-14.43,Nitrogen-containing compounds,14.4418,186126
+GSEP,GSEP3,Non-dietary,Search2,P146-RT-14.43,Nitrogen-containing compounds,14.3975,44519
+SOBO,SOBO2,Non-dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.578,7718763
+SOBO,SOBO5,Non-dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5583,6704787
+TAME,TAME4,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5216,4252986
+SMOM,SMOM5,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.4952,2865671
+AHER,AHER5,Non-dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5599,2772041
+BSIM,BSIM3,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5507,2109300
+TAME,TAME2,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5204,2065787
+GSEP,GSEP3,Non-dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.4967,1701078
+GSEP,GSEP5,Non-dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5327,1558675
+SMOM,SMOM1,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5282,1515551
+BSIM,BSIM4,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5105,1505472
+TAME,TAME3,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5242,1502258
+BSIM,BSIM2,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5304,1426626
+CVIT,CVIT2,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.6514,1416412
+CVIT,CVIT1,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5253,1388960
+CVIT,CVIT4,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.504,1323788
+AHER,AHER2,Non-dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5743,1220674
+TAME,TAME1,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5193,1211177
+TAME,TAME5,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5243,1207346
+BSIM,BSIM5,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.4993,1104562
+SMOM,SMOM3,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5069,931751
+AHER,AHER1,Non-dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5238,914239
+AHER,AHER4,Non-dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5267,888331
+BSIM,BSIM1,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5233,627158
+AHER,AHER3,Non-dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5318,544412
+CVIT,CVIT3,Dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5357,371052
+SOBO,SOBO3,Non-dietary,Search1,P147-RT-14.55,Miscellaneous cyclic compounds,14.5415,351899
+SOBO,SOBO1,Non-dietary,Search1,P149-RT-14.66,Terpenoids,14.5791,36077082
+SOBO,SOBO3,Non-dietary,Search1,P149-RT-14.66,Terpenoids,14.7182,10125388
+TAME,TAME5,Dietary,Search1,P149-RT-14.66,Terpenoids,14.6138,4071196
+SOBO,SOBO5,Non-dietary,Search1,P149-RT-14.66,Terpenoids,14.6363,3336829
+CVIT,CVIT5,Dietary,Search1,P149-RT-14.66,Terpenoids,14.7175,2910862
+CVIT,CVIT3,Dietary,Search1,P149-RT-14.66,Terpenoids,14.5877,2581608
+CVIT,CVIT4,Dietary,Search1,P149-RT-14.66,Terpenoids,14.6167,2573108
+SMOM,SMOM3,Dietary,Search1,P149-RT-14.66,Terpenoids,14.7033,2502194
+CVIT,CVIT1,Dietary,Search1,P149-RT-14.66,Terpenoids,14.6957,1772696
+BSIM,BSIM1,Dietary,Search1,P149-RT-14.66,Terpenoids,14.7015,31163
+AHER,AHER5,Non-dietary,Search2,P149-RT-14.66,Terpenoids,14.6466,20621
+TAME,TAME2,Dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6494,1663630
+SOBO,SOBO2,Non-dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6834,1562315
+SOBO,SOBO5,Non-dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6715,1317278
+CVIT,CVIT2,Dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.7304,1224876
+BSIM,BSIM5,Dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6361,1030697
+TAME,TAME4,Dietary,Search2,P150-RT-14.66,Miscellaneous cyclic compounds,14.6458,982586
+AHER,AHER2,Non-dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6802,819487
+AHER,AHER5,Non-dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6707,732040
+TAME,TAME3,Dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6508,721482
+BSIM,BSIM2,Dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6547,577188
+BSIM,BSIM4,Dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6449,494358
+AHER,AHER3,Non-dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6647,291852
+GSEP,GSEP5,Non-dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.656,275996
+BSIM,BSIM3,Dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6624,238933
+AHER,AHER4,Non-dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6596,232103
+CVIT,CVIT1,Dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6596,196919
+TAME,TAME5,Dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6514,165081
+TAME,TAME1,Dietary,Search2,P150-RT-14.66,Miscellaneous cyclic compounds,14.6469,144547
+SOBO,SOBO1,Non-dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6648,135182
+AHER,AHER1,Non-dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6605,133428
+BSIM,BSIM1,Dietary,Search1,P150-RT-14.66,Miscellaneous cyclic compounds,14.6552,101817
+SOBO,SOBO2,Non-dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8597,6091757
+TAME,TAME4,Dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8312,3551561
+SOBO,SOBO5,Non-dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8516,1536261
+TAME,TAME2,Dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8353,1194900
+SMOM,SMOM5,Dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8149,767227
+SMOM,SMOM1,Dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8359,717787
+AHER,AHER5,Non-dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8594,469350
+TAME,TAME1,Dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8337,425627
+BSIM,BSIM5,Dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8186,283230
+CVIT,CVIT4,Dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8199,183363
+TAME,TAME3,Dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8271,86874
+BSIM,BSIM4,Dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.8322,77315
+CVIT,CVIT2,Dietary,Search1,P153-RT-14.84,Nitrogen-containing compounds,14.897,28337
+AHER,AHER5,Non-dietary,Search1,P154-RT-14.86,Nitrogen-containing compounds,14.8623,1553593
+AHER,AHER4,Non-dietary,Search1,P154-RT-14.86,Nitrogen-containing compounds,14.845,675035
+AHER,AHER1,Non-dietary,Search1,P154-RT-14.86,Nitrogen-containing compounds,14.8469,555990
+AHER,AHER3,Non-dietary,Search1,P154-RT-14.86,Nitrogen-containing compounds,14.8516,473181
+SOBO,SOBO2,Non-dietary,Search1,P154-RT-14.86,Nitrogen-containing compounds,14.8814,392661
+AHER,AHER2,Non-dietary,Search1,P154-RT-14.86,Nitrogen-containing compounds,14.8757,382353
+CVIT,CVIT2,Dietary,Search2,P154-RT-14.86,Nitrogen-containing compounds,14.9393,12110
+SOBO,SOBO2,Non-dietary,Search1,P155-RT-14.93,Nitrogen-containing compounds,14.9454,5728530
+SOBO,SOBO5,Non-dietary,Search1,P155-RT-14.93,Nitrogen-containing compounds,14.9363,1163670
+TAME,TAME4,Dietary,Search1,P155-RT-14.93,Nitrogen-containing compounds,14.9194,798524
+BSIM,BSIM3,Dietary,Search1,P155-RT-14.93,Nitrogen-containing compounds,14.9258,262918
+TAME,TAME2,Dietary,Search2,P155-RT-14.93,Nitrogen-containing compounds,14.9042,107334
+CVIT,CVIT2,Dietary,Search1,P155-RT-14.93,Nitrogen-containing compounds,14.9711,98078
+SMOM,SMOM5,Dietary,Search2,P155-RT-14.93,Nitrogen-containing compounds,14.8973,77841
+TAME,TAME1,Dietary,Search1,P155-RT-14.93,Nitrogen-containing compounds,14.9031,48534
+SMOM,SMOM1,Dietary,Search1,P155-RT-14.93,Nitrogen-containing compounds,14.9124,43238
+TAME,TAME3,Dietary,Search2,P155-RT-14.93,Nitrogen-containing compounds,14.9079,41945
+TAME,TAME5,Dietary,Search2,P155-RT-14.93,Nitrogen-containing compounds,14.9167,3857
+SOBO,SOBO1,Non-dietary,Search1,P158-RT-15.07,Terpenoids,15.1647,208536652
+SOBO,SOBO2,Non-dietary,Search1,P158-RT-15.07,Terpenoids,15.113,51758454
+SOBO,SOBO5,Non-dietary,Search1,P158-RT-15.07,Terpenoids,15.103,30102968
+CVIT,CVIT5,Dietary,Search1,P158-RT-15.07,Terpenoids,15.0521,21567276
+TAME,TAME4,Dietary,Search1,P158-RT-15.07,Terpenoids,15.06,14760497
+CVIT,CVIT3,Dietary,Search1,P158-RT-15.07,Terpenoids,15.0697,6185468
+TAME,TAME1,Dietary,Search1,P158-RT-15.07,Terpenoids,15.061,6000610
+CVIT,CVIT4,Dietary,Search1,P158-RT-15.07,Terpenoids,15.0476,1755277
+TAME,TAME3,Dietary,Search1,P158-RT-15.07,Terpenoids,15.0336,1464306
+CVIT,CVIT1,Dietary,Search1,P158-RT-15.07,Terpenoids,15.0655,198485
+TAME,TAME5,Dietary,Search1,P158-RT-15.07,Terpenoids,15.0511,51285
+CVIT,CVIT4,Dietary,Search1,P159-RT-15.12,Aliphatics,15.157,826870
+SMOM,SMOM4,Dietary,Search1,P159-RT-15.12,Aliphatics,15.0804,811194
+AHER,AHER1,Non-dietary,Search1,P159-RT-15.12,Aliphatics,15.1209,675139
+GSEP,GSEP1,Non-dietary,Search1,P159-RT-15.12,Aliphatics,15.1107,673705
+SOBO,SOBO3,Non-dietary,Search1,P159-RT-15.12,Aliphatics,15.1487,590968
+AHER,AHER4,Non-dietary,Search1,P159-RT-15.12,Aliphatics,15.1166,484362
+SMOM,SMOM1,Dietary,Search1,P159-RT-15.12,Aliphatics,15.118,409694
+TAME,TAME4,Dietary,Search1,P159-RT-15.12,Aliphatics,15.149,128554
+GSEP,GSEP4,Non-dietary,Search1,P159-RT-15.12,Aliphatics,15.1108,59706
+CVIT,CVIT5,Dietary,Search1,P159-RT-15.12,Aliphatics,15.1557,46792
+TAME,TAME5,Dietary,Search1,P159-RT-15.12,Aliphatics,15.1142,41390
+GSEP,GSEP3,Non-dietary,Search2,P159-RT-15.12,Aliphatics,15.1352,6926
+SOBO,SOBO2,Non-dietary,Search1,P160-RT-15.12,Aliphatics,15.124,2220422
+SOBO,SOBO5,Non-dietary,Search1,P160-RT-15.12,Aliphatics,15.1155,908680
+TAME,TAME4,Dietary,Search1,P160-RT-15.12,Aliphatics,15.0942,591854
+AHER,AHER5,Non-dietary,Search1,P160-RT-15.12,Aliphatics,15.1161,240650
+CVIT,CVIT2,Dietary,Search1,P160-RT-15.12,Aliphatics,15.1517,190974
+GSEP,GSEP5,Non-dietary,Search1,P160-RT-15.12,Aliphatics,15.0966,115868
+TAME,TAME2,Dietary,Search1,P160-RT-15.12,Aliphatics,15.0953,115279
+AHER,AHER2,Non-dietary,Search1,P160-RT-15.12,Aliphatics,15.1266,38100
+SMOM,SMOM3,Dietary,Search1,P161-RT-15.23,Terpenoids,15.2817,44078338
+TAME,TAME5,Dietary,Search1,P161-RT-15.23,Terpenoids,15.2148,41185587
+SOBO,SOBO3,Non-dietary,Search1,P161-RT-15.23,Terpenoids,15.2971,33394844
+CVIT,CVIT3,Dietary,Search1,P161-RT-15.23,Terpenoids,15.1968,29832090
+SMOM,SMOM1,Dietary,Search1,P161-RT-15.23,Terpenoids,15.223,19962825
+TAME,TAME1,Dietary,Search1,P161-RT-15.23,Terpenoids,15.2435,9932859
+CVIT,CVIT4,Dietary,Search1,P161-RT-15.23,Terpenoids,15.2051,7598557
+BSIM,BSIM3,Dietary,Search1,P161-RT-15.23,Terpenoids,15.1189,7198857
+SMOM,SMOM5,Dietary,Search1,P161-RT-15.23,Terpenoids,15.2382,6805350
+CVIT,CVIT5,Dietary,Search1,P161-RT-15.23,Terpenoids,15.2476,6606884
+TAME,TAME2,Dietary,Search1,P161-RT-15.23,Terpenoids,15.2225,4751586
+TAME,TAME3,Dietary,Search1,P161-RT-15.23,Terpenoids,15.2012,4531717
+CVIT,CVIT1,Dietary,Search1,P161-RT-15.23,Terpenoids,15.2765,4313265
+SOBO,SOBO5,Non-dietary,Search1,P161-RT-15.23,Terpenoids,15.2176,3484194
+SOBO,SOBO2,Non-dietary,Search2,P161-RT-15.23,Terpenoids,15.1313,3385057
+BSIM,BSIM5,Dietary,Search1,P161-RT-15.23,Terpenoids,15.225,3135166
+TAME,TAME4,Dietary,Search1,P161-RT-15.23,Terpenoids,15.3056,2796120
+GSEP,GSEP2,Non-dietary,Search1,P161-RT-15.23,Terpenoids,15.2386,2544975
+BSIM,BSIM4,Dietary,Search1,P161-RT-15.23,Terpenoids,15.1226,2473923
+BSIM,BSIM1,Dietary,Search1,P161-RT-15.23,Terpenoids,15.2841,2257904
+BSIM,BSIM2,Dietary,Search1,P161-RT-15.23,Terpenoids,15.1531,2026153
+GSEP,GSEP3,Non-dietary,Search1,P161-RT-15.23,Terpenoids,15.2176,212030
+AHER,AHER3,Non-dietary,Search2,P161-RT-15.23,Terpenoids,15.2291,16452
+CVIT,CVIT1,Dietary,Search1,P163-RT-15.42,Aliphatics,15.4257,564995
+SOBO,SOBO2,Non-dietary,Search1,P163-RT-15.42,Aliphatics,15.4428,374630
+TAME,TAME5,Dietary,Search1,P163-RT-15.42,Aliphatics,15.417,372045
+GSEP,GSEP3,Non-dietary,Search1,P163-RT-15.42,Aliphatics,15.4064,322736
+TAME,TAME4,Dietary,Search1,P163-RT-15.42,Aliphatics,15.4158,304953
+AHER,AHER4,Non-dietary,Search1,P163-RT-15.42,Aliphatics,15.3621,164654
+BSIM,BSIM5,Dietary,Search1,P163-RT-15.42,Aliphatics,15.4215,119620
+SOBO,SOBO3,Non-dietary,Search1,P163-RT-15.42,Aliphatics,15.4502,81011
+TAME,TAME1,Dietary,Search1,P163-RT-15.42,Aliphatics,15.4183,38901
+CVIT,CVIT3,Dietary,Search1,P163-RT-15.42,Aliphatics,15.4299,12360
+GSEP,GSEP2,Non-dietary,Search2,P163-RT-15.42,Aliphatics,15.4072,10439
+AHER,AHER3,Non-dietary,Search1,P163-RT-15.42,Aliphatics,15.4154,4464
+BSIM,BSIM1,Dietary,Search2,P163-RT-15.42,Aliphatics,15.4349,230
+SOBO,SOBO5,Non-dietary,Search1,P166-RT-15.63,Benzenoids and Phenylpropanoids,15.6437,869597
+BSIM,BSIM3,Dietary,Search1,P166-RT-15.63,Benzenoids and Phenylpropanoids,15.587,571387
+AHER,AHER1,Non-dietary,Search1,P166-RT-15.63,Benzenoids and Phenylpropanoids,15.6486,492893
+SOBO,SOBO3,Non-dietary,Search1,P166-RT-15.63,Benzenoids and Phenylpropanoids,15.6404,396275
+BSIM,BSIM4,Dietary,Search1,P166-RT-15.63,Benzenoids and Phenylpropanoids,15.6176,158170
+TAME,TAME2,Dietary,Search1,P166-RT-15.63,Benzenoids and Phenylpropanoids,15.6284,108810
+BSIM,BSIM5,Dietary,Search1,P166-RT-15.63,Benzenoids and Phenylpropanoids,15.6146,58413
+SMOM,SMOM4,Dietary,Search1,P166-RT-15.63,Benzenoids and Phenylpropanoids,15.6005,50401
+CVIT,CVIT3,Dietary,Search2,P166-RT-15.63,Benzenoids and Phenylpropanoids,15.6297,2212
+SOBO,SOBO2,Non-dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7828,2807548
+SOBO,SOBO5,Non-dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.78,2013594
+GSEP,GSEP5,Non-dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7674,372850
+TAME,TAME4,Dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7601,363913
+SMOM,SMOM5,Dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7433,293279
+TAME,TAME2,Dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7647,263105
+AHER,AHER5,Non-dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7758,247013
+SOBO,SOBO3,Non-dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7815,188359
+AHER,AHER2,Non-dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7887,181205
+SMOM,SMOM1,Dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7657,154289
+CVIT,CVIT1,Dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7729,129493
+CVIT,CVIT4,Dietary,Search2,P168-RT-15.77,Nitrogen-containing compounds,15.7493,92633
+CVIT,CVIT3,Dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7694,50139
+BSIM,BSIM2,Dietary,Search2,P168-RT-15.77,Nitrogen-containing compounds,15.7699,31793
+BSIM,BSIM4,Dietary,Search1,P168-RT-15.77,Nitrogen-containing compounds,15.7495,30099
+CVIT,CVIT5,Dietary,Search2,P168-RT-15.77,Nitrogen-containing compounds,15.7446,27708
+SOBO,SOBO1,Non-dietary,Search1,P169-RT-16.21,Terpenoids,16.4234,118731087
+SOBO,SOBO5,Non-dietary,Search1,P169-RT-16.21,Terpenoids,16.4094,40772866
+SMOM,SMOM3,Dietary,Search1,P169-RT-16.21,Terpenoids,16.2067,23602905
+TAME,TAME4,Dietary,Search1,P169-RT-16.21,Terpenoids,16.3755,19747885
+SOBO,SOBO2,Non-dietary,Search1,P169-RT-16.21,Terpenoids,16.4073,15433854
+CVIT,CVIT5,Dietary,Search1,P169-RT-16.21,Terpenoids,16.3614,15389393
+SOBO,SOBO3,Non-dietary,Search1,P169-RT-16.21,Terpenoids,16.4055,14888930
+TAME,TAME5,Dietary,Search1,P169-RT-16.21,Terpenoids,16.1572,14657101
+SMOM,SMOM1,Dietary,Search1,P169-RT-16.21,Terpenoids,16.1649,13516610
+TAME,TAME1,Dietary,Search1,P169-RT-16.21,Terpenoids,16.377,7899743
+CVIT,CVIT3,Dietary,Search1,P169-RT-16.21,Terpenoids,16.3853,6446939
+CVIT,CVIT1,Dietary,Search1,P169-RT-16.21,Terpenoids,16.2155,3948466
+SMOM,SMOM4,Dietary,Search1,P169-RT-16.21,Terpenoids,16.2823,3861566
+SMOM,SMOM5,Dietary,Search1,P169-RT-16.21,Terpenoids,16.168,3629752
+BSIM,BSIM1,Dietary,Search1,P169-RT-16.21,Terpenoids,16.2207,2082046
+BSIM,BSIM3,Dietary,Search1,P169-RT-16.21,Terpenoids,16.3791,1762138
+BSIM,BSIM4,Dietary,Search1,P169-RT-16.21,Terpenoids,16.0832,1301286
+TAME,TAME3,Dietary,Search1,P169-RT-16.21,Terpenoids,16.1489,1107396
+BSIM,BSIM5,Dietary,Search1,P169-RT-16.21,Terpenoids,16.359,630188
+GSEP,GSEP2,Non-dietary,Search1,P169-RT-16.21,Terpenoids,16.1714,551463
+CVIT,CVIT4,Dietary,Search1,P169-RT-16.21,Terpenoids,16.1455,495926
+CVIT,CVIT2,Dietary,Search1,P169-RT-16.21,Terpenoids,16.1909,352803
+BSIM,BSIM2,Dietary,Search1,P169-RT-16.21,Terpenoids,16.107,349390
+GSEP,GSEP1,Non-dietary,Search1,P169-RT-16.21,Terpenoids,16.2568,78295
+TAME,TAME2,Dietary,Search1,P169-RT-16.21,Terpenoids,16.1692,24839
+AHER,AHER4,Non-dietary,Search2,P169-RT-16.21,Terpenoids,16.1157,1065
+TAME,TAME2,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.1653,1230419
+TAME,TAME4,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.2152,409113
+AHER,AHER4,Non-dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.1523,321873
+SMOM,SMOM1,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.0522,309546
+SMOM,SMOM5,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.0549,266938
+BSIM,BSIM4,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,15.9845,242196
+SMOM,SMOM3,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.0902,226209
+BSIM,BSIM1,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.0994,205632
+TAME,TAME3,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.0405,201951
+TAME,TAME5,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.0469,171100
+CVIT,CVIT4,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.1961,164530
+BSIM,BSIM5,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.2001,157638
+SMOM,SMOM4,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.1412,112400
+AHER,AHER1,Non-dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.2058,110917
+GSEP,GSEP2,Non-dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.0582,91443
+CVIT,CVIT5,Dietary,Search2,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.2021,90304
+BSIM,BSIM2,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.0088,77949
+BSIM,BSIM3,Dietary,Search1,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.2168,74194
+CVIT,CVIT3,Dietary,Search2,P170-RT-16.11,Benzenoids and Phenylpropanoids,16.0458,16227
+AHER,AHER4,Non-dietary,Search1,P176-RT-16.61,Aliphatics,16.6247,640420
+CVIT,CVIT1,Dietary,Search1,P176-RT-16.61,Aliphatics,16.6175,559418
+AHER,AHER1,Non-dietary,Search1,P176-RT-16.61,Aliphatics,16.6305,517757
+GSEP,GSEP4,Non-dietary,Search1,P176-RT-16.61,Aliphatics,16.5953,412662
+SOBO,SOBO1,Non-dietary,Search1,P176-RT-16.61,Aliphatics,16.6362,350950
+BSIM,BSIM1,Dietary,Search1,P176-RT-16.61,Aliphatics,16.6247,303852
+GSEP,GSEP1,Non-dietary,Search1,P176-RT-16.61,Aliphatics,16.6257,299205
+BSIM,BSIM3,Dietary,Search1,P176-RT-16.61,Aliphatics,16.5867,253700
+TAME,TAME4,Dietary,Search1,P176-RT-16.61,Aliphatics,16.6028,246870
+SMOM,SMOM3,Dietary,Search1,P176-RT-16.61,Aliphatics,16.603,202828
+TAME,TAME1,Dietary,Search1,P176-RT-16.61,Aliphatics,16.6207,198423
+SOBO,SOBO3,Non-dietary,Search1,P176-RT-16.61,Aliphatics,16.6352,77981
+SMOM,SMOM4,Dietary,Search1,P176-RT-16.61,Aliphatics,16.6045,76125
+TAME,TAME2,Dietary,Search1,P176-RT-16.61,Aliphatics,16.6107,72399
+SMOM,SMOM5,Dietary,Search1,P176-RT-16.61,Aliphatics,16.5956,70338
+BSIM,BSIM5,Dietary,Search1,P176-RT-16.61,Aliphatics,16.6008,67996
+SOBO,SOBO2,Non-dietary,Search1,P176-RT-16.61,Aliphatics,16.612,4315
+SOBO,SOBO1,Non-dietary,Search1,P178-RT-16.70,Terpenoids,16.7287,2672914
+SOBO,SOBO3,Non-dietary,Search1,P178-RT-16.70,Terpenoids,16.7287,2129799
+CVIT,CVIT3,Dietary,Search1,P178-RT-16.70,Terpenoids,16.7064,2110605
+SOBO,SOBO2,Non-dietary,Search1,P178-RT-16.70,Terpenoids,16.7247,1761533
+SOBO,SOBO5,Non-dietary,Search1,P178-RT-16.70,Terpenoids,16.7277,1446274
+CVIT,CVIT5,Dietary,Search1,P178-RT-16.70,Terpenoids,16.6807,1294623
+TAME,TAME4,Dietary,Search1,P178-RT-16.70,Terpenoids,16.6957,600746
+TAME,TAME1,Dietary,Search1,P178-RT-16.70,Terpenoids,16.7021,393905
+SMOM,SMOM1,Dietary,Search1,P178-RT-16.70,Terpenoids,16.6667,311579
+CVIT,CVIT4,Dietary,Search1,P178-RT-16.70,Terpenoids,16.6805,273643
+SMOM,SMOM5,Dietary,Search1,P178-RT-16.70,Terpenoids,16.677,153548
+SMOM,SMOM3,Dietary,Search1,P178-RT-16.70,Terpenoids,16.6752,125803
+BSIM,BSIM1,Dietary,Search2,P178-RT-16.70,Terpenoids,16.7321,5500
+SOBO,SOBO5,Non-dietary,Search1,P181-RT-16.81,Miscellaneous cyclic compounds,16.8211,854671
+SOBO,SOBO2,Non-dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.8229,823525
+BSIM,BSIM3,Dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.8014,326772
+SMOM,SMOM5,Dietary,Search1,P181-RT-16.81,Miscellaneous cyclic compounds,16.7926,301298
+TAME,TAME2,Dietary,Search1,P181-RT-16.81,Miscellaneous cyclic compounds,16.8106,265292
+SOBO,SOBO3,Non-dietary,Search1,P181-RT-16.81,Miscellaneous cyclic compounds,16.8293,242802
+AHER,AHER1,Non-dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.8376,174015
+BSIM,BSIM5,Dietary,Search1,P181-RT-16.81,Miscellaneous cyclic compounds,16.7996,162479
+TAME,TAME3,Dietary,Search1,P181-RT-16.81,Miscellaneous cyclic compounds,16.8143,160478
+BSIM,BSIM4,Dietary,Search1,P181-RT-16.81,Miscellaneous cyclic compounds,16.8031,155491
+GSEP,GSEP5,Non-dietary,Search1,P181-RT-16.81,Miscellaneous cyclic compounds,16.8142,143816
+AHER,AHER5,Non-dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.8323,103146
+CVIT,CVIT2,Dietary,Search1,P181-RT-16.81,Miscellaneous cyclic compounds,16.8381,97109
+SMOM,SMOM1,Dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.8338,72042
+TAME,TAME4,Dietary,Search1,P181-RT-16.81,Miscellaneous cyclic compounds,16.8007,67641
+SMOM,SMOM3,Dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.8173,62184
+GSEP,GSEP1,Non-dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.825,54051
+BSIM,BSIM2,Dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.8288,53029
+AHER,AHER3,Non-dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.8422,38145
+AHER,AHER4,Non-dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.8433,34087
+SMOM,SMOM4,Dietary,Search2,P181-RT-16.81,Miscellaneous cyclic compounds,16.8033,30099
+SOBO,SOBO1,Non-dietary,Search1,P182-RT-16.82,Terpenoids,16.8443,14488068
+SOBO,SOBO5,Non-dietary,Search1,P182-RT-16.82,Terpenoids,16.8408,6263893
+SOBO,SOBO2,Non-dietary,Search1,P182-RT-16.82,Terpenoids,16.8393,4931070
+TAME,TAME4,Dietary,Search1,P182-RT-16.82,Terpenoids,16.8113,3226687
+CVIT,CVIT5,Dietary,Search1,P182-RT-16.82,Terpenoids,16.7958,2208165
+TAME,TAME1,Dietary,Search1,P182-RT-16.82,Terpenoids,16.8138,2142390
+SOBO,SOBO3,Non-dietary,Search1,P182-RT-16.82,Terpenoids,16.8399,1963399
+TAME,TAME5,Dietary,Search1,P182-RT-16.82,Terpenoids,16.8125,783472
+CVIT,CVIT3,Dietary,Search1,P182-RT-16.82,Terpenoids,16.8191,543297
+BSIM,BSIM3,Dietary,Search1,P182-RT-16.82,Terpenoids,16.8154,449390
+CVIT,CVIT1,Dietary,Search1,P182-RT-16.82,Terpenoids,16.8217,405709
+CVIT,CVIT4,Dietary,Search1,P182-RT-16.82,Terpenoids,16.7985,331336
+SMOM,SMOM3,Dietary,Search1,P182-RT-16.82,Terpenoids,16.7932,247008
+SMOM,SMOM1,Dietary,Search2,P182-RT-16.82,Terpenoids,16.8155,28757
+GSEP,GSEP3,Non-dietary,Search2,P182-RT-16.82,Terpenoids,16.7956,2633
+CVIT,CVIT1,Dietary,Search1,P184-RT-17.01,Miscellaneous cyclic compounds,17.0066,972629
+SOBO,SOBO5,Non-dietary,Search1,P184-RT-17.01,Miscellaneous cyclic compounds,17.0156,487017
+SOBO,SOBO2,Non-dietary,Search1,P184-RT-17.01,Miscellaneous cyclic compounds,17.0175,441704
+SMOM,SMOM1,Dietary,Search1,P184-RT-17.01,Miscellaneous cyclic compounds,17.0066,162861
+GSEP,GSEP5,Non-dietary,Search1,P184-RT-17.01,Miscellaneous cyclic compounds,17.0006,74100
+TAME,TAME1,Dietary,Search2,P184-RT-17.01,Miscellaneous cyclic compounds,17.0006,32346
+AHER,AHER2,Non-dietary,Search1,P184-RT-17.01,Miscellaneous cyclic compounds,17.0267,21812
+BSIM,BSIM2,Dietary,Search2,P184-RT-17.01,Miscellaneous cyclic compounds,16.9978,17911
+BSIM,BSIM1,Dietary,Search2,P184-RT-17.01,Miscellaneous cyclic compounds,16.9941,902
+TAME,TAME4,Dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.2774,2787914
+TAME,TAME5,Dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.2758,2554456
+TAME,TAME1,Dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.2795,2427605
+TAME,TAME3,Dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.1124,962978
+BSIM,BSIM5,Dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.2634,520943
+SOBO,SOBO2,Non-dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.2611,274907
+GSEP,GSEP2,Non-dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.1859,187298
+BSIM,BSIM3,Dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.2834,118184
+SOBO,SOBO1,Non-dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.3041,56483
+SMOM,SMOM3,Dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.1727,20338
+GSEP,GSEP4,Non-dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.1486,13225
+BSIM,BSIM1,Dietary,Search1,P187-RT-17.20,Miscellaneous cyclic compounds,17.1462,10959
+SOBO,SOBO2,Non-dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.2187,4077342
+SOBO,SOBO5,Non-dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.2174,1325017
+TAME,TAME4,Dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.1994,867007
+BSIM,BSIM3,Dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.2074,534145
+SMOM,SMOM1,Dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.2045,267810
+SMOM,SMOM5,Dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.1759,238624
+AHER,AHER5,Non-dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.2142,150847
+TAME,TAME3,Dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.2063,128900
+SOBO,SOBO3,Non-dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.215,118644
+BSIM,BSIM4,Dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.1937,107631
+AHER,AHER2,Non-dietary,Search2,P188-RT-17.20,Miscellaneous cyclic compounds,17.2227,52420
+CVIT,CVIT2,Dietary,Search2,P188-RT-17.20,Miscellaneous cyclic compounds,17.2252,51343
+TAME,TAME5,Dietary,Search2,P188-RT-17.20,Miscellaneous cyclic compounds,17.204,31641
+GSEP,GSEP3,Non-dietary,Search2,P188-RT-17.20,Miscellaneous cyclic compounds,17.1818,16609
+CVIT,CVIT4,Dietary,Search2,P188-RT-17.20,Miscellaneous cyclic compounds,17.1847,9530
+TAME,TAME2,Dietary,Search1,P188-RT-17.20,Miscellaneous cyclic compounds,17.2021,8362
+CVIT,CVIT5,Dietary,Search2,P188-RT-17.20,Miscellaneous cyclic compounds,17.2764,815
+SOBO,SOBO1,Non-dietary,Search1,P190-RT-17.41,Miscellaneous cyclic compounds,17.4279,321057
+SOBO,SOBO2,Non-dietary,Search1,P190-RT-17.41,Miscellaneous cyclic compounds,17.4258,215961
+TAME,TAME4,Dietary,Search1,P190-RT-17.41,Miscellaneous cyclic compounds,17.3973,182861
+TAME,TAME1,Dietary,Search1,P190-RT-17.41,Miscellaneous cyclic compounds,17.4018,100464
+CVIT,CVIT3,Dietary,Search1,P190-RT-17.41,Miscellaneous cyclic compounds,17.4061,83521
+TAME,TAME5,Dietary,Search1,P190-RT-17.41,Miscellaneous cyclic compounds,17.4005,80595
+CVIT,CVIT1,Dietary,Search1,P190-RT-17.41,Miscellaneous cyclic compounds,17.4058,66628
+SOBO,SOBO3,Non-dietary,Search1,P190-RT-17.41,Miscellaneous cyclic compounds,17.4269,60415
+BSIM,BSIM5,Dietary,Search2,P190-RT-17.41,Miscellaneous cyclic compounds,17.3818,20929
+SMOM,SMOM5,Dietary,Search2,P190-RT-17.41,Miscellaneous cyclic compounds,17.4104,11672
+GSEP,GSEP1,Non-dietary,Search2,P190-RT-17.41,Miscellaneous cyclic compounds,17.3403,5134
+BSIM,BSIM3,Dietary,Search1,P192-RT-17.47,Unidentified compounds,17.4688,464248
+SOBO,SOBO2,Non-dietary,Search1,P192-RT-17.47,Unidentified compounds,17.4865,226042
+BSIM,BSIM2,Dietary,Search1,P192-RT-17.47,Unidentified compounds,17.4697,112321
+SOBO,SOBO5,Non-dietary,Search1,P192-RT-17.47,Unidentified compounds,17.4808,108602
+TAME,TAME4,Dietary,Search1,P192-RT-17.47,Unidentified compounds,17.4638,76906
+TAME,TAME5,Dietary,Search1,P192-RT-17.47,Unidentified compounds,17.4674,61807
+SOBO,SOBO3,Non-dietary,Search1,P192-RT-17.47,Unidentified compounds,17.4832,55279
+GSEP,GSEP3,Non-dietary,Search1,P192-RT-17.47,Unidentified compounds,17.4539,27309
+TAME,TAME2,Dietary,Search1,P192-RT-17.47,Unidentified compounds,17.4712,5657
+SMOM,SMOM3,Dietary,Search2,P192-RT-17.47,Unidentified compounds,17.4404,2810
+BSIM,BSIM5,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5653,1678015
+TAME,TAME4,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5789,1050554
+BSIM,BSIM4,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5505,1041544
+SMOM,SMOM3,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5511,988402
+SMOM,SMOM4,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5516,911547
+SMOM,SMOM5,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5419,761357
+AHER,AHER4,Non-dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5623,742982
+TAME,TAME2,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5512,473040
+TAME,TAME1,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5819,462263
+CVIT,CVIT5,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5658,375853
+CVIT,CVIT1,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5878,343845
+TAME,TAME5,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5421,298928
+TAME,TAME3,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5381,275073
+BSIM,BSIM2,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5762,267753
+AHER,AHER1,Non-dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5859,264150
+AHER,AHER3,Non-dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5872,190115
+AHER,AHER5,Non-dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5642,119250
+CVIT,CVIT4,Dietary,Search1,P194-RT-17.56,Benzenoids and Phenylpropanoids,17.5723,25583
+GSEP,GSEP2,Non-dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.6082,1966904
+CVIT,CVIT1,Dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.7063,366257
+CVIT,CVIT4,Dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.6841,308836
+SOBO,SOBO2,Non-dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.7152,287747
+CVIT,CVIT5,Dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.6818,208770
+TAME,TAME5,Dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.6957,201523
+TAME,TAME3,Dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.6956,171226
+AHER,AHER1,Non-dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.7279,102068
+SOBO,SOBO3,Non-dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.7331,82371
+TAME,TAME2,Dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.6942,76222
+CVIT,CVIT3,Dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.708,71474
+BSIM,BSIM2,Dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.6956,50685
+GSEP,GSEP3,Non-dietary,Search1,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.6055,46501
+SMOM,SMOM1,Dietary,Search2,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.6856,18486
+CVIT,CVIT2,Dietary,Search2,P195-RT-17.69,Benzenoids and Phenylpropanoids,17.7024,11810
+TAME,TAME3,Dietary,Search1,P197-RT-17.79,Terpenoids,17.7885,2020218
+TAME,TAME5,Dietary,Search1,P197-RT-17.79,Terpenoids,17.7915,626305
+TAME,TAME2,Dietary,Search1,P197-RT-17.79,Terpenoids,17.7891,483435
+SMOM,SMOM4,Dietary,Search1,P197-RT-17.79,Terpenoids,17.7693,437621
+TAME,TAME1,Dietary,Search1,P197-RT-17.79,Terpenoids,17.7918,363036
+TAME,TAME4,Dietary,Search1,P197-RT-17.79,Terpenoids,17.7936,225583
+SMOM,SMOM1,Dietary,Search1,P197-RT-17.79,Terpenoids,17.7949,204075
+SMOM,SMOM1,Dietary,Search1,P198-RT-17.81,Aliphatics,17.8151,1449401
+GSEP,GSEP1,Non-dietary,Search1,P198-RT-17.81,Aliphatics,17.8127,973462
+GSEP,GSEP2,Non-dietary,Search1,P198-RT-17.81,Aliphatics,17.8018,414949
+AHER,AHER4,Non-dietary,Search1,P198-RT-17.81,Aliphatics,17.8238,402081
+AHER,AHER5,Non-dietary,Search1,P198-RT-17.81,Aliphatics,17.8204,386826
+BSIM,BSIM3,Dietary,Search1,P198-RT-17.81,Aliphatics,17.8175,373036
+SMOM,SMOM4,Dietary,Search1,P198-RT-17.81,Aliphatics,17.7948,322833
+TAME,TAME4,Dietary,Search1,P198-RT-17.81,Aliphatics,17.8187,239111
+BSIM,BSIM4,Dietary,Search1,P198-RT-17.81,Aliphatics,17.8057,228765
+CVIT,CVIT4,Dietary,Search1,P198-RT-17.81,Aliphatics,17.8054,226589
+GSEP,GSEP5,Non-dietary,Search1,P198-RT-17.81,Aliphatics,17.8062,211074
+GSEP,GSEP3,Non-dietary,Search1,P198-RT-17.81,Aliphatics,17.8025,197090
+AHER,AHER3,Non-dietary,Search1,P198-RT-17.81,Aliphatics,17.8217,157839
+AHER,AHER1,Non-dietary,Search1,P198-RT-17.81,Aliphatics,17.8358,135206
+GSEP,GSEP4,Non-dietary,Search1,P198-RT-17.81,Aliphatics,17.7973,125112
+BSIM,BSIM5,Dietary,Search1,P198-RT-17.81,Aliphatics,17.8056,86384
+CVIT,CVIT2,Dietary,Search1,P198-RT-17.81,Aliphatics,17.8242,76401
+CVIT,CVIT1,Dietary,Search1,P198-RT-17.81,Aliphatics,17.8262,60128
+TAME,TAME5,Dietary,Search1,P198-RT-17.81,Aliphatics,17.8194,46299
+SMOM,SMOM5,Dietary,Search1,P198-RT-17.81,Aliphatics,17.7918,38729
+BSIM,BSIM2,Dietary,Search1,P198-RT-17.81,Aliphatics,17.8155,16291
+SOBO,SOBO5,Non-dietary,Search2,P198-RT-17.81,Aliphatics,17.7615,1052
+SOBO,SOBO2,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0701,23889809
+TAME,TAME4,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0412,14069045
+SOBO,SOBO5,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0577,12165047
+BSIM,BSIM3,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0452,9312330
+SMOM,SMOM5,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0157,8372356
+TAME,TAME2,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0385,7753392
+AHER,AHER5,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0501,5039442
+TAME,TAME1,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0388,4112420
+SOBO,SOBO3,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0524,4023015
+TAME,TAME3,Dietary,Search1,P202-RT-18.04,Aliphatics,18.037,3981598
+BSIM,BSIM2,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0399,3202275
+AHER,AHER2,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0553,3170334
+TAME,TAME5,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0347,3112222
+CVIT,CVIT1,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0443,2758915
+GSEP,GSEP5,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0345,2583528
+SMOM,SMOM3,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0168,2443590
+SOBO,SOBO1,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0491,2154886
+CVIT,CVIT4,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0211,2129018
+AHER,AHER4,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0472,1899108
+BSIM,BSIM5,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0203,1799547
+CVIT,CVIT2,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0563,1766136
+GSEP,GSEP2,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.018,1732299
+SMOM,SMOM4,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0125,1700273
+GSEP,GSEP3,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0211,1379443
+GSEP,GSEP4,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0135,1117784
+AHER,AHER3,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0504,1075493
+AHER,AHER1,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0472,1054665
+BSIM,BSIM1,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0414,893324
+CVIT,CVIT3,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0437,736726
+CVIT,CVIT5,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0184,714481
+SMOM,SMOM1,Dietary,Search1,P202-RT-18.04,Aliphatics,18.041,623173
+BSIM,BSIM4,Dietary,Search1,P202-RT-18.04,Aliphatics,18.0243,525646
+GSEP,GSEP1,Non-dietary,Search1,P202-RT-18.04,Aliphatics,18.0399,167243
+SOBO,SOBO2,Non-dietary,Search1,P203-RT-18.13,Aliphatics,18.137,895472
+SOBO,SOBO5,Non-dietary,Search1,P203-RT-18.13,Aliphatics,18.1525,829036
+BSIM,BSIM3,Dietary,Search1,P203-RT-18.13,Aliphatics,18.116,824997
+CVIT,CVIT4,Dietary,Search1,P203-RT-18.13,Aliphatics,18.1141,813405
+BSIM,BSIM2,Dietary,Search1,P203-RT-18.13,Aliphatics,18.1213,756747
+CVIT,CVIT1,Dietary,Search1,P203-RT-18.13,Aliphatics,18.1305,322267
+CVIT,CVIT5,Dietary,Search1,P203-RT-18.13,Aliphatics,18.1128,269743
+TAME,TAME5,Dietary,Search1,P203-RT-18.13,Aliphatics,18.1194,251989
+CVIT,CVIT3,Dietary,Search1,P203-RT-18.13,Aliphatics,18.1241,247953
+AHER,AHER1,Non-dietary,Search1,P203-RT-18.13,Aliphatics,18.1589,202712
+BSIM,BSIM1,Dietary,Search1,P203-RT-18.13,Aliphatics,18.1213,132446
+GSEP,GSEP4,Non-dietary,Search1,P203-RT-18.13,Aliphatics,18.1069,94477
+AHER,AHER5,Non-dietary,Search1,P203-RT-18.13,Aliphatics,18.1243,75502
+TAME,TAME4,Dietary,Search1,P203-RT-18.13,Aliphatics,18.1206,68330
+SOBO,SOBO3,Non-dietary,Search1,P203-RT-18.13,Aliphatics,18.1574,25846
+GSEP,GSEP2,Non-dietary,Search1,P203-RT-18.13,Aliphatics,18.1052,12297
+GSEP,GSEP1,Non-dietary,Search1,P203-RT-18.13,Aliphatics,18.1208,442
+TAME,TAME4,Dietary,Search1,P205-RT-18.22,Miscellaneous cyclic compounds,18.2198,1118533
+SOBO,SOBO5,Non-dietary,Search1,P205-RT-18.22,Miscellaneous cyclic compounds,18.2358,556803
+BSIM,BSIM4,Dietary,Search1,P205-RT-18.22,Miscellaneous cyclic compounds,18.2111,285673
+TAME,TAME2,Dietary,Search1,P205-RT-18.22,Miscellaneous cyclic compounds,18.2215,254776
+SMOM,SMOM5,Dietary,Search1,P205-RT-18.22,Miscellaneous cyclic compounds,18.2011,165570
+BSIM,BSIM5,Dietary,Search1,P205-RT-18.22,Miscellaneous cyclic compounds,18.2072,147421
+TAME,TAME3,Dietary,Search2,P205-RT-18.22,Miscellaneous cyclic compounds,18.2209,101921
+SOBO,SOBO3,Non-dietary,Search2,P205-RT-18.22,Miscellaneous cyclic compounds,18.2349,67894
+TAME,TAME1,Dietary,Search2,P205-RT-18.22,Miscellaneous cyclic compounds,18.2276,63340
+CVIT,CVIT2,Dietary,Search2,P205-RT-18.22,Miscellaneous cyclic compounds,18.2359,15379
+AHER,AHER2,Non-dietary,Search2,P205-RT-18.22,Miscellaneous cyclic compounds,18.2383,5242
+GSEP,GSEP2,Non-dietary,Search2,P205-RT-18.22,Miscellaneous cyclic compounds,18.2092,3850
+AHER,AHER5,Non-dietary,Search2,P205-RT-18.22,Miscellaneous cyclic compounds,18.1816,891
+BSIM,BSIM1,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4233,4790526
+TAME,TAME2,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4415,3850536
+SOBO,SOBO1,Non-dietary,Search1,P206-RT-18.42,Terpenoids,18.4473,1142336
+BSIM,BSIM2,Dietary,Search1,P206-RT-18.42,Terpenoids,18.442,1096206
+TAME,TAME5,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4319,1014608
+TAME,TAME3,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4366,897457
+TAME,TAME4,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4264,846220
+TAME,TAME1,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4289,675298
+CVIT,CVIT1,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4392,593372
+CVIT,CVIT5,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4109,388289
+BSIM,BSIM5,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4292,338885
+CVIT,CVIT3,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4361,332649
+SOBO,SOBO2,Non-dietary,Search1,P206-RT-18.42,Terpenoids,18.4505,133235
+BSIM,BSIM4,Dietary,Search1,P206-RT-18.42,Terpenoids,18.4269,47855
+SMOM,SMOM1,Dietary,Search1,P206-RT-18.42,Terpenoids,18.3699,22668
+TAME,TAME4,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7317,5217039
+SOBO,SOBO5,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7453,2452107
+TAME,TAME3,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7309,2126257
+SOBO,SOBO2,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.75,2026131
+TAME,TAME2,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7305,1597034
+SMOM,SMOM5,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7091,1505471
+BSIM,BSIM5,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7137,1303732
+BSIM,BSIM3,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7324,1289104
+CVIT,CVIT5,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7349,1006237
+TAME,TAME5,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7315,869941
+BSIM,BSIM4,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7211,804398
+GSEP,GSEP3,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7198,734719
+TAME,TAME1,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7347,664480
+AHER,AHER5,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7493,643204
+CVIT,CVIT4,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7189,573172
+BSIM,BSIM2,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7343,572750
+CVIT,CVIT1,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7421,571104
+SOBO,SOBO3,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.742,560868
+GSEP,GSEP5,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7259,451992
+CVIT,CVIT2,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7445,421496
+AHER,AHER2,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7463,411392
+SMOM,SMOM1,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7329,400761
+SMOM,SMOM4,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7107,377016
+GSEP,GSEP1,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7387,315120
+GSEP,GSEP2,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7206,302951
+GSEP,GSEP4,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7271,297481
+CVIT,CVIT3,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7371,285370
+SOBO,SOBO1,Non-dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7458,232896
+SMOM,SMOM3,Dietary,Search1,P209-RT-18.73,Miscellaneous cyclic compounds,18.7097,212389
+BSIM,BSIM3,Dietary,Search1,P212-RT-18.84,Nitrogen-containing compounds,18.8402,436878
+SOBO,SOBO2,Non-dietary,Search1,P212-RT-18.84,Nitrogen-containing compounds,18.854,353678
+TAME,TAME5,Dietary,Search1,P212-RT-18.84,Nitrogen-containing compounds,18.8379,228949
+TAME,TAME4,Dietary,Search1,P212-RT-18.84,Nitrogen-containing compounds,18.8357,215472
+SOBO,SOBO5,Non-dietary,Search1,P212-RT-18.84,Nitrogen-containing compounds,18.8532,213954
+BSIM,BSIM2,Dietary,Search1,P212-RT-18.84,Nitrogen-containing compounds,18.8392,119859
+GSEP,GSEP5,Non-dietary,Search1,P212-RT-18.84,Nitrogen-containing compounds,18.8309,115349
+AHER,AHER5,Non-dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8427,108173
+TAME,TAME2,Dietary,Search1,P212-RT-18.84,Nitrogen-containing compounds,18.8393,99661
+BSIM,BSIM4,Dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8237,98830
+SOBO,SOBO3,Non-dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8532,91527
+CVIT,CVIT2,Dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8504,86592
+CVIT,CVIT1,Dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8437,66701
+CVIT,CVIT4,Dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8137,63711
+SMOM,SMOM1,Dietary,Search1,P212-RT-18.84,Nitrogen-containing compounds,18.8403,61101
+AHER,AHER2,Non-dietary,Search1,P212-RT-18.84,Nitrogen-containing compounds,18.8537,59742
+TAME,TAME3,Dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8373,58786
+SOBO,SOBO1,Non-dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8455,28961
+SMOM,SMOM5,Dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.817,28569
+BSIM,BSIM1,Dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8412,19499
+GSEP,GSEP3,Non-dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8185,19304
+AHER,AHER4,Non-dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8509,17639
+SMOM,SMOM4,Dietary,Search2,P212-RT-18.84,Nitrogen-containing compounds,18.8118,17585
+BSIM,BSIM3,Dietary,Search1,P213-RT-18.87,Terpenoids,18.8696,8498497
+CVIT,CVIT1,Dietary,Search1,P213-RT-18.87,Terpenoids,18.8774,1037603
+SOBO,SOBO1,Non-dietary,Search1,P213-RT-18.87,Terpenoids,18.8865,885726
+SOBO,SOBO2,Non-dietary,Search1,P213-RT-18.87,Terpenoids,18.8863,399439
+TAME,TAME5,Dietary,Search1,P213-RT-18.87,Terpenoids,18.8639,255407
+TAME,TAME4,Dietary,Search1,P213-RT-18.87,Terpenoids,18.8627,241082
+SOBO,SOBO3,Non-dietary,Search1,P213-RT-18.87,Terpenoids,18.8946,231809
+CVIT,CVIT3,Dietary,Search1,P213-RT-18.87,Terpenoids,18.8714,204816
+TAME,TAME1,Dietary,Search1,P213-RT-18.87,Terpenoids,18.8695,184651
+CVIT,CVIT5,Dietary,Search1,P213-RT-18.87,Terpenoids,18.8471,154667
+SOBO,SOBO5,Non-dietary,Search1,P213-RT-18.87,Terpenoids,18.8936,38619
+GSEP,GSEP5,Non-dietary,Search2,P213-RT-18.87,Terpenoids,18.8516,20161
+SOBO,SOBO2,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9903,3686122
+SOBO,SOBO5,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9914,2628706
+TAME,TAME4,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.971,2222538
+TAME,TAME2,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9741,611383
+SMOM,SMOM5,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9508,535995
+TAME,TAME3,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9716,375640
+BSIM,BSIM2,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.976,328235
+GSEP,GSEP4,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9554,301651
+CVIT,CVIT4,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9534,271685
+CVIT,CVIT1,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9848,271135
+CVIT,CVIT2,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9838,237686
+BSIM,BSIM3,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9751,189511
+SOBO,SOBO3,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9919,179997
+BSIM,BSIM4,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9662,163165
+TAME,TAME1,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.974,161474
+AHER,AHER1,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9905,95306
+SOBO,SOBO1,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.989,93336
+AHER,AHER4,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9905,67896
+AHER,AHER5,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9853,66949
+TAME,TAME5,Dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9717,65560
+CVIT,CVIT3,Dietary,Search2,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9933,23229
+GSEP,GSEP5,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9672,19525
+GSEP,GSEP1,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.977,11072
+SMOM,SMOM1,Dietary,Search2,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9766,8856
+GSEP,GSEP2,Non-dietary,Search1,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9604,3956
+GSEP,GSEP3,Non-dietary,Search2,P215-RT-18.98,Benzenoids and Phenylpropanoids,18.9697,667
+TAME,TAME4,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2575,4227398
+SOBO,SOBO2,Non-dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.3024,2241270
+SMOM,SMOM5,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2455,2126546
+SOBO,SOBO5,Non-dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2779,2074856
+TAME,TAME3,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2659,1666924
+TAME,TAME2,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2688,1644264
+BSIM,BSIM5,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2545,1297724
+SOBO,SOBO1,Non-dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2852,1281927
+BSIM,BSIM4,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2599,1151609
+SOBO,SOBO3,Non-dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2827,905693
+AHER,AHER5,Non-dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2761,834692
+CVIT,CVIT1,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2751,787341
+TAME,TAME1,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.274,709834
+CVIT,CVIT4,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2616,702938
+AHER,AHER1,Non-dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2804,665726
+TAME,TAME5,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2732,638932
+AHER,AHER4,Non-dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2804,587888
+GSEP,GSEP1,Non-dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2789,426494
+GSEP,GSEP5,Non-dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2749,287645
+BSIM,BSIM2,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2755,272278
+SMOM,SMOM4,Dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2645,241658
+CVIT,CVIT5,Dietary,Search2,P218-RT-19.27,Nitrogen-containing compounds,19.2617,167948
+GSEP,GSEP4,Non-dietary,Search1,P218-RT-19.27,Nitrogen-containing compounds,19.2399,54369
+CVIT,CVIT2,Dietary,Search2,P218-RT-19.27,Nitrogen-containing compounds,19.303,10025
+SMOM,SMOM3,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3299,10973693
+SOBO,SOBO1,Non-dietary,Search1,P219-RT-19.35,Aliphatics,19.3699,9422261
+SOBO,SOBO3,Non-dietary,Search1,P219-RT-19.35,Aliphatics,19.3795,6654084
+SOBO,SOBO5,Non-dietary,Search1,P219-RT-19.35,Aliphatics,19.3752,6394027
+SMOM,SMOM1,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3522,4884923
+TAME,TAME5,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3478,4760686
+CVIT,CVIT5,Dietary,Search1,P219-RT-19.35,Aliphatics,19.333,3692277
+TAME,TAME4,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3471,3558230
+CVIT,CVIT3,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3568,3466494
+SOBO,SOBO2,Non-dietary,Search1,P219-RT-19.35,Aliphatics,19.3698,3394384
+TAME,TAME1,Dietary,Search1,P219-RT-19.35,Aliphatics,19.351,3308232
+SMOM,SMOM4,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3261,2817523
+SMOM,SMOM5,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3264,2104072
+CVIT,CVIT4,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3372,1399255
+BSIM,BSIM3,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3507,1113225
+TAME,TAME3,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3477,981512
+BSIM,BSIM1,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3541,964620
+TAME,TAME2,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3473,912291
+BSIM,BSIM5,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3335,723350
+GSEP,GSEP2,Non-dietary,Search1,P219-RT-19.35,Aliphatics,19.3298,476424
+CVIT,CVIT1,Dietary,Search1,P219-RT-19.35,Aliphatics,19.357,457487
+BSIM,BSIM4,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3399,419471
+BSIM,BSIM2,Dietary,Search1,P219-RT-19.35,Aliphatics,19.3516,275834
+BSIM,BSIM3,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.604,2689325
+SOBO,SOBO5,Non-dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6203,1350795
+SOBO,SOBO2,Non-dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6192,1337351
+SMOM,SMOM5,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.5817,771208
+TAME,TAME3,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.5938,594777
+CVIT,CVIT2,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6083,327724
+CVIT,CVIT1,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6146,259679
+TAME,TAME4,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6023,200175
+CVIT,CVIT4,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.5885,147060
+AHER,AHER1,Non-dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6184,113866
+TAME,TAME2,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6044,110286
+SOBO,SOBO3,Non-dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6256,101731
+TAME,TAME1,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.5952,87908
+BSIM,BSIM2,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6058,56740
+GSEP,GSEP2,Non-dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.5768,25729
+BSIM,BSIM4,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.5965,17136
+TAME,TAME5,Dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.5944,12718
+GSEP,GSEP5,Non-dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.5937,7778
+AHER,AHER4,Non-dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6117,6029
+SOBO,SOBO1,Non-dietary,Search1,P223-RT-19.60,Benzenoids and Phenylpropanoids,19.6203,4368
+TAME,TAME5,Dietary,Search1,P232-RT-20.03,Terpenoids,20.0282,2328434
+CVIT,CVIT1,Dietary,Search1,P232-RT-20.03,Terpenoids,20.0451,849455
+TAME,TAME4,Dietary,Search1,P232-RT-20.03,Terpenoids,20.027,757817
+CVIT,CVIT5,Dietary,Search1,P232-RT-20.03,Terpenoids,20.0259,652239
+TAME,TAME3,Dietary,Search1,P232-RT-20.03,Terpenoids,20.0272,549853
+BSIM,BSIM3,Dietary,Search1,P232-RT-20.03,Terpenoids,20.0263,497061
+TAME,TAME1,Dietary,Search1,P232-RT-20.03,Terpenoids,20.0319,495044
+TAME,TAME2,Dietary,Search1,P232-RT-20.03,Terpenoids,20.0297,143464
+SOBO,SOBO2,Non-dietary,Search1,P232-RT-20.03,Terpenoids,20.0574,26723
+SMOM,SMOM1,Dietary,Search1,P232-RT-20.03,Terpenoids,20.0302,16182
+AHER,AHER4,Non-dietary,Search2,P232-RT-20.03,Terpenoids,20.0061,858
+BSIM,BSIM3,Dietary,Search1,P233-RT-20.19,Nitrogen-containing compounds,20.1905,673163
+SOBO,SOBO2,Non-dietary,Search1,P233-RT-20.19,Nitrogen-containing compounds,20.2028,445972
+SOBO,SOBO5,Non-dietary,Search1,P233-RT-20.19,Nitrogen-containing compounds,20.201,162875
+BSIM,BSIM2,Dietary,Search1,P233-RT-20.19,Nitrogen-containing compounds,20.1856,156813
+TAME,TAME5,Dietary,Search1,P233-RT-20.19,Nitrogen-containing compounds,20.1818,132792
+AHER,AHER5,Non-dietary,Search2,P233-RT-20.19,Nitrogen-containing compounds,20.1901,1706
+TAME,TAME5,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3571,4404063
+TAME,TAME1,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3584,1452852
+SOBO,SOBO2,Non-dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.368,1165330
+TAME,TAME4,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3549,984357
+BSIM,BSIM3,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3552,787207
+TAME,TAME2,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3528,742839
+SOBO,SOBO5,Non-dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3719,739413
+SMOM,SMOM5,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.329,148202
+BSIM,BSIM5,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3442,141146
+TAME,TAME3,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3536,131307
+SOBO,SOBO1,Non-dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3672,92497
+CVIT,CVIT1,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3629,75661
+CVIT,CVIT2,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3653,59977
+AHER,AHER1,Non-dietary,Search2,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3716,51022
+BSIM,BSIM4,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3386,46738
+SMOM,SMOM1,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3519,26716
+SOBO,SOBO3,Non-dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3787,24680
+GSEP,GSEP5,Non-dietary,Search2,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3391,20119
+BSIM,BSIM2,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3551,18917
+CVIT,CVIT4,Dietary,Search1,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3354,11961
+AHER,AHER4,Non-dietary,Search2,P235-RT-20.36,Benzenoids and Phenylpropanoids,20.3721,8568
+SOBO,SOBO5,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.671,6727445
+SOBO,SOBO2,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.6641,6348908
+SOBO,SOBO3,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.6753,3575208
+TAME,TAME4,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6482,3443050
+GSEP,GSEP2,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.6367,2599229
+BSIM,BSIM3,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6484,2064772
+BSIM,BSIM2,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6508,1830891
+AHER,AHER2,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.6676,1382168
+GSEP,GSEP1,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.6504,1367788
+GSEP,GSEP3,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.6382,1271973
+TAME,TAME2,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6494,1131576
+GSEP,GSEP5,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.6458,1076432
+BSIM,BSIM4,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6419,929199
+TAME,TAME3,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6474,821982
+AHER,AHER5,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.6557,771526
+TAME,TAME1,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6478,758968
+TAME,TAME5,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6475,734108
+SOBO,SOBO1,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.66,644288
+CVIT,CVIT4,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6291,642873
+AHER,AHER1,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.6768,557755
+GSEP,GSEP4,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.6374,455567
+CVIT,CVIT1,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6528,295580
+AHER,AHER4,Non-dietary,Search1,P239-RT-20.65,Aliphatics,20.661,243586
+CVIT,CVIT3,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6555,79442
+BSIM,BSIM5,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6389,12010
+SMOM,SMOM1,Dietary,Search1,P239-RT-20.65,Aliphatics,20.6523,7890
+SOBO,SOBO2,Non-dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8394,4319274
+SOBO,SOBO5,Non-dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8328,3058901
+TAME,TAME4,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8158,2136541
+BSIM,BSIM3,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8198,1879346
+TAME,TAME2,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.817,925377
+SOBO,SOBO1,Non-dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8386,819183
+SOBO,SOBO3,Non-dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8328,688766
+TAME,TAME3,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8159,660071
+CVIT,CVIT1,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8257,583234
+TAME,TAME1,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8226,536870
+SMOM,SMOM1,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8194,523516
+SMOM,SMOM5,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.7946,449999
+AHER,AHER5,Non-dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8286,424982
+GSEP,GSEP5,Non-dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.812,391050
+BSIM,BSIM4,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8052,369316
+CVIT,CVIT4,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8011,357928
+GSEP,GSEP4,Non-dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.7992,264922
+SMOM,SMOM4,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.7958,251611
+SMOM,SMOM3,Dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.7986,207684
+GSEP,GSEP1,Non-dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.817,201771
+AHER,AHER4,Non-dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8329,182078
+AHER,AHER2,Non-dietary,Search1,P242-RT-20.82,Miscellaneous cyclic compounds,20.8304,141138
+BSIM,BSIM2,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3013,411453
+GSEP,GSEP1,Non-dietary,Search1,P248-RT-21.31,Aliphatics,21.3081,278003
+BSIM,BSIM1,Dietary,Search1,P248-RT-21.31,Aliphatics,21.2971,256102
+CVIT,CVIT4,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3134,157311
+SMOM,SMOM4,Dietary,Search1,P248-RT-21.31,Aliphatics,21.2932,150236
+TAME,TAME5,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3086,126629
+CVIT,CVIT1,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3327,125354
+TAME,TAME4,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3209,117481
+GSEP,GSEP5,Non-dietary,Search1,P248-RT-21.31,Aliphatics,21.3031,104437
+SOBO,SOBO3,Non-dietary,Search1,P248-RT-21.31,Aliphatics,21.3346,98417
+SMOM,SMOM5,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3084,98216
+SMOM,SMOM3,Dietary,Search1,P248-RT-21.31,Aliphatics,21.2946,91764
+CVIT,CVIT3,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3128,74945
+CVIT,CVIT5,Dietary,Search1,P248-RT-21.31,Aliphatics,21.2958,59802
+TAME,TAME3,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3312,58423
+SMOM,SMOM1,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3226,50347
+SOBO,SOBO1,Non-dietary,Search1,P248-RT-21.31,Aliphatics,21.3163,45490
+BSIM,BSIM3,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3105,33425
+CVIT,CVIT2,Dietary,Search1,P248-RT-21.31,Aliphatics,21.3125,11044
+SOBO,SOBO2,Non-dietary,Search2,P251-RT-21.51,Unidentified compounds,21.529,2170175
+TAME,TAME4,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5077,1377085
+SOBO,SOBO5,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5223,1318386
+BSIM,BSIM3,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5108,1313511
+SMOM,SMOM5,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.4881,956247
+GSEP,GSEP5,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5035,759970
+AHER,AHER5,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5162,720906
+TAME,TAME3,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.506,660871
+GSEP,GSEP4,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.4911,655567
+CVIT,CVIT2,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5152,576067
+TAME,TAME2,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.508,558858
+TAME,TAME1,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5117,546778
+TAME,TAME5,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5056,506675
+BSIM,BSIM5,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.4908,424341
+CVIT,CVIT1,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5177,349451
+AHER,AHER3,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5204,344069
+SMOM,SMOM4,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.4901,328410
+SOBO,SOBO1,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5205,328009
+BSIM,BSIM4,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5005,322331
+SMOM,SMOM1,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5129,303129
+GSEP,GSEP1,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5056,302409
+SOBO,SOBO3,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5238,288562
+CVIT,CVIT4,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.4897,242745
+CVIT,CVIT3,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5136,222231
+AHER,AHER2,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5195,207353
+CVIT,CVIT5,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5042,179534
+SMOM,SMOM3,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.493,175963
+BSIM,BSIM1,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5171,165325
+GSEP,GSEP3,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5007,137838
+AHER,AHER4,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5234,137816
+GSEP,GSEP2,Non-dietary,Search1,P251-RT-21.51,Unidentified compounds,21.4962,113867
+BSIM,BSIM2,Dietary,Search1,P251-RT-21.51,Unidentified compounds,21.5103,14772
+CVIT,CVIT4,Dietary,Search1,P258-RT-22.14,Aliphatics,22.1489,1690689
+CVIT,CVIT1,Dietary,Search1,P258-RT-22.14,Aliphatics,22.1542,872514
+BSIM,BSIM2,Dietary,Search1,P258-RT-22.14,Aliphatics,22.1267,734731
+BSIM,BSIM1,Dietary,Search1,P258-RT-22.14,Aliphatics,22.1234,641387
+BSIM,BSIM3,Dietary,Search1,P258-RT-22.14,Aliphatics,22.1373,631114
+CVIT,CVIT3,Dietary,Search1,P258-RT-22.14,Aliphatics,22.1358,604166
+CVIT,CVIT5,Dietary,Search1,P258-RT-22.14,Aliphatics,22.1225,590778
+TAME,TAME5,Dietary,Search1,P258-RT-22.14,Aliphatics,22.1393,406001
+TAME,TAME3,Dietary,Search1,P258-RT-22.14,Aliphatics,22.1546,40724
+SOBO,SOBO2,Non-dietary,Search1,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.311,517488
+SOBO,SOBO5,Non-dietary,Search1,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.313,441567
+TAME,TAME4,Dietary,Search1,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.1886,301676
+BSIM,BSIM3,Dietary,Search1,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.2948,155855
+BSIM,BSIM2,Dietary,Search1,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.2972,83543
+TAME,TAME3,Dietary,Search1,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.2938,76845
+TAME,TAME2,Dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.2929,55354
+SOBO,SOBO1,Non-dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.3131,47134
+TAME,TAME1,Dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.2932,37852
+SOBO,SOBO3,Non-dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.1965,36608
+TAME,TAME5,Dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.2934,33549
+BSIM,BSIM5,Dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.28,32047
+BSIM,BSIM4,Dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.1679,13483
+AHER,AHER5,Non-dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.174,8135
+CVIT,CVIT3,Dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.3082,7910
+SMOM,SMOM5,Dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.2551,5670
+GSEP,GSEP4,Non-dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.2804,5597
+CVIT,CVIT1,Dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.1846,5546
+GSEP,GSEP2,Non-dietary,Search2,P259-RT-22.25,Benzenoids and Phenylpropanoids,22.1544,4050
+SOBO,SOBO2,Non-dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.245,6610760
+SMOM,SMOM5,Dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2046,2200842
+BSIM,BSIM3,Dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2269,1399589
+TAME,TAME4,Dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2228,806870
+CVIT,CVIT2,Dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2351,478715
+CVIT,CVIT4,Dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2144,331791
+TAME,TAME2,Dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2255,313576
+BSIM,BSIM2,Dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2317,183583
+CVIT,CVIT1,Dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2361,173684
+SOBO,SOBO3,Non-dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2475,95087
+AHER,AHER1,Non-dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2471,84560
+SOBO,SOBO1,Non-dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2442,74621
+AHER,AHER2,Non-dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2418,66100
+AHER,AHER5,Non-dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.24,64816
+GSEP,GSEP5,Non-dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2233,60522
+SMOM,SMOM4,Dietary,Search1,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.199,6763
+CVIT,CVIT5,Dietary,Search2,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2025,2300
+BSIM,BSIM1,Dietary,Search2,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.224,2215
+AHER,AHER4,Non-dietary,Search2,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2414,1059
+CVIT,CVIT3,Dietary,Search2,P260-RT-22.23,Benzenoids and Phenylpropanoids,22.2364,719
+SMOM,SMOM1,Dietary,Search1,P261-RT-22.32,Unidentified compounds,22.3252,1011030
+SMOM,SMOM5,Dietary,Search1,P261-RT-22.32,Unidentified compounds,22.2951,836362
+BSIM,BSIM1,Dietary,Search1,P261-RT-22.32,Unidentified compounds,22.3271,735751
+SMOM,SMOM4,Dietary,Search1,P261-RT-22.32,Unidentified compounds,22.2977,566688
+SMOM,SMOM3,Dietary,Search1,P261-RT-22.32,Unidentified compounds,22.303,468993
+TAME,TAME1,Dietary,Search1,P261-RT-22.32,Unidentified compounds,22.324,289188
+SOBO,SOBO1,Non-dietary,Search1,P261-RT-22.32,Unidentified compounds,22.3376,86976
+TAME,TAME4,Dietary,Search2,P261-RT-22.32,Unidentified compounds,22.3182,70788
+SOBO,SOBO3,Non-dietary,Search2,P261-RT-22.32,Unidentified compounds,22.3463,57146
+CVIT,CVIT1,Dietary,Search2,P261-RT-22.32,Unidentified compounds,22.3315,52136
+TAME,TAME5,Dietary,Search2,P261-RT-22.32,Unidentified compounds,22.3242,41094
+CVIT,CVIT2,Dietary,Search2,P261-RT-22.32,Unidentified compounds,22.3285,38217
+BSIM,BSIM4,Dietary,Search2,P261-RT-22.32,Unidentified compounds,22.3158,24016
+BSIM,BSIM2,Dietary,Search2,P261-RT-22.32,Unidentified compounds,22.3217,22922
+SOBO,SOBO2,Non-dietary,Search2,P261-RT-22.32,Unidentified compounds,22.3375,7815
+AHER,AHER4,Non-dietary,Search2,P261-RT-22.32,Unidentified compounds,22.3401,2881
+TAME,TAME4,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3803,4006915
+SOBO,SOBO2,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.4179,2967661
+BSIM,BSIM3,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3815,2954708
+SOBO,SOBO5,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.418,2611298
+BSIM,BSIM2,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3853,2231566
+TAME,TAME3,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3804,2214212
+AHER,AHER1,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.4138,2210474
+SOBO,SOBO3,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.4103,2042562
+GSEP,GSEP2,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.3673,1593885
+TAME,TAME5,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3806,1421290
+TAME,TAME2,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3791,1383320
+TAME,TAME1,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3813,1215131
+BSIM,BSIM4,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3745,1067820
+GSEP,GSEP1,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.3815,995293
+AHER,AHER2,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.4012,923533
+GSEP,GSEP5,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.3794,920886
+CVIT,CVIT1,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3902,905708
+AHER,AHER5,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.3902,878631
+SOBO,SOBO1,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.3911,839255
+CVIT,CVIT3,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3867,745340
+GSEP,GSEP3,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.3713,634994
+BSIM,BSIM1,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3825,443803
+GSEP,GSEP4,Non-dietary,Search1,P262-RT-22.39,Aliphatics,22.3695,411231
+BSIM,BSIM5,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3705,265173
+CVIT,CVIT2,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3897,253008
+CVIT,CVIT4,Dietary,Search1,P262-RT-22.39,Aliphatics,22.379,244767
+CVIT,CVIT5,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3705,142237
+SMOM,SMOM3,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3684,68413
+SMOM,SMOM5,Dietary,Search1,P262-RT-22.39,Aliphatics,22.3645,35373
+SMOM,SMOM1,Dietary,Search1,P262-RT-22.39,Aliphatics,22.383,21503
+SOBO,SOBO2,Non-dietary,Search1,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.5118,993967
+BSIM,BSIM3,Dietary,Search1,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4999,704136
+SOBO,SOBO5,Non-dietary,Search1,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.5157,639152
+TAME,TAME4,Dietary,Search1,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4949,611378
+BSIM,BSIM2,Dietary,Search1,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4999,554147
+TAME,TAME5,Dietary,Search1,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4956,309053
+SOBO,SOBO1,Non-dietary,Search1,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4253,149760
+TAME,TAME3,Dietary,Search1,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4103,73345
+SOBO,SOBO3,Non-dietary,Search1,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4329,67409
+TAME,TAME2,Dietary,Search1,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4104,63596
+GSEP,GSEP3,Non-dietary,Search2,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4041,21044
+BSIM,BSIM5,Dietary,Search2,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.3657,4926
+SMOM,SMOM3,Dietary,Search2,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4898,4443
+CVIT,CVIT2,Dietary,Search2,P263-RT-22.46,Benzenoids and Phenylpropanoids,22.4268,4094
+SOBO,SOBO5,Non-dietary,Search1,P265-RT-22.73,Unidentified compounds,22.601,1116666
+SOBO,SOBO2,Non-dietary,Search1,P265-RT-22.73,Unidentified compounds,22.6688,714188
+TAME,TAME4,Dietary,Search1,P265-RT-22.73,Unidentified compounds,22.6495,273554
+BSIM,BSIM3,Dietary,Search1,P265-RT-22.73,Unidentified compounds,22.6535,169659
+TAME,TAME5,Dietary,Search1,P265-RT-22.73,Unidentified compounds,22.7504,138782
+BSIM,BSIM2,Dietary,Search1,P265-RT-22.73,Unidentified compounds,22.7546,129726
+TAME,TAME3,Dietary,Search1,P265-RT-22.73,Unidentified compounds,22.7483,125811
+SOBO,SOBO1,Non-dietary,Search1,P265-RT-22.73,Unidentified compounds,22.7705,120655
+SOBO,SOBO3,Non-dietary,Search1,P265-RT-22.73,Unidentified compounds,22.7772,102732
+AHER,AHER1,Non-dietary,Search1,P265-RT-22.73,Unidentified compounds,22.7783,96343
+TAME,TAME2,Dietary,Search1,P265-RT-22.73,Unidentified compounds,22.7508,81358
+GSEP,GSEP5,Non-dietary,Search1,P265-RT-22.73,Unidentified compounds,22.7497,48506
+BSIM,BSIM1,Dietary,Search2,P265-RT-22.73,Unidentified compounds,22.76,8290
+AHER,AHER2,Non-dietary,Search2,P265-RT-22.73,Unidentified compounds,22.7753,4416
+GSEP,GSEP3,Non-dietary,Search2,P265-RT-22.73,Unidentified compounds,22.6251,3986
+AHER,AHER3,Non-dietary,Search2,P265-RT-22.73,Unidentified compounds,22.7574,553
+BSIM,BSIM3,Dietary,Search1,P271-RT-23.65,Nitrogen-containing compounds,23.6556,1343097
+BSIM,BSIM2,Dietary,Search1,P271-RT-23.65,Nitrogen-containing compounds,23.6522,990273
+SOBO,SOBO5,Non-dietary,Search1,P271-RT-23.65,Nitrogen-containing compounds,23.6777,333641
+TAME,TAME5,Dietary,Search1,P271-RT-23.65,Nitrogen-containing compounds,23.6504,237983
+TAME,TAME2,Dietary,Search1,P271-RT-23.65,Nitrogen-containing compounds,23.6518,190352
+GSEP,GSEP5,Non-dietary,Search1,P271-RT-23.65,Nitrogen-containing compounds,23.6434,120852
+TAME,TAME4,Dietary,Search1,P271-RT-23.65,Nitrogen-containing compounds,23.6516,44759
+BSIM,BSIM4,Dietary,Search2,P271-RT-23.65,Nitrogen-containing compounds,23.6279,33662
+SMOM,SMOM3,Dietary,Search2,P271-RT-23.65,Nitrogen-containing compounds,23.6373,3051
+SMOM,SMOM5,Dietary,Search2,P271-RT-23.65,Nitrogen-containing compounds,23.6184,1564
+SOBO,SOBO2,Non-dietary,Search1,P272-RT-23.72,Unidentified compounds,23.7383,1489606
+BSIM,BSIM3,Dietary,Search1,P272-RT-23.72,Unidentified compounds,23.7211,742490
+SMOM,SMOM5,Dietary,Search1,P272-RT-23.72,Unidentified compounds,23.693,344092
+CVIT,CVIT2,Dietary,Search1,P272-RT-23.72,Unidentified compounds,23.7293,152173
+TAME,TAME4,Dietary,Search1,P272-RT-23.72,Unidentified compounds,23.7262,105871
+CVIT,CVIT4,Dietary,Search1,P272-RT-23.72,Unidentified compounds,23.7091,99019
+CVIT,CVIT1,Dietary,Search1,P272-RT-23.72,Unidentified compounds,23.7284,46023
+TAME,TAME3,Dietary,Search2,P272-RT-23.72,Unidentified compounds,23.7239,39287
+BSIM,BSIM4,Dietary,Search2,P272-RT-23.72,Unidentified compounds,23.7079,15670
+TAME,TAME2,Dietary,Search2,P272-RT-23.72,Unidentified compounds,23.7283,9594
+SMOM,SMOM1,Dietary,Search2,P272-RT-23.72,Unidentified compounds,23.7236,1733
+AHER,AHER4,Non-dietary,Search2,P272-RT-23.72,Unidentified compounds,23.738,686
+AHER,AHER3,Non-dietary,Search2,P272-RT-23.72,Unidentified compounds,23.746,318
+SOBO,SOBO5,Non-dietary,Search1,P274-RT-24.33,Nitrogen-containing compounds,24.3562,876925
+SOBO,SOBO2,Non-dietary,Search1,P274-RT-24.33,Nitrogen-containing compounds,24.3585,727311
+BSIM,BSIM3,Dietary,Search1,P274-RT-24.33,Nitrogen-containing compounds,24.3303,720939
+BSIM,BSIM2,Dietary,Search1,P274-RT-24.33,Nitrogen-containing compounds,24.3297,676489
+TAME,TAME4,Dietary,Search1,P274-RT-24.33,Nitrogen-containing compounds,24.3194,525024
+TAME,TAME5,Dietary,Search1,P274-RT-24.33,Nitrogen-containing compounds,24.3226,364301
+TAME,TAME3,Dietary,Search1,P274-RT-24.33,Nitrogen-containing compounds,24.3258,270881
+TAME,TAME1,Dietary,Search1,P274-RT-24.33,Nitrogen-containing compounds,24.3301,106752
+AHER,AHER2,Non-dietary,Search2,P274-RT-24.33,Nitrogen-containing compounds,24.3629,28951
+CVIT,CVIT3,Dietary,Search2,P274-RT-24.33,Nitrogen-containing compounds,24.3215,14883
+CVIT,CVIT5,Dietary,Search2,P274-RT-24.33,Nitrogen-containing compounds,24.2919,6524
+CVIT,CVIT4,Dietary,Search1,P280-RT-25.70,Aliphatics,25.653,632659
+CVIT,CVIT1,Dietary,Search1,P280-RT-25.70,Aliphatics,25.668,610801
+SOBO,SOBO2,Non-dietary,Search1,P280-RT-25.70,Aliphatics,25.9678,543580
+GSEP,GSEP4,Non-dietary,Search1,P280-RT-25.70,Aliphatics,25.9651,383278
+CVIT,CVIT5,Dietary,Search1,P280-RT-25.70,Aliphatics,25.554,223521
+BSIM,BSIM1,Dietary,Search1,P280-RT-25.70,Aliphatics,25.539,184458
+TAME,TAME5,Dietary,Search1,P280-RT-25.70,Aliphatics,25.603,153922
+CVIT,CVIT3,Dietary,Search1,P280-RT-25.70,Aliphatics,25.5831,97632
+CVIT,CVIT2,Dietary,Search2,P280-RT-25.70,Aliphatics,25.616,19087
+SOBO,SOBO5,Non-dietary,Search1,P280-RT-25.70,Aliphatics,25.8619,12642
+AHER,AHER1,Non-dietary,Search2,P280-RT-25.70,Aliphatics,25.7325,11136
+TAME,TAME3,Dietary,Search2,P280-RT-25.70,Aliphatics,25.7401,4784
+TAME,TAME4,Dietary,Search2,P280-RT-25.70,Aliphatics,25.7588,3311
+AHER,AHER1,Non-dietary,Search1,P289-RT-32.84,Aliphatics,32.8347,6899937
+TAME,TAME5,Dietary,Search1,P289-RT-32.84,Aliphatics,32.6021,6057218
+CVIT,CVIT1,Dietary,Search1,P289-RT-32.84,Aliphatics,32.6835,5496735
+TAME,TAME3,Dietary,Search1,P289-RT-32.84,Aliphatics,32.5967,2897244
+CVIT,CVIT4,Dietary,Search1,P289-RT-32.84,Aliphatics,32.6806,2682880
+CVIT,CVIT3,Dietary,Search1,P289-RT-32.84,Aliphatics,32.5798,1570568
+CVIT,CVIT5,Dietary,Search1,P289-RT-32.84,Aliphatics,32.5541,1409804
+CVIT,CVIT2,Dietary,Search1,P289-RT-32.84,Aliphatics,32.5578,748921
+TAME,TAME4,Dietary,Search1,P289-RT-32.84,Aliphatics,32.5884,559281
