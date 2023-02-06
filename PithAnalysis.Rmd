@@ -261,7 +261,6 @@ odor_plot <-
 plot(odor_plot)
 
 
-
 ### Testing the effect of diet on sample odor composition 
 # Calculate Bray-Curtis dissimilarity index
 library(vegan)
@@ -270,12 +269,65 @@ odor.mat<- xtabs(logRPA~Sample+Peak, odorRPA)
 odor.vdim<-vegdist(odor.mat, method="bray")
 
 # Analysis of similarity ANOSIM
-anosim(odor.vdim, odor.cla2$Species, permutations=999, distance="bray") #R=0.75, P=0.001
 anosim(odor.vdim, odor.cla2$Diet, permutations=999, distance="bray") #R=0.44, P=0.001
 
 
-### Sample composition
-# I will finish this before the 7th!
+### VOC composition
+# VOC list dataset
+odor.class<-unique(odor[,c(3,5,6)])
+head(odor.class)
+
+odor.class2<- data.frame(odor.class %>%
+                     group_by(Diet, Class) %>%
+                       summarize(Count = n()))
+head(odor.class2)
+
+#percent in each diet cat
+odor.class2.D<- odor.class2[which(odor.class2$Diet=="Dietary"),]
+odor.class2.ND<- odor.class2[which(odor.class2$Diet=="Non-dietary"),]
+
+odor.class2.D<- mutate(odor.class2.D, Percent=round(Count*100/sum(Count), digits=1))
+odor.class2.ND<- mutate(odor.class2.ND, Percent=round(Count*100/sum(Count), digits=1))
+
+odor.class3<- rbind(odor.class2.D, odor.class2.ND)
+odor.class3 
+
+# Barplot chemical classes
+#comp_barplot <- 
+ggplot(odor.class3, aes(x=Percent, y=reorder(Class, -as.numeric(Class)), fill=Class))+
+  geom_bar(stat = "identity") +
+  facet_grid(~Diet) +
+  labs(x = "Proportion in pith volatiles (%)", y="") +
+  guides(fill='none')+
+  theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+                     panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
+
+
+# BSIM VOC composition
+head(odor)
+odor.BSIM<- odor[which(odor$Species=="BSIM"),]
+head(odor.BSIM)
+
+odor.BSIM2<- data.frame(odor.BSIM %>%
+                           group_by(Class) %>%
+                           summarize(Count = n()))
+odor.BSIM2<- mutate(odor.BSIM2, Percent=round(Count*100/sum(Count), digits=1))
+
+odor.BSIM2
+
+
+ggplot(odor.BSIM2, aes(x=Percent, y=reorder(Class, -as.numeric(Class)), fill=Class))+
+  geom_bar(stat = "identity") +
+  labs(x = "Proportion in pith volatiles (%)", y="") +
+  guides(fill='none')+
+  theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+                     panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
+
+
+
+
+
+
 
 
 
