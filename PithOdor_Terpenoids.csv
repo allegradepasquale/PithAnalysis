@@ -1,0 +1,528 @@
+Species,Sample,Diet,Peak,Identity,Class,RT,Area
+A.her,AHER2,Non-dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.9141,838265
+A.her,AHER4,Non-dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.881,586489
+A.her,AHER1,Non-dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8901,509897
+A.her,AHER3,Non-dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8972,117834
+B.sim,BSIM3,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8858,161247009
+B.sim,BSIM2,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8896,18587300
+B.sim,BSIM5,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8633,10605779
+B.sim,BSIM1,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8853,9212235
+B.sim,BSIM4,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.848,8693143
+C.vit,CVIT2,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.9133,9386803
+C.vit,CVIT3,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8905,4256610
+C.vit,CVIT4,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.867,2218903
+C.vit,CVIT5,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8628,548737
+G.sep,GSEP1,Non-dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8843,183374
+G.sep,GSEP3,Non-dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8612,111960
+G.sep,GSEP4,Non-dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8396,75979
+G.sep,GSEP5,Non-dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.9001,20590
+S.mom,SMOM1,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8878,18935985
+S.mom,SMOM5,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8582,6244375
+S.mom,SMOM3,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8612,4923933
+S.mom,SMOM4,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8492,3661991
+T.ame,TAME3,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8843,2285859
+T.ame,TAME2,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8858,1609967
+T.ame,TAME1,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8832,1550764
+T.ame,TAME5,Dietary,P021-RT-4.90,alpha-Pinene,Terpenoids,4.8536,980282
+B.sim,BSIM3,Dietary,P026-RT-5.46,Camphene,Terpenoids,5.4559,1433692
+B.sim,BSIM2,Dietary,P026-RT-5.46,Camphene,Terpenoids,5.4564,155417
+B.sim,BSIM5,Dietary,P026-RT-5.46,Camphene,Terpenoids,5.4397,44245
+C.vit,CVIT2,Dietary,P026-RT-5.46,Camphene,Terpenoids,5.4694,191609
+S.mom,SMOM1,Dietary,P026-RT-5.46,Camphene,Terpenoids,5.457,325065
+S.mom,SMOM5,Dietary,P026-RT-5.46,Camphene,Terpenoids,5.4115,1896
+T.ame,TAME3,Dietary,P026-RT-5.46,Camphene,Terpenoids,5.4588,48359
+T.ame,TAME1,Dietary,P026-RT-5.46,Camphene,Terpenoids,5.4495,23616
+A.her,AHER4,Non-dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9462,478416
+A.her,AHER1,Non-dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9534,310236
+A.her,AHER2,Non-dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9658,234880
+A.her,AHER3,Non-dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9547,110529
+A.her,AHER5,Non-dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9486,97917
+B.sim,BSIM3,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9538,69989710
+B.sim,BSIM2,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9398,9341304
+B.sim,BSIM4,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,6.0947,3651415
+B.sim,BSIM5,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9304,3529616
+B.sim,BSIM1,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9423,2599069
+C.vit,CVIT2,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9596,9623070
+C.vit,CVIT3,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9508,7355597
+C.vit,CVIT5,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9246,2946822
+C.vit,CVIT4,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9278,1331187
+G.sep,GSEP4,Non-dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.912,414425
+G.sep,GSEP1,Non-dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9384,314455
+G.sep,GSEP3,Non-dietary,P031-RT-5.99,beta-Pinene,Terpenoids,6.0896,244793
+G.sep,GSEP5,Non-dietary,P031-RT-5.99,beta-Pinene,Terpenoids,6.1,238474
+G.sep,GSEP2,Non-dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9262,184242
+S.mom,SMOM1,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9457,15226014
+S.mom,SMOM3,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9211,5221031
+S.mom,SMOM5,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9166,1991262
+S.mom,SMOM4,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9167,929055
+T.ame,TAME3,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9427,525764
+T.ame,TAME1,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9407,269393
+T.ame,TAME2,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9379,235222
+T.ame,TAME4,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9358,204556
+T.ame,TAME5,Dietary,P031-RT-5.99,beta-Pinene,Terpenoids,5.9404,82541
+A.her,AHER4,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4229,1131073
+A.her,AHER3,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4324,756782
+A.her,AHER5,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4287,288551
+A.her,AHER2,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4416,232499
+B.sim,BSIM3,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4204,7355217
+B.sim,BSIM2,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4156,6558673
+B.sim,BSIM1,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4181,2654282
+B.sim,BSIM5,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.409,2017032
+B.sim,BSIM4,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4058,1514194
+C.vit,CVIT4,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4069,1577366
+C.vit,CVIT3,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4275,1163615
+C.vit,CVIT2,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.433,449784
+C.vit,CVIT5,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4023,384433
+C.vit,CVIT1,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4229,276096
+G.sep,GSEP1,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4142,418491
+G.sep,GSEP4,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.3872,319120
+G.sep,GSEP5,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4174,87295
+G.sep,GSEP2,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.399,67748
+G.sep,GSEP3,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4079,28927
+S.mom,SMOM1,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4181,3026994
+S.mom,SMOM5,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.3938,2321657
+S.mom,SMOM4,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.394,1998791
+S.mom,SMOM3,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4031,1916173
+S.obo,SOBO1,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4272,615418
+S.obo,SOBO5,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4406,180089
+S.obo,SOBO3,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4368,94776
+S.obo,SOBO2,Non-dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4265,24553
+T.ame,TAME3,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4194,5499640
+T.ame,TAME1,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4165,3172210
+T.ame,TAME4,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4135,2952540
+T.ame,TAME2,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4176,2304029
+T.ame,TAME5,Dietary,P034-RT-6.42,2-Carene,Terpenoids,6.4171,452283
+A.her,AHER2,Non-dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.6043,84761
+A.her,AHER4,Non-dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5866,43084
+B.sim,BSIM3,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.6131,6921858
+B.sim,BSIM4,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5719,932249
+B.sim,BSIM5,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5737,829947
+B.sim,BSIM2,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5774,225423
+C.vit,CVIT1,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5963,34063311
+C.vit,CVIT3,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.599,34005375
+C.vit,CVIT2,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5972,8617272
+C.vit,CVIT4,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5707,5066763
+C.vit,CVIT5,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5665,507237
+G.sep,GSEP4,Non-dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5529,646058
+G.sep,GSEP5,Non-dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5797,606888
+S.mom,SMOM1,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5838,5092361
+S.mom,SMOM4,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5582,590788
+S.mom,SMOM5,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5585,165072
+T.ame,TAME5,Dietary,P038-RT-6.58,beta-Myrcene,Terpenoids,6.5808,69249
+A.her,AHER4,Non-dietary,P040-RT-6.75,Unk. Monoterpene 1,Terpenoids,6.7662,84376
+B.sim,BSIM2,Dietary,P040-RT-6.75,Unk. Monoterpene 1,Terpenoids,6.7604,142108
+C.vit,CVIT4,Dietary,P040-RT-6.75,Unk. Monoterpene 1,Terpenoids,6.7469,126241
+S.mom,SMOM4,Dietary,P040-RT-6.75,Unk. Monoterpene 1,Terpenoids,6.7383,115548
+S.mom,SMOM5,Dietary,P040-RT-6.75,Unk. Monoterpene 1,Terpenoids,6.7395,13472
+T.ame,TAME3,Dietary,P040-RT-6.75,Unk. Monoterpene 1,Terpenoids,6.7628,250668
+T.ame,TAME2,Dietary,P040-RT-6.75,Unk. Monoterpene 1,Terpenoids,6.7619,71624
+T.ame,TAME4,Dietary,P040-RT-6.75,Unk. Monoterpene 1,Terpenoids,6.7568,53019
+T.ame,TAME1,Dietary,P040-RT-6.75,Unk. Monoterpene 1,Terpenoids,6.7603,42734
+B.sim,BSIM3,Dietary,P041-RT-6.78,alpha-Terpinene,Terpenoids,6.8115,210537054
+B.sim,BSIM4,Dietary,P041-RT-6.78,alpha-Terpinene,Terpenoids,6.7693,16992451
+B.sim,BSIM5,Dietary,P041-RT-6.78,alpha-Terpinene,Terpenoids,6.7726,14314518
+B.sim,BSIM1,Dietary,P041-RT-6.78,alpha-Terpinene,Terpenoids,6.7807,748964
+S.mom,SMOM1,Dietary,P041-RT-6.78,alpha-Terpinene,Terpenoids,6.7807,50726
+S.mom,SMOM5,Dietary,P041-RT-6.78,alpha-Terpinene,Terpenoids,6.7559,34134
+A.her,AHER2,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0185,663703
+A.her,AHER4,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0012,660320
+A.her,AHER1,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0113,437413
+A.her,AHER5,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0046,165790
+A.her,AHER3,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0083,88657
+B.sim,BSIM3,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0055,50947308
+B.sim,BSIM5,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9821,3715008
+B.sim,BSIM2,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9896,3610753
+B.sim,BSIM4,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9803,2198165
+B.sim,BSIM1,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.994,1646489
+C.vit,CVIT3,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0006,1551839
+C.vit,CVIT1,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0012,1221511
+C.vit,CVIT2,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0079,990352
+C.vit,CVIT5,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9772,733151
+C.vit,CVIT4,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9809,624289
+G.sep,GSEP5,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9899,777542
+G.sep,GSEP4,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0137,748699
+G.sep,GSEP1,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9911,342723
+G.sep,GSEP3,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9809,200565
+G.sep,GSEP2,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9798,69504
+S.mom,SMOM1,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9984,21346540
+S.mom,SMOM3,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9785,5632840
+S.mom,SMOM5,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9716,5031428
+S.mom,SMOM4,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9732,1382266
+S.obo,SOBO5,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0223,27899634
+S.obo,SOBO2,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0063,8314727
+S.obo,SOBO1,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.005,6235270
+S.obo,SOBO3,Non-dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,7.0146,224456
+T.ame,TAME4,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9908,3634823
+T.ame,TAME1,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9938,1604194
+T.ame,TAME2,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9925,1596344
+T.ame,TAME5,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9906,1026128
+T.ame,TAME3,Dietary,P044-RT-7.00,D-/L-Limonene,Terpenoids,6.9949,767741
+B.sim,BSIM3,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1365,107862124
+B.sim,BSIM4,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.0997,2412370
+B.sim,BSIM5,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1015,1957796
+B.sim,BSIM1,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1149,735034
+B.sim,BSIM2,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.109,304257
+C.vit,CVIT3,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.121,2048757
+C.vit,CVIT5,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.0971,794209
+C.vit,CVIT1,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1207,751692
+C.vit,CVIT2,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1259,144612
+C.vit,CVIT4,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1004,44915
+G.sep,GSEP5,Non-dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1103,178631
+S.mom,SMOM1,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1154,4708302
+S.mom,SMOM5,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.0911,114059
+S.mom,SMOM4,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.0931,42250
+T.ame,TAME4,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1112,29611
+T.ame,TAME5,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1115,28552
+T.ame,TAME1,Dietary,P046-RT-7.11,beta-Phellandrene,Terpenoids,7.1137,21492
+A.her,AHER1,Non-dietary,P053-RT-7.37,Eucalyptol,Terpenoids,7.3556,324736
+G.sep,GSEP2,Non-dietary,P053-RT-7.37,Eucalyptol,Terpenoids,7.3664,5312458
+G.sep,GSEP1,Non-dietary,P053-RT-7.37,Eucalyptol,Terpenoids,7.384,2311621
+G.sep,GSEP3,Non-dietary,P053-RT-7.37,Eucalyptol,Terpenoids,7.3671,200850
+S.obo,SOBO2,Non-dietary,P053-RT-7.37,Eucalyptol,Terpenoids,7.393,78302
+S.obo,SOBO5,Non-dietary,P053-RT-7.37,Eucalyptol,Terpenoids,7.3935,20157
+T.ame,TAME4,Dietary,P053-RT-7.37,Eucalyptol,Terpenoids,7.3799,61389
+T.ame,TAME2,Dietary,P053-RT-7.37,Eucalyptol,Terpenoids,7.3806,46222
+T.ame,TAME1,Dietary,P053-RT-7.37,Eucalyptol,Terpenoids,7.3819,30478
+B.sim,BSIM3,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.553,212060993
+B.sim,BSIM5,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.504,20404478
+B.sim,BSIM4,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.4993,15736351
+B.sim,BSIM1,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5174,4099206
+B.sim,BSIM2,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5067,1444922
+C.vit,CVIT3,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5178,2005936
+C.vit,CVIT5,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.4973,1751521
+C.vit,CVIT1,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5213,1151780
+C.vit,CVIT4,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.554,1103360
+C.vit,CVIT2,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5718,38389
+G.sep,GSEP5,Non-dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5615,8470497
+G.sep,GSEP2,Non-dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5533,464720
+G.sep,GSEP4,Non-dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5357,166338
+S.mom,SMOM1,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5136,1964525
+S.mom,SMOM5,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.4907,274760
+S.obo,SOBO1,Non-dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5265,60273
+T.ame,TAME5,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5102,137893
+T.ame,TAME4,Dietary,P056-RT-7.53,cis-beta-Ocimene,Terpenoids,7.5138,93256
+A.her,AHER2,Non-dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7894,27325
+B.sim,BSIM2,Dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7682,248006
+B.sim,BSIM3,Dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7697,146380
+B.sim,BSIM1,Dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7823,139523
+C.vit,CVIT1,Dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7861,38021
+G.sep,GSEP2,Non-dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7603,1927848
+G.sep,GSEP3,Non-dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.761,700694
+G.sep,GSEP5,Non-dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7652,122340
+S.mom,SMOM1,Dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7756,166222
+S.mom,SMOM5,Dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7551,105148
+T.ame,TAME4,Dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.782,531890
+T.ame,TAME2,Dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7745,119456
+T.ame,TAME1,Dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.7768,118599
+T.ame,TAME3,Dietary,P059-RT-7.77,gamma-Terpinene,Terpenoids,7.774,102450
+A.her,AHER3,Non-dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.85,343571
+A.her,AHER5,Non-dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8386,276683
+A.her,AHER2,Non-dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8481,205362
+A.her,AHER4,Non-dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.9152,11092
+B.sim,BSIM3,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8752,140633439
+B.sim,BSIM5,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8291,36053572
+B.sim,BSIM4,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8186,15155280
+B.sim,BSIM1,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8444,5054036
+B.sim,BSIM2,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8294,4260125
+C.vit,CVIT3,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8385,3456136
+C.vit,CVIT5,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8214,1542100
+C.vit,CVIT2,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8343,508113
+C.vit,CVIT4,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8212,424899
+C.vit,CVIT1,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8459,115953
+G.sep,GSEP2,Non-dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8225,546226
+S.mom,SMOM1,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8367,1757545
+S.mom,SMOM5,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8172,685102
+S.mom,SMOM3,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8299,189640
+S.obo,SOBO2,Non-dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8408,38264
+S.obo,SOBO5,Non-dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8553,31503
+T.ame,TAME4,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8576,470915
+T.ame,TAME5,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8319,286024
+T.ame,TAME2,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8347,144683
+T.ame,TAME1,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8365,137114
+T.ame,TAME3,Dietary,P062-RT-7.84,Unk. Monoterpene 2,Terpenoids,7.8342,68982
+A.her,AHER5,Non-dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9932,29651
+A.her,AHER3,Non-dietary,P065-RT-8.00,Mesitylene,Terpenoids,8.0031,25513
+A.her,AHER2,Non-dietary,P065-RT-8.00,Mesitylene,Terpenoids,8.0003,21749
+B.sim,BSIM2,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9854,954675
+B.sim,BSIM1,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,8.0327,411382
+B.sim,BSIM5,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9846,87932
+B.sim,BSIM3,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9907,45221
+C.vit,CVIT1,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,8.0096,196378
+C.vit,CVIT4,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9782,65974
+C.vit,CVIT2,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9874,52004
+C.vit,CVIT5,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9837,39352
+C.vit,CVIT3,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9964,1518
+G.sep,GSEP1,Non-dietary,P065-RT-8.00,Mesitylene,Terpenoids,8.1309,164444
+G.sep,GSEP4,Non-dietary,P065-RT-8.00,Mesitylene,Terpenoids,8.0225,109532
+G.sep,GSEP2,Non-dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9828,87075
+G.sep,GSEP5,Non-dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9776,45499
+G.sep,GSEP3,Non-dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9801,40696
+S.mom,SMOM3,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,8.0384,321063
+S.mom,SMOM5,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.979,24676
+T.ame,TAME4,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,8.0685,3615125
+T.ame,TAME2,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9936,586440
+T.ame,TAME3,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9931,130033
+T.ame,TAME5,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9893,107524
+T.ame,TAME1,Dietary,P065-RT-8.00,Mesitylene,Terpenoids,7.9973,85291
+A.her,AHER1,Non-dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.2898,165756
+A.her,AHER4,Non-dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.1709,147297
+A.her,AHER5,Non-dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.18,39052
+B.sim,BSIM1,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.2956,72771
+B.sim,BSIM2,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.1751,72213
+B.sim,BSIM3,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.1737,30983
+B.sim,BSIM5,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.2649,10726
+G.sep,GSEP4,Non-dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.3269,90489
+S.mom,SMOM4,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.18,220755
+S.mom,SMOM1,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.1878,142558
+S.mom,SMOM5,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.227,121370
+S.mom,SMOM3,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.3008,54535
+T.ame,TAME4,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.3367,483695
+T.ame,TAME1,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.2145,205235
+T.ame,TAME2,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.2315,112183
+T.ame,TAME5,Dietary,P067-RT-8.23,Unk. Monoterpene 3,Terpenoids,8.181,28078
+B.sim,BSIM3,Dietary,P093-RT-10.00,Unk. Terpene 1,Terpenoids,10.004,5249807
+B.sim,BSIM1,Dietary,P093-RT-10.00,Unk. Terpene 1,Terpenoids,9.9188,12141
+C.vit,CVIT1,Dietary,P093-RT-10.00,Unk. Terpene 1,Terpenoids,9.8982,17154
+G.sep,GSEP5,Non-dietary,P093-RT-10.00,Unk. Terpene 1,Terpenoids,10.0193,229899
+S.mom,SMOM1,Dietary,P093-RT-10.00,Unk. Terpene 1,Terpenoids,10.0046,349265
+T.ame,TAME2,Dietary,P093-RT-10.00,Unk. Terpene 1,Terpenoids,10.019,68232
+T.ame,TAME4,Dietary,P093-RT-10.00,Unk. Terpene 1,Terpenoids,9.9562,64860
+T.ame,TAME3,Dietary,P093-RT-10.00,Unk. Terpene 1,Terpenoids,10.0637,2600
+A.her,AHER5,Non-dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.4028,1920440
+A.her,AHER2,Non-dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.3025,696193
+B.sim,BSIM5,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.3172,1337417
+B.sim,BSIM1,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.4235,1026938
+C.vit,CVIT3,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.1773,32369296
+C.vit,CVIT5,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.3543,5749206
+C.vit,CVIT1,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.3797,1814880
+C.vit,CVIT4,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.2578,1222360
+G.sep,GSEP5,Non-dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.4165,32716694
+S.mom,SMOM1,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.4033,59871
+S.mom,SMOM3,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.4432,38517
+S.obo,SOBO2,Non-dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.3525,32662189
+S.obo,SOBO5,Non-dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.1946,20941465
+S.obo,SOBO3,Non-dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.3777,8226012
+T.ame,TAME4,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.4825,7944702
+T.ame,TAME5,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.2208,6293010
+T.ame,TAME1,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.3131,4802672
+T.ame,TAME3,Dietary,P099-RT-10.34,Unk. C15 sesquiterpene 1,Terpenoids,10.3752,97336
+B.sim,BSIM5,Dietary,P100-RT-10.25,Unk. C15 styrene derivative,Terpenoids,10.2503,9938027
+B.sim,BSIM1,Dietary,P100-RT-10.25,Unk. C15 styrene derivative,Terpenoids,10.3243,425279
+C.vit,CVIT4,Dietary,P100-RT-10.25,Unk. C15 styrene derivative,Terpenoids,10.2149,635696
+C.vit,CVIT1,Dietary,P100-RT-10.25,Unk. C15 styrene derivative,Terpenoids,10.2998,485960
+C.vit,CVIT5,Dietary,P100-RT-10.25,Unk. C15 styrene derivative,Terpenoids,10.2719,207506
+G.sep,GSEP2,Non-dietary,P100-RT-10.25,Unk. C15 styrene derivative,Terpenoids,10.2634,586764
+G.sep,GSEP3,Non-dietary,P100-RT-10.25,Unk. C15 styrene derivative,Terpenoids,10.2399,250883
+S.mom,SMOM1,Dietary,P100-RT-10.25,Unk. C15 styrene derivative,Terpenoids,10.2367,782771
+S.mom,SMOM5,Dietary,P100-RT-10.25,Unk. C15 styrene derivative,Terpenoids,10.2615,235034
+T.ame,TAME3,Dietary,P100-RT-10.25,Unk. C15 styrene derivative,Terpenoids,10.198,36639
+C.vit,CVIT3,Dietary,P102-RT-10.41,Elemene isomer 1,Terpenoids,10.4108,88406766
+C.vit,CVIT4,Dietary,P102-RT-10.41,Elemene isomer 1,Terpenoids,10.3984,8226650
+C.vit,CVIT1,Dietary,P102-RT-10.41,Elemene isomer 1,Terpenoids,10.4043,989840
+C.vit,CVIT5,Dietary,P102-RT-10.41,Elemene isomer 1,Terpenoids,10.3832,614071
+S.obo,SOBO2,Non-dietary,P102-RT-10.41,Elemene isomer 1,Terpenoids,10.4604,7828036
+S.obo,SOBO3,Non-dietary,P102-RT-10.41,Elemene isomer 1,Terpenoids,10.4008,501475
+A.her,AHER5,Non-dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4471,147012
+B.sim,BSIM5,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4746,212375
+B.sim,BSIM3,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4668,193544
+B.sim,BSIM2,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4716,110823
+B.sim,BSIM1,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4914,35610
+C.vit,CVIT4,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4682,652833
+C.vit,CVIT1,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4914,187627
+C.vit,CVIT3,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4816,92276
+C.vit,CVIT5,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4631,77481
+G.sep,GSEP5,Non-dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4334,173603
+G.sep,GSEP2,Non-dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4647,133306
+G.sep,GSEP3,Non-dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4619,64711
+G.sep,GSEP1,Non-dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.489,59627
+S.mom,SMOM1,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4852,204480
+S.mom,SMOM5,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4609,89350
+S.mom,SMOM4,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.461,69274
+S.obo,SOBO5,Non-dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4985,1112646
+S.obo,SOBO3,Non-dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.5014,79892
+T.ame,TAME1,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.5447,362155
+T.ame,TAME3,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4768,318177
+T.ame,TAME2,Dietary,P103-RT-10.49,Elemene isomer 2,Terpenoids,10.4798,246312
+A.her,AHER3,Non-dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.6299,418974
+B.sim,BSIM3,Dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.526,10091019
+B.sim,BSIM2,Dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.6232,4090079
+B.sim,BSIM4,Dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.5783,1642743
+C.vit,CVIT3,Dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.7171,76132854
+C.vit,CVIT5,Dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.556,10543914
+G.sep,GSEP2,Non-dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.7049,3139254
+G.sep,GSEP3,Non-dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.6675,190185
+S.mom,SMOM3,Dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.5925,365175
+S.mom,SMOM4,Dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.6402,32151
+S.obo,SOBO2,Non-dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.5976,373950827
+S.obo,SOBO1,Non-dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.5838,42599935
+T.ame,TAME3,Dietary,P105-RT-10.62,Unk. C15 sesquiterpene 2,Terpenoids,10.5881,156498
+C.vit,CVIT5,Dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.4839,416747
+C.vit,CVIT3,Dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.3383,182366
+C.vit,CVIT2,Dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.3813,94418
+C.vit,CVIT4,Dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.4024,22651
+S.mom,SMOM1,Dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.3235,22806
+S.mom,SMOM5,Dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.4822,12251
+S.obo,SOBO1,Non-dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.4024,7199389
+S.obo,SOBO3,Non-dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.5208,478048
+S.obo,SOBO5,Non-dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.3604,406168
+T.ame,TAME1,Dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.3662,671467
+T.ame,TAME5,Dietary,P116-RT-11.41,Unk. C15 sesquiterpene 3,Terpenoids,11.3716,73360
+A.her,AHER5,Non-dietary,P118-RT-11.52,Unk. C15 sesquiterpene 4,Terpenoids,11.5104,223177
+A.her,AHER4,Non-dietary,P118-RT-11.52,Unk. C15 sesquiterpene 4,Terpenoids,11.5233,187879
+A.her,AHER1,Non-dietary,P118-RT-11.52,Unk. C15 sesquiterpene 4,Terpenoids,11.5252,123346
+B.sim,BSIM1,Dietary,P118-RT-11.52,Unk. C15 sesquiterpene 4,Terpenoids,11.5253,117895
+S.mom,SMOM5,Dietary,P118-RT-11.52,Unk. C15 sesquiterpene 4,Terpenoids,11.499,357310
+S.mom,SMOM4,Dietary,P118-RT-11.52,Unk. C15 sesquiterpene 4,Terpenoids,11.491,345595
+S.mom,SMOM1,Dietary,P118-RT-11.52,Unk. C15 sesquiterpene 4,Terpenoids,11.5248,217135
+S.obo,SOBO2,Non-dietary,P118-RT-11.52,Unk. C15 sesquiterpene 4,Terpenoids,11.5496,903644
+T.ame,TAME4,Dietary,P118-RT-11.52,Unk. C15 sesquiterpene 4,Terpenoids,11.5168,3056039
+T.ame,TAME3,Dietary,P118-RT-11.52,Unk. C15 sesquiterpene 4,Terpenoids,11.5218,284775
+C.vit,CVIT3,Dietary,P130-RT-12.65,alpha-Guaiene,Terpenoids,12.6244,7757
+G.sep,GSEP4,Non-dietary,P130-RT-12.65,alpha-Guaiene,Terpenoids,12.692,3308
+S.mom,SMOM1,Dietary,P130-RT-12.65,alpha-Guaiene,Terpenoids,12.6526,359175
+T.ame,TAME1,Dietary,P130-RT-12.65,alpha-Guaiene,Terpenoids,12.6784,399722
+T.ame,TAME5,Dietary,P130-RT-12.65,alpha-Guaiene,Terpenoids,12.6145,334957
+A.her,AHER5,Non-dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.6466,20621
+B.sim,BSIM1,Dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.7015,31163
+C.vit,CVIT5,Dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.7175,2910862
+C.vit,CVIT3,Dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.5877,2581608
+C.vit,CVIT4,Dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.6167,2573108
+C.vit,CVIT1,Dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.6957,1772696
+S.mom,SMOM3,Dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.7033,2502194
+S.obo,SOBO1,Non-dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.5791,36077082
+S.obo,SOBO3,Non-dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.7182,10125388
+S.obo,SOBO5,Non-dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.6363,3336829
+T.ame,TAME5,Dietary,P149-RT-14.66,Unk. sesquiterpene 1,Terpenoids,14.6138,4071196
+C.vit,CVIT5,Dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.0521,21567276
+C.vit,CVIT3,Dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.0697,6185468
+C.vit,CVIT4,Dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.0476,1755277
+C.vit,CVIT1,Dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.0655,198485
+S.obo,SOBO1,Non-dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.1647,208536652
+S.obo,SOBO2,Non-dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.113,51758454
+S.obo,SOBO5,Non-dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.103,30102968
+T.ame,TAME4,Dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.06,14760497
+T.ame,TAME1,Dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.061,6000610
+T.ame,TAME3,Dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.0336,1464306
+T.ame,TAME5,Dietary,P158-RT-15.07,alpha-Cadinene,Terpenoids,15.0511,51285
+A.her,AHER3,Non-dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2291,16452
+B.sim,BSIM3,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.1189,7198857
+B.sim,BSIM5,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.225,3135166
+B.sim,BSIM4,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.1226,2473923
+B.sim,BSIM1,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2841,2257904
+B.sim,BSIM2,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.1531,2026153
+C.vit,CVIT3,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.1968,29832090
+C.vit,CVIT4,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2051,7598557
+C.vit,CVIT5,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2476,6606884
+C.vit,CVIT1,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2765,4313265
+G.sep,GSEP2,Non-dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2386,2544975
+G.sep,GSEP3,Non-dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2176,212030
+S.mom,SMOM3,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2817,44078338
+S.mom,SMOM1,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.223,19962825
+S.mom,SMOM5,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2382,6805350
+S.obo,SOBO3,Non-dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2971,33394844
+S.obo,SOBO5,Non-dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2176,3484194
+S.obo,SOBO2,Non-dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.1313,3385057
+T.ame,TAME5,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2148,41185587
+T.ame,TAME1,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2435,9932859
+T.ame,TAME2,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2225,4751586
+T.ame,TAME3,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.2012,4531717
+T.ame,TAME4,Dietary,P161-RT-15.23,trans-Calamenene,Terpenoids,15.3056,2796120
+A.her,AHER4,Non-dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.1157,1065
+B.sim,BSIM1,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.2207,2082046
+B.sim,BSIM3,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.3791,1762138
+B.sim,BSIM4,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.0832,1301286
+B.sim,BSIM5,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.359,630188
+B.sim,BSIM2,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.107,349390
+C.vit,CVIT5,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.3614,15389393
+C.vit,CVIT3,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.3853,6446939
+C.vit,CVIT1,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.2155,3948466
+C.vit,CVIT4,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.1455,495926
+C.vit,CVIT2,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.1909,352803
+G.sep,GSEP2,Non-dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.1714,551463
+G.sep,GSEP1,Non-dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.2568,78295
+S.mom,SMOM3,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.2067,23602905
+S.mom,SMOM1,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.1649,13516610
+S.mom,SMOM4,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.2823,3861566
+S.mom,SMOM5,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.168,3629752
+S.obo,SOBO1,Non-dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.4234,118731087
+S.obo,SOBO5,Non-dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.4094,40772866
+S.obo,SOBO2,Non-dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.4073,15433854
+S.obo,SOBO3,Non-dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.4055,14888930
+T.ame,TAME4,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.3755,19747885
+T.ame,TAME5,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.1572,14657101
+T.ame,TAME1,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.377,7899743
+T.ame,TAME3,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.1489,1107396
+T.ame,TAME2,Dietary,P169-RT-16.21,alpha-Calacorene,Terpenoids,16.1692,24839
+B.sim,BSIM1,Dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.7321,5500
+C.vit,CVIT3,Dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.7064,2110605
+C.vit,CVIT5,Dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.6807,1294623
+C.vit,CVIT4,Dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.6805,273643
+S.mom,SMOM1,Dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.6667,311579
+S.mom,SMOM5,Dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.677,153548
+S.mom,SMOM3,Dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.6752,125803
+S.obo,SOBO1,Non-dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.7287,2672914
+S.obo,SOBO3,Non-dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.7287,2129799
+S.obo,SOBO2,Non-dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.7247,1761533
+S.obo,SOBO5,Non-dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.7277,1446274
+T.ame,TAME4,Dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.6957,600746
+T.ame,TAME1,Dietary,P178-RT-16.70,Unk. C15 sesquiterpene 5,Terpenoids,16.7021,393905
+B.sim,BSIM3,Dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8154,449390
+C.vit,CVIT5,Dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.7958,2208165
+C.vit,CVIT3,Dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8191,543297
+C.vit,CVIT1,Dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8217,405709
+C.vit,CVIT4,Dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.7985,331336
+G.sep,GSEP3,Non-dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.7956,2633
+S.mom,SMOM3,Dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.7932,247008
+S.mom,SMOM1,Dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8155,28757
+S.obo,SOBO1,Non-dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8443,14488068
+S.obo,SOBO5,Non-dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8408,6263893
+S.obo,SOBO2,Non-dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8393,4931070
+S.obo,SOBO3,Non-dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8399,1963399
+T.ame,TAME4,Dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8113,3226687
+T.ame,TAME1,Dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8138,2142390
+T.ame,TAME5,Dietary,P182-RT-16.82,beta-Calacorene,Terpenoids,16.8125,783472
+S.mom,SMOM4,Dietary,P197-RT-17.79,Caryophyllenyl alcohol,Terpenoids,17.7693,437621
+S.mom,SMOM1,Dietary,P197-RT-17.79,Caryophyllenyl alcohol,Terpenoids,17.7949,204075
+T.ame,TAME3,Dietary,P197-RT-17.79,Caryophyllenyl alcohol,Terpenoids,17.7885,2020218
+T.ame,TAME5,Dietary,P197-RT-17.79,Caryophyllenyl alcohol,Terpenoids,17.7915,626305
+T.ame,TAME2,Dietary,P197-RT-17.79,Caryophyllenyl alcohol,Terpenoids,17.7891,483435
+T.ame,TAME1,Dietary,P197-RT-17.79,Caryophyllenyl alcohol,Terpenoids,17.7918,363036
+T.ame,TAME4,Dietary,P197-RT-17.79,Caryophyllenyl alcohol,Terpenoids,17.7936,225583
+B.sim,BSIM1,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4233,4790526
+B.sim,BSIM2,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.442,1096206
+B.sim,BSIM5,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4292,338885
+B.sim,BSIM4,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4269,47855
+C.vit,CVIT1,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4392,593372
+C.vit,CVIT5,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4109,388289
+C.vit,CVIT3,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4361,332649
+S.mom,SMOM1,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.3699,22668
+S.obo,SOBO1,Non-dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4473,1142336
+S.obo,SOBO2,Non-dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4505,133235
+T.ame,TAME2,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4415,3850536
+T.ame,TAME5,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4319,1014608
+T.ame,TAME3,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4366,897457
+T.ame,TAME4,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4264,846220
+T.ame,TAME1,Dietary,P206-RT-18.42,Unk. sesquiterpene 2,Terpenoids,18.4289,675298
+B.sim,BSIM3,Dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8696,8498497
+C.vit,CVIT1,Dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8774,1037603
+C.vit,CVIT3,Dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8714,204816
+C.vit,CVIT5,Dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8471,154667
+G.sep,GSEP5,Non-dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8516,20161
+S.obo,SOBO1,Non-dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8865,885726
+S.obo,SOBO2,Non-dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8863,399439
+S.obo,SOBO3,Non-dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8946,231809
+S.obo,SOBO5,Non-dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8936,38619
+T.ame,TAME5,Dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8639,255407
+T.ame,TAME4,Dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8627,241082
+T.ame,TAME1,Dietary,P213-RT-18.87,Mintsulfide,Terpenoids,18.8695,184651
+A.her,AHER4,Non-dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.0061,858
+B.sim,BSIM3,Dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.0263,497061
+C.vit,CVIT1,Dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.0451,849455
+C.vit,CVIT5,Dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.0259,652239
+S.mom,SMOM1,Dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.0302,16182
+S.obo,SOBO2,Non-dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.0574,26723
+T.ame,TAME5,Dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.0282,2328434
+T.ame,TAME4,Dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.027,757817
+T.ame,TAME3,Dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.0272,549853
+T.ame,TAME1,Dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.0319,495044
+T.ame,TAME2,Dietary,P232-RT-20.03,Unk. terpene 2,Terpenoids,20.0297,143464
