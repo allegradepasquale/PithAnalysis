@@ -207,11 +207,9 @@ wilcox.test(Percent ~ DietCategory, data = df_nutrition1)
 
 ### Datasets
 # 122 good peaks
-#odor<-read.csv(file.choose(), header=T, na.strings="NA", sep=",")   #PithOdor.csv
-odor <- read.csv("PithOdor.csv")
-head(odor)
+#odor<-read.csv("PithOdor.csv", header=T, na.strings="NA", sep=",")
 odor[,c(1:6)]<- lapply(odor[,c(1:6)], factor)
-str(odor)
+head(odor)
 
 # Calculate log(x+1)-transformed relative peak areas
 odor2<- data.frame(odor %>%
@@ -303,6 +301,30 @@ ggplot(odor.class2, aes(x=Diet, y=Count, fill=Diet)) +
                      panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), legend.position = "bottom",
                      axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank())
 
+
+### Suppl Figure 1: Terpenoids in pith samples
+terp<-read.csv("PithOdor_Terpenoids.csv", header=T, na.strings="NA", sep=",") 
+terp[,c(1:6)]<- lapply(terp[,c(1:6)], factor)
+head(terp)
+
+terp2<- data.frame(terp %>%
+                          group_by(Diet, Species, Identity) %>%
+                          summarize(Count = n()))
+terp2<- mutate(terp2, Percent=round(Count*100/sum(Count), digits=1))
+
+head(terp2)
+Tlevels<-c("A.her","G.sep","S.obo","B.sim","C.vit","S.mom","T.ame")
+
+
+ggplot(terp2, aes(y=Count, x=factor(Species, Tlevels), fill=Diet))+
+  geom_bar(stat = "identity") +
+  scale_fill_brewer(palette="Dark2") +
+  guides(fill='none')+
+  labs(y="Number of compounds") +
+  facet_wrap(Identity~., ncol=4)+
+  theme_classic() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+                     panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),
+                     axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust =1))
 
 
 
