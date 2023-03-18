@@ -211,7 +211,7 @@ wilcox.test(Percent ~ DietCategory, data = df_nutrition1)
 odor[,c(1:6)]<- lapply(odor[,c(1:6)], factor)
 head(odor)
 
-# Calculate log(x+1)-transformed relative peak areas
+# Calculate log(x+1)-transformed relative peak areas (RPA)
 odor2<- data.frame(odor %>%
                     group_by(Sample) %>%
                     summarise(Area=Area,
@@ -225,20 +225,20 @@ odor2<- odor2 %>% arrange(Sample, Area)
 odorRPA<- cbind(odor, odor2[,-(1:2)])
 head(odorRPA)
 
-# Sample list dataset including number of peaks
+# Sample list including number of peaks
 odor.spl<-unique(odorRPA[,c(1:3, 11)])
 odor.spl<-arrange(odor.cla, Sample)
 head(odor.spl)
 
 hist(odor.spl$Npeak)
-shapiro.test(odor.spl$Npeak) # normal distribution
+shapiro.test(odor.spl$Npeak)    # normal distribution: good
 
 
 ### Testing the effect of diet on sample odor richness
 # Model on number of peaks
 Nmod<- glm(Npeak~Diet, data=odor.spl, family=poisson(link="log"))
 
-#Plot residuals
+# Plot residuals
 dev.new()
 par(mfrow = c(2, 2))
 plot(Nmod) # no obvious violation
@@ -246,16 +246,16 @@ plot(Nmod) # no obvious violation
 # Test on model
 summary(Nmod)
 
-# Boxplot (Allegra you will need to make it go together with the rest of the plots)
+# Boxplot (The final version of figure 3 is plotted elsewhere)
 odor_plot <- 
   ggplot(odor.spl, aes(x=Species, y=Npeak, fill=Diet)) + 
   geom_boxplot() + 
   scale_fill_brewer(palette="Dark2") +
   ggtitle("Odor richness")  +
   labs(y = "Number of VOCs") +
-  theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
-                     panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust =1), legend.position = "bottom")
-
+  theme_classic() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+                     panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), 
+                     axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust =1), legend.position = "bottom")
 plot(odor_plot)
 
 
@@ -266,7 +266,7 @@ library(vegan)
 odor.mat<- xtabs(logRPA~Sample+Peak, odorRPA)
 odor.vdim<-vegdist(odor.mat, method="bray")
 
-# Analysis of similarity ANOSIM
+# Analysis of similarity (ANOSIM)
 anosim(odor.vdim, odor.cla2$Diet, permutations=999, distance="bray") #R=0.44, P=0.001
 
 
@@ -281,7 +281,7 @@ odor.class2<- data.frame(odor.class %>%
 head(odor.class2)
 
 
-# Barplot chemical classes - MARCH 2023
+# Barplot chemical classes (MARCH 2023 edit)
 head(odor.class2)
 levels(odor.class2$Class)
 
@@ -291,7 +291,7 @@ levels(Class2)<- c("Aliphatics", "Benzenoids\nand\nPhenylpropanoids", "Miscellan
 odor.class2<- mutate(odor.class2, Class2=Class2)
 head(odor.class2)
 
-
+CompClass<-
 ggplot(odor.class2, aes(x=Diet, y=Count, fill=Diet)) + 
   geom_boxplot() + 
   facet_grid(.~Class2)+
@@ -300,6 +300,7 @@ ggplot(odor.class2, aes(x=Diet, y=Count, fill=Diet)) +
   theme_classic() + theme(panel.border = element_blank(), panel.grid.major = element_blank(), legend.title=element_blank(),
                      panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), legend.position = "bottom",
                      axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank())
+plot(CompClass)
 
 
 ### Suppl Figure 1: Terpenoids in pith samples
@@ -307,15 +308,14 @@ terp<-read.csv("PithOdor_Terpenoids.csv", header=T, na.strings="NA", sep=",")
 terp[,c(1:6)]<- lapply(terp[,c(1:6)], factor)
 head(terp)
 
-terp2<- data.frame(terp %>%
-                          group_by(Diet, Species, Identity) %>%
-                          summarize(Count = n()))
+terp2<- data.frame(terp %>% group_by(Diet, Species, Identity) %>% summarize(Count = n()))
 terp2<- mutate(terp2, Percent=round(Count*100/sum(Count), digits=1))
-
 head(terp2)
+
+# Reorder species names by non-dietary then dietary
 Tlevels<-c("A.her","G.sep","S.obo","B.sim","C.vit","S.mom","T.ame")
 
-
+CompTerp<-
 ggplot(terp2, aes(y=Count, x=factor(Species, Tlevels), fill=Diet))+
   geom_bar(stat = "identity") +
   scale_fill_brewer(palette="Dark2") +
@@ -325,7 +325,7 @@ ggplot(terp2, aes(y=Count, x=factor(Species, Tlevels), fill=Diet))+
   theme_classic() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
                      panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),
                      axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust =1))
-
+plot(CompTerp)
 
 
 
