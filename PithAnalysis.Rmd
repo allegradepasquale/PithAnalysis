@@ -274,54 +274,38 @@ anosim(odor.vdim, odor.cla2$Diet, permutations=999, distance="bray") #R=0.44, P=
 
 ### VOC composition
 # VOC list dataset
-odor.class<-unique(odor[,c(3,5,6)])
+odor.class<-unique(odor[,c(1,2,3,5,6)])
 head(odor.class)
 
 odor.class2<- data.frame(odor.class %>%
-                     group_by(Diet, Class) %>%
+                     group_by(Sample, Species, Diet, Class) %>%
                        summarize(Count = n()))
 head(odor.class2)
 
-#percent in each diet cat
-odor.class2.D<- odor.class2[which(odor.class2$Diet=="Dietary"),]
-odor.class2.ND<- odor.class2[which(odor.class2$Diet=="Non-dietary"),]
 
-odor.class2.D<- mutate(odor.class2.D, Percent=round(Count*100/sum(Count), digits=1))
-odor.class2.ND<- mutate(odor.class2.ND, Percent=round(Count*100/sum(Count), digits=1))
+# Barplot chemical classes - MARCH 2023
+head(odor.class2)
+levels(odor.class2$Class)
 
-odor.class3<- rbind(odor.class2.D, odor.class2.ND)
-odor.class3 
-
-# Barplot chemical classes
-#comp_barplot <- 
-ggplot(odor.class3, aes(x=Percent, y=reorder(Class, -as.numeric(Class)), fill=Class))+
-  geom_bar(stat = "identity") +
-  facet_grid(~Diet) +
-  labs(x = "Proportion in pith volatiles (%)", y="") +
-  guides(fill='none')+
-  theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
-                     panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
+Class2<- odor.class2$Class
+levels(Class2)<- c("Aliphatics", "Benzenoids\nand\nPhenylpropanoids", "Miscellaneous\ncyclic\ncompounds", 
+                   "Nitrogen-\ncontaining\ncompounds", "Terpenoids", "Unidentified\ncompounds")
+odor.class2<- mutate(odor.class2, Class2=Class2)
+head(odor.class2)
 
 
-# BSIM VOC composition
-head(odor)
-odor.BSIM<- odor[which(odor$Species=="BSIM"),]
-head(odor.BSIM)
-
-odor.BSIM2<- data.frame(odor.BSIM %>%
-                           group_by(Class) %>%
-                           summarize(Count = n()))
-odor.BSIM2<- mutate(odor.BSIM2, Percent=round(Count*100/sum(Count), digits=1))
-
-odor.BSIM2
+ggplot(odor.class2, aes(x=Diet, y=Count, fill=Diet)) + 
+  geom_boxplot() + 
+  facet_grid(.~Class2)+
+  scale_fill_brewer(palette="Dark2") +
+  labs(y = "Number of compounds") +
+  theme_classic() + theme(panel.border = element_blank(), panel.grid.major = element_blank(), legend.title=element_blank(),
+                     panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), legend.position = "bottom",
+                     axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank())
 
 
-ggplot(odor.BSIM2, aes(x=Percent, y=reorder(Class, -as.numeric(Class)), fill=Class))+
-  geom_bar(stat = "identity") +
-  labs(x = "Proportion in pith volatiles (%)", y="") +
-  guides(fill='none')+
-  theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
-                     panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
+
+
 
 
 
