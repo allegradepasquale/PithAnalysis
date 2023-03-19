@@ -235,16 +235,7 @@ shapiro.test(odor.spl$Npeak)    # normal distribution: good
 
 
 ### Testing the effect of diet on sample odor richness
-# Model on number of peaks
-Nmod<- glm(Npeak~Diet, data=odor.spl, family=poisson(link="log"))
-
-# Plot residuals
-dev.new()
-par(mfrow = c(2, 2))
-plot(Nmod) # no obvious violation
-
-# Test on model
-summary(Nmod)
+wilcox.test(Npeak~Diet, odor.spl)
 
 # Boxplot (The final version of figure 3 is plotted elsewhere)
 odor_plot <- 
@@ -279,6 +270,10 @@ odor.class2<- data.frame(odor.class %>%
                      group_by(Sample, Species, Diet, Class) %>%
                        summarize(Count = n()))
 head(odor.class2)
+
+# Mean + SE VOCs
+odor.classM<- odor.class2 %>% group_by(Diet, Class) %>%  summarise(mean=mean(Count), se=round(sd(Count)/sqrt(sum(n())), digits=3))
+odor.classM
 
 
 # Barplot chemical classes (MARCH 2023 edit)
