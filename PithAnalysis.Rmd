@@ -4,92 +4,136 @@ author: "Allegra DePasquale"
 date: "3/3/2021"
 output: html_document
 ---
+
+###BEHAVIORAL PITH PATCH VISIT ANALYSIS###
+
 ```{r}
 ###library statements
-library(rsq)
-library(ggplot2)
+library(performance)
+library(sjPlot)
 library(tidyverse)
-library(viridis)
+library(lubridate)
+library(hms)
+library(MASS)
+library(ggeffects)
+require(pscl)
+require(MASS)
+require(boot)
 library(ggpubr)
-library(RColorBrewer)
 
-```
 
-###MODELLING & PLOTTING PITH PATCH VISITS AS A FUNCTION OF FRUIT BIOMASS
-```{r}
-FPV <- read.csv("PithByMonth_WithZeroes.csv")
-biomassData <- read.csv("FruitBiomass.csv")
-#FPV_no0 <- read.csv("PithByMonth.csv")
+#reading in csvs for patch visits, rainfall, and biomass
+new_pith <- read.csv("Patch_Query_DePasquale_Cleaned_Mar_16_2023.csv")
+rain <- read.csv("RainfallData.csv")
+biomass <- read.csv("biomass2018-2022.csv")
 
-#Renaming columns
-FPV <- FPV %>% 
-           rename(Year = YearOfFPV,)
+#Setting contact as a time variable
+new_pith$TimeBegin <- as_hms(new_pith$ContactStart)
+new_pith$TimeEnd <- as_hms(new_pith$ContactEnd)
 
-FPV <- FPV %>% 
-           rename(Month = MonthOfFPV,)
+#Calculating contact duration for each day of observation
+new_pith$ContactDuration <- as.numeric(difftime(new_pith$TimeEnd, new_pith$TimeBegin, units = "hours"))
 
-biomassData <- biomassData %>% 
-           rename(Year = ï..Year,)
+#Setting date as date
+new_pith$Date <- as.Date(new_pith$Date)
 
-#Summarizing data by month and year          
-FPV <- FPV %>% group_by(Month, Year) %>%
-  summarise(Count = sum(CountOfTaxon))
-
-#Joining FPV data with fruit biomass data
-FPV <- FPV %>% left_join(., biomassData, by = c( "Year" = "Year",
-                                                          "Month" = "Month"))
+#Pulling out month and year variables
+new_pith <- new_pith %>% mutate(Month = month(Date),
+                                 Year = year(Date))
 
 #Setting as factor
-FPV$Year <- as.factor(FPV$Year)
-FPV$Month <- as.factor(FPV$Month)
+new_pith$TypeOfPatch <- as.factor(new_pith$TypeOfPatch)
 
-#Storing colors by year
-cols <- c("2018"= "#3e8672", "2019"= "#ffa93a", "2020"="#af3f23", "2021"="#7caaf0")
+#Counting patch visits per month/year
+np1 <- new_pith %>% 
+  group_by(Month, Year, TypeOfPatch) %>%
+  summarise(Count = n())
 
-#plotting yearly pith patch visits by month + fruit biomass
-pith_patch_biomass <- ggplot(FPV, aes(x=Biomass, y=Count)) + 
-  geom_point(aes(fill=Year), pch=21, size =3,colour="black") +
-  geom_smooth(method=lm) +
-  scale_fill_manual(values = cols) +
-  labs(y = "Number of monthly pith patch visits", x = "Monthly Fruit Biomass (kg/ha)") +
-  theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
-panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
+#subsetting to one value of contact per day/month/year
+np2 <- new_pith %>% distinct(Date, Month, Year, ContactDuration)
 
-ggsave("pith_patch_biomass_plot.pdf", plot = pith_patch_biomass)
+#Grouping by month and year and summing contact. Result = total contact time per each month per year
+np2.1 <- np2 %>%
+      group_by(Month, Year) %>%
+      summarise(TotalContact = sum(ContactDuration))
+
+#Spreading Type of patch variable
+np1 <- spread(np1, key=TypeOfPatch, value=Count)
+np1[is.na(np1)] <- 0
+
+#Joining the two dataframes created above. Result = a dataframe with counts of pith and fruit patches per month per year with the total number of hours observed for each month per year
+np3 <- np1 %>% left_join(., np2.1, by = c( "Year" = "Year",
+                                                          "Month" = "Month"))
+
+###Subsetting rainfall to 2018-2022
+
+rain1 <- rain[(rain$Year == "2018") |(rain$Year == "2019")| (rain$Year == "2020")| (rain$Year == "2021") | (rain$Year == "2022") ,]
+
+#Joining rainfall data to patch df
+np3 <- np3 %>% left_join(., rain1, by = c( "Year" = "Year",
+                                                          "Month" = "Month"))
+
+#Joining biomass data to patch df
+np3 <- np3 %>% left_join(., biomass, by = c( "Year" = "Year",
+                                                          "Month" = "Month_num"))
+
+###Negative binomial model of pith patch visit counts as a function of fruit patch visits, biomass, and rainfall, offset by log contact time
 
 
-#Getting regression summary
-FPVmodel <- lm(formula = Count ~ Biomass, data = FPV)
-summary(FPVmodel)
+model1 <- glm.nb(PI ~ FR + kg.ha + TotalRainfall + offset(log(TotalContact)),
+             data = np3)
 
-#Plotting yearly pith patch visits by month + fruit biomass
+#Getting model summary and performing model diagnostics
+summary(model1)
+check_model(model1)
 
-#Making sure variables are specified correctly
-FPV$Month <- as.factor(FPV$Month)
-FPV$Year <- as.factor(FPV$Year)
-biomassData$Month <- as.factor(biomassData$Month)
-biomassData$Year <- as.factor(biomassData$Year)
+#Getting regression line for pith patch visits as a function of biomass
+predict <- ggpredict(model1, terms = "kg.ha")
 
-#Excluding 2021 bc incomplete
-FPV <- FPV[FPV$Year != "2021",]
-biomassData <- biomassData[biomassData$Year != "2021",]
 
-#Plotting yearly pith patch visits by month + fruit biomass
-pith_by_month_biomass <- FPV %>% ggplot(aes(x = Month, group=1)) +
-geom_bar(aes(y=Count*2, col = "Count", fill = "Count"), color = "black", fill = "mediumseagreen", stat = "identity") +
-geom_line(aes(y=Biomass, col = "Biomass"), color = "mediumslateblue", size =1)  +
-facet_grid(rows = vars(Year), switch = "y") +
-scale_y_continuous(sec.axis = sec_axis(~./2, name= "Fruit Biomass"))+
-theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
-panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"), legend.position ="none") 
+#Setting year as a factor
+np3$Year <- as.factor(np3$Year)
 
-#Saving plot
-ggsave(file = "pith_by_month_biomass.pdf", plot = pith_by_month_biomass)
+#Setting color variables for ggplot
+cols <- c("2018"= "#3e8672", "2019"= "#ffa93a", "2020"="#af3f23", "2021"="#7caaf0", "2022" = "darkorchid4")
+
+#Plotting neg bin model
+nb_plot <- ggplot(data=predict, aes(x=x, y=predicted)) + 
+  geom_line(size = 1) +
+  geom_ribbon(aes(ymin=conf.low, ymax=conf.high), linetype=2, alpha=0.1) +
+  geom_point(data=np3, aes(x=kg.ha, y=PI, color=Year), size=2.5) +
+  scale_color_manual(values = cols) +
+  theme_bw() +
+  theme(legend.position="bottom")
+
+ggsave("nb_plot.pdf", nb_plot, height=8, width=10)
+
+
+
+###GAMS TO MODEL SEASONALITY###
+library(mgcv)
+library(mgcViz)
+library(gratia)
+library(tidymv)
+
+#Poisson GAM with a cyclical spline to model month offset by log contact hours
+gam1 <- gam(PI ~ offset(log(TotalContact)) + s(Month, bs = "cc", k = 12), data = np3,  method = "REML",family = poisson(link="log"))
+
+#Model checks and summary
+b <- getViz(gam1)
+check.gamViz(b)
+summary(gam1)
+
+#Plotting GAM
+d <- draw(gam1, residuals = TRUE, resid_col = "forestgreen", smooth_col = "forestgreen") &
+    theme_bw()
+ggsave("gam_plot.pdf", d, height=7, width=8)
+
 
 ```
 
 
-###RELATIVE PITH ANALYSIS###
+###RELATIVE PITH QUANTITY ANALYSIS###
 
 
 ```{r}
@@ -97,7 +141,7 @@ ggsave(file = "pith_by_month_biomass.pdf", plot = pith_by_month_biomass)
 relative <- read.csv("relative_pith.csv")
 
 #Re-leveling factor for plotting
-relative$Species <- factor(relative$Species , levels=c("Ateleia herbert-smithii", "Glircidia sepium", "Lonchocarpus miniflorus", "Luehea speciosa", "Rhedera trinervis", "Stemmadenia obovata", "Tabebuia ochracea", "Bursera simaruba", "Cochlospermum vitifolium", "Mabea occidentalis", "Spondias mombin", "Trichilia americana"))
+relative$Species <- factor(relative$Species , levels=c("Ateleia herbert-smithii", "Gliricidia sepium", "Lonchocarpus miniflorus", "Luehea speciosa", "Rhedera trinervis", "Stemmadenia obovata", "Tabebuia ochracea", "Bursera simaruba", "Cochlospermum vitifolium", "Mabea occidentalis", "Spondias mombin", "Trichilia americana"))
 
 #Plotting relative pith
 relative_pith_plot <- ggplot(relative, aes(x=Species, y = Average.Relative.Pith, fill = DietCategory)) + 
@@ -143,7 +187,7 @@ mechanical$Species <- factor(mechanical$Species , levels=c("AHER", "GSEP", "LMIN
 
 #Changing level names to be full species names
 
-levels(mechanical$Species) <- c("Ateleia herbert-smithii", "Glircidia sepium", "Lonchocarpus miniflorus", "Luehea speciosa", "Rehdera trinervis", "Stemmadenia obovata", "Tabebuia ochracea", "Bursera simaruba", "Cochlospermum vitifolium", "Mabea occidentalis", "Spondias mombin", "Trichilia americana")
+levels(mechanical$Species) <- c("Ateleia herbert-smithii", "Gliricidia sepium", "Lonchocarpus miniflorus", "Luehea speciosa", "Rehdera trinervis", "Stemmadenia obovata", "Tabebuia ochracea", "Bursera simaruba", "Cochlospermum vitifolium", "Mabea occidentalis", "Spondias mombin", "Trichilia americana")
 
 #Plotting hardness boxplots
 mechanical_plot <- ggplot(mechanical, aes(x=Species, y=Hardness, fill=DietCategory)) + 
@@ -201,9 +245,11 @@ compare_means(Percent ~ DietCategory, data = df_nutrition1,
 
 wilcox.test(Percent ~ DietCategory, data = df_nutrition1)
 
+```
 
+###ODOR ANALYSIS###
 
-###CHEMICAL ANALYSIS###
+```{r}
 
 ### Datasets
 # 122 good peaks
@@ -321,24 +367,3 @@ ggplot(terp2, aes(y=Count, x=factor(Species, Tlevels), fill=Diet))+
                      panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),
                      axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust =1))
 plot(CompTerp)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
